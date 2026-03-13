@@ -9,6 +9,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "cb8196ae-b0c9-449c-9066-a31cbfd78c1b",
       "includes": [
         "media",
@@ -44,6 +52,6 @@
   "slug": "phonology",
   "created_at": "2026-03-13T23:05:55.197Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-13T23:17:32.866Z",
+  "updated_at": "2026-03-13T23:18:04.421Z",
   "updated_by": "derrek-powell"
 }
