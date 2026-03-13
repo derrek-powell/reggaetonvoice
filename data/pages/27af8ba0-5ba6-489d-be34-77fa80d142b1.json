@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Reggaetón is a category ",
+  "parent": "127ac0fc-62d2-4806-9d22-8f2a9ddc890a",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "reggaeton-is-a-category",
+  "created_at": "2026-03-13T23:05:16.653Z",
+  "created_by": "derrek-powell",
+  "updated_at": "2026-03-13T23:05:16.653Z",
+  "updated_by": "derrek-powell"
+}
