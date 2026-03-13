@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "A Quick Guide to Linguistic Style",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "a-quick-guide-to-linguistic-style",
+  "created_at": "2026-03-13T23:01:29.718Z",
+  "created_by": "derrek-powell",
+  "updated_at": "2026-03-13T23:01:29.719Z",
+  "updated_by": "derrek-powell"
+}
