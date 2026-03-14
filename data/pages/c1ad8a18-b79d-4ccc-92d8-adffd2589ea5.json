@@ -23,7 +23,37 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Phonology is the branch of linguistics concerned with how humans organize the sounds of their language into an abstract system of phonemes and syllables. "
+          "text": "How humans organize the sounds of their language into an abstract system of phonemes and syllables. ",
+          "textSize": "heading-three"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "Phonology 101 ",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Throughout we use technical linguistics jargon to describe the Reggaetón Voice. Here are the basics you'll need to follow along: "
         }
       ]
     },
@@ -39,7 +69,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Phoneme - an organizing unit indexing a sonic contrast [is there a way to import an interactive activity?] *get examples from 330L book*"
+          "text": "Phoneme",
+          "textSize": "heading-four"
+        },
+        {
+          "text": "an organizing unit indexing a sonic contrast [is there a way to import an interactive activity?] *get examples from 330L book*"
         }
       ]
     },
@@ -63,92 +97,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Syllable - the metric building blocks of utterances "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Studying the phonology of a singing voice involves studying how artists pattern different sounds throughout their performance. A sociophonological study in particular asks questions about whether those patterns co-occur with other social/semiotic phenomena in a meaningful way. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "This page will guide you through some of the phonological features used in reggaetón ",
-          "textSize": "heading-three"
-        }
-      ],
-      "align": "center"
-    },
-    {
-      "type": "paragraph",
-      "align": "center",
-      "children": [
-        {
-          "textSize": "heading-three",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "horizontal-separator",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Alveolar Fricatives in Coda ",
-          "textSize": "heading-two"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Articulation/Orthographic Representation  ",
+          "text": "Allophones",
           "textSize": "heading-four"
         }
       ]
@@ -157,95 +106,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "In phonetics (the study of how linguistic sound is physically produced), sounds are named by first the place of articulation in the mouth, and second by the manner of articulation. So, an "
-        },
-        {
-          "text": "alveolar",
-          "italic": true
-        },
-        {
-          "text": " (place) "
-        },
-        {
-          "text": "fricative",
-          "italic": true
-        },
-        {
-          "text": " (manner) is a sound where the tongue touches the alveolar ridge right behind our upper incisors while producing frication, which happens when a lot of very fast-moving air escapes from around the tongue. In English and Spanish, this sound is represented in writing mostly with an < s > and sometimes a < c > (e.g., la"
-        },
-        {
-          "text": "s",
-          "bold": true,
-          "underline": true
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "c",
-          "bold": true,
-          "underline": true
-        },
-        {
-          "text": "inco "
-        },
-        {
-          "text": "s",
-          "bold": true,
-          "underline": true
-        },
-        {
-          "text": "illa"
-        },
-        {
-          "text": "s",
-          "bold": true,
-          "underline": true
-        },
-        {
-          "text": "). In the International Phonetic Alphabet, this sound is represented with an /s/. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-four",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-four",
-          "text": "S-Reduction "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Brief history (16th-century Seville) "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "[Insert table about Spanish /s/ reduction pathway] (Lipski, 1999) "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "[Insert Dialect map about /s/ reduction] "
+          "text": "the variations of a phoneme "
         }
       ]
     },
@@ -261,8 +122,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Coda /s/ in Puerto Rico ",
+          "text": "Syllable",
           "textSize": "heading-four"
+        },
+        {
+          "text": " the metric building blocks of utterances "
         }
       ]
     },
@@ -270,106 +134,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The Spanish spoken by Puerto Ricans features a significant amount of /s/ reduction. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "[Insert table about Puerto Rican /s/ variation & compensation strategies]"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "[Insert transcribed examples from an interview with reggaetón artists] "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "S-Reduction in Reggaetón ",
-          "textSize": "heading-three"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "S-reduction in coda is a very common phonological feature of reggaetón production. In online lyric transcripts, you will find people mark words with etymological /s/ with an ' (e.g., no me mire') to indicate an intentional reduction. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "uuid": "cb8196ae-b0c9-449c-9066-a31cbfd78c1b",
-      "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
-      ],
-      "start": 118,
-      "end": 189,
-      "file": "b9158ed2-282e-4e81-a0a2-f8c6e8da861c",
-      "type": "event",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "[Include some examples of the /s/ actually being gone, drawn in Praat] "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Give a contrastive example from different genres using the same artists [Also include images] "
+          "text": "Coda vs nucleus vs onset "
         }
       ]
     },
@@ -393,7 +158,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Alveolar Stop Approximates in Coda ",
+          "text": "Basic Atlas Index ",
           "textSize": "heading-two"
         }
       ]
@@ -402,7 +167,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Articulation/Orthographic Representation ",
+          "text": "Each of the following entries will follow this template to convey the following information: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
           "textSize": "heading-four"
         }
       ]
@@ -412,6 +185,22 @@
       "children": [
         {
           "textSize": "heading-four",
+          "text": "Articulation/Orthographic Representation "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This section covers how the sound is produced, its phonological environment, and the conventional symbols used for its identification in writing and the IPA"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -420,8 +209,41 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "D-Deletion ",
-          "textSize": "heading-four"
+          "textSize": "heading-four",
+          "text": "A brief history "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This explains the origins of the sound and a dialectal map of its use in the Hispanophone world "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-four",
+          "text": "In Puerto Rico"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This section will explain the allophonic variation in Puerto Rico, including examples of interview speech from reggaetón artists. "
         }
       ]
     },
@@ -439,7 +261,7 @@
       "children": [
         {
           "textSize": "heading-four",
-          "text": "Coda /d/ in Puerto Rico "
+          "text": "In Reggaetón "
         }
       ]
     },
@@ -447,124 +269,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Look at Delgado-Díaz's work for some examples "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "[Examples of reggaetón artist interviews] "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "D-Deletion in Reggaetón ",
-          "textSize": "heading-three"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "D-Deletion is also a frequent feature in reggaetón production and is typically transcribed orthographically in online lyrics with a combination of accented vowels (e.g., crecía) or complete omission (e.g., lao) "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "[Give examples of d-deletion lyrics for a few artists] "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "horizontal-separator",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Alveolar Taps in Coda ",
-          "textSize": "heading-two"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Articulation/Orthographic Representation ",
-          "textSize": "heading-four"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-four",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-two",
-          "text": ""
+          "text": "This section will exemplify contemporary research on the sound in reggaetón, providing examples from different artists to showcase each claim. "
         }
       ]
     },
@@ -587,6 +292,6 @@
   "slug": "phonology",
   "created_at": "2026-03-13T23:05:55.197Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-13T23:58:51.153Z",
+  "updated_at": "2026-03-14T00:12:08.398Z",
   "updated_by": "derrek-powell"
 }
