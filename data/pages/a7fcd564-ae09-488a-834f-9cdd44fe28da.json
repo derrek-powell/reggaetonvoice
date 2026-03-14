@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Africanisms ",
+  "parent": "1917b518-3725-4833-82d3-92cc16804fb2",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "africanisms",
+  "created_at": "2026-03-14T00:18:52.336Z",
+  "created_by": "derrek-powell",
+  "updated_at": "2026-03-14T00:18:52.336Z",
+  "updated_by": "derrek-powell"
+}
