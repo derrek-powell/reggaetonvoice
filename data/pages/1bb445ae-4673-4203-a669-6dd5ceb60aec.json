@@ -1,0 +1,23 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Arawakisms ",
+  "parent": "1917b518-3725-4833-82d3-92cc16804fb2",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "arawakisms",
+  "created_at": "2026-03-14T00:19:27.390Z",
+  "created_by": "derrek-powell",
+  "updated_at": "2026-03-14T00:19:27.390Z",
+  "updated_by": "derrek-powell"
+}
