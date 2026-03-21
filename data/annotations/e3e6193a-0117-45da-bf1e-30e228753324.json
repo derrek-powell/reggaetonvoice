@@ -17,22 +17,6 @@
       "uuid": "f20693e0-7eba-415c-895e-a01cc1976245"
     },
     {
-      "start_time": 170,
-      "end_time": 175,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "de pana lo siento hay que decir[no'] bye bye bye"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "4a8e49fc-7b8a-4590-9bba-9382a551773c"
-    },
-    {
       "start_time": 175,
       "end_time": 180,
       "annotation": [
