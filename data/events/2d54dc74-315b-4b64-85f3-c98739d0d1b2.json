@@ -3,7 +3,7 @@
     "77161d67-75f9-4aae-b946-23b9a06a88f8": {
       "label": "Dem Bow",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://www.youtube.com/watch?v=HkzEZ_pFORs",
       "duration": 0,
       "caption_set": [],
@@ -29,6 +29,6 @@
   "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/",
   "created_at": "2026-03-21T19:19:48.478Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-21T19:50:12.352Z",
+  "updated_at": "2026-03-21T20:54:28.651Z",
   "updated_by": "derrek-powell"
 }
