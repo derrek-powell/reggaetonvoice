@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 142,
-      "end_time": 144,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "puedo ser problemÃ¡tica"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "fd5a40fd-4161-4130-bc5a-6cebb2f5a505"
-    },
-    {
       "start_time": 144,
       "end_time": 147,
       "annotation": [
