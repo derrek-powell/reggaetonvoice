@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 156,
-      "end_time": 159,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "no hay ninguna otra como yo nadie la parte yo"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "af96c20b-be38-45bc-bd56-a3d9695c365a"
-    },
-    {
       "start_time": 164,
       "end_time": 168,
       "annotation": [
