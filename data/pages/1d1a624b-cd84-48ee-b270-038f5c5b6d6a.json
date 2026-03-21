@@ -405,27 +405,10 @@
     },
     {
       "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "align": "left",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": "Dancehall's uptake in Panama and Puerto Rico was related to its counter-cultural connotations and close relationship with rap or hip-hop and thus sounds and images of modernity, urbanity, and Blackness. While roots reggae preached pan-African liberation, dancehall embraced more local concerns resonant with hip-hop: crime, drugs, violence, sex, poverty, corruption. "
+          "text": "Dancehall's uptake in Panama and Puerto Rico was related to its counter-cultural connotations and close relationship with rap or hip-hop and thus sounds and images of modernity, urbanity, and Blackness. While roots reggae preached pan-African liberation, dancehall embraced more local concerns resonant with hip-hop: crime, drugs, violence, sex, poverty, and corruption. "
         }
       ]
     },
@@ -461,6 +444,42 @@
       "align": "left",
       "children": [
         {
+          "text": "Connected with the growth and influence of New York's Jamaican community in the 1980s, by the 1990s, dancehall reggae had worked its way into the sets of hip-hop DJs and became a culturally charged feature of the New York soundscape. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
           "textSize": "heading-three",
           "text": "Luney Tunes "
         },
@@ -479,6 +498,6 @@
   "slug": "a-sonic-guide-to-reggaetons-globalization",
   "created_at": "2026-03-13T23:04:10.557Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-21T21:11:01.654Z",
+  "updated_at": "2026-03-21T21:21:50.530Z",
   "updated_by": "derrek-powell"
 }
