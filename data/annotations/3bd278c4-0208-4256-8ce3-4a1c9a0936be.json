@@ -1,5 +1,39 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 11,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The backing instrumentation is percussively segmented with a 4/4, 3+3+2 syncopated drum kick and snare "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "riddim"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Shabba Ranks"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dancehall"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dem bow"
+        }
+      ],
+      "uuid": "5fea5f47-39cb-4027-8b44-016e45ee61d8"
+    }
+  ],
   "set": "Default",
   "event_id": "2d54dc74-315b-4b64-85f3-c98739d0d1b2",
   "source_id": "77161d67-75f9-4aae-b946-23b9a06a88f8"
