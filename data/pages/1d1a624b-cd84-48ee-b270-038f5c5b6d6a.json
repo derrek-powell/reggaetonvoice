@@ -244,7 +244,7 @@
           "text": " "
         },
         {
-          "text": "a 4/4 pulse of a kick drum and syncopated snares audible in Shabba Ranks' song \"Dem Bow\" (1990). "
+          "text": "a 4/4 pulse of a kick drum and syncopated snares audible in Shabba Ranks' song \"Dem Bow\" (1990). Below are song samples that help illustrate the prevalence of this riddim throughout reggaeton's development. "
         }
       ]
     },
@@ -386,6 +386,32 @@
       ]
     },
     {
+      "uuid": "3b7a4fe0-163c-4491-9548-67991f681c67",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 20,
+      "end": 78,
+      "file": "73e62492-bbe2-43b7-b0ca-f7e5c27a9835",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "align": "left",
       "children": [
@@ -453,6 +479,6 @@
   "slug": "a-sonic-guide-to-reggaetons-globalization",
   "created_at": "2026-03-13T23:04:10.557Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-21T21:09:01.154Z",
+  "updated_at": "2026-03-21T21:11:01.654Z",
   "updated_by": "derrek-powell"
 }
