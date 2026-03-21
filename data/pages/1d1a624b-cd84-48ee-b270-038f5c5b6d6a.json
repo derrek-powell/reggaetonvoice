@@ -103,6 +103,24 @@
       "align": "left",
       "children": [
         {
+          "text": "\"In New York, Panamanians, Jamaicans, Puerto Ricans, Dominicans, and African Americans all lived in proximity and were often racialized together. Therefore, genres like reggae and hip-hop resonanted powerfully as \"Black musics\" which, for all lines still drawn between groups, could embody and express new articulations of community\" (Marshall, 2009 p. 33). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
           "text": "reggae en español "
         }
       ]
@@ -574,6 +592,29 @@
       ]
     },
     {
+      "uuid": "3f3d5d14-ea05-4bef-8482-64b52cbb0255",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -656,6 +697,146 @@
       "align": "left",
       "children": [
         {
+          "text": "Prior to the reggae's global rise in the 1970s when the genre found popularity outside major sites of Jamaican migration, Afro-Panamanian popular music was heavily based around calypso as performed by local favorites such as Lord Cobra and Lord Panama. By the late 1970s, roots reggae had largely supplanted calypso, largely in the urban contexts of Colón and Panama City. From here, artists such as El General, Nando Boom, and Chicho Man became the earliest proponents of Panamanian reggae, performing some of the first Spanish-language reggae tracks. This direct link between Jamaica and Panama and the embrace of reggae produced a different ecology that than in Puerto Rico, to where the genre arrived indirectly as mediated by New York and hip-hop. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "Since the 1980s dancehall reggae has dominanted the scene through the consistent production of Spanish-language cover versions of contemporary reggae hits, typically over replayed versions of the original Jamaican riddims (see below for El General's cover of Shabba Ranks's \"Dem Bow\"). In this sense, Panamanian reggae is more of an emulation of dancehall, whereas Puerto Rican reggaetón is a reggae-derived music. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "5bc79b8d-3f44-4ad8-9682-f98ade0845c8",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "These reverent remakes would play a strong role in shaping the dancehall scene in Puerto Rico. The Columbia Records production "
+        },
+        {
+          "text": "Dancehall Reggaespañol",
+          "italic": true
+        },
+        {
+          "text": " (1991) emphasized the role cover versions played in reggaetón production by pairing \"Spanish reggae\" with Jamaican recordings. Also such versioning is consistent with the reggae tradition in general and had been in Panama for some time; the use of such riddims in New York was facilitated by producer Karl Miller. The tracks on "
+        },
+        {
+          "text": "Dancehall Reggaespañol",
+          "italic": true
+        },
+        {
+          "text": " not only attest to a close engagement with contemporary Jamaican reggae, but also bear witness to the crucial role New York played in shaping reggaetón production. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Meren-Rap ",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "These performances found their way to Puerto Rico via DJ Negro, who began operating The Noise nightclub in 1990, and the producer Jorge Oquendo's \"meren-rap\" project. This brought together rising Puerto Rican rap stars and established merengue musicians in a calculated attempt to develop a Latin pop/rap hybrid that could appeal to a wider audience of rap, reggae, merengue, pop, freestyle, and other Latin and urban dance genres (most of which were produced by Vico C) "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -701,6 +882,6 @@
   "slug": "a-sonic-guide-to-reggaetons-globalization",
   "created_at": "2026-03-13T23:04:10.557Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-21T21:50:12.881Z",
+  "updated_at": "2026-03-21T22:29:26.364Z",
   "updated_by": "derrek-powell"
 }
