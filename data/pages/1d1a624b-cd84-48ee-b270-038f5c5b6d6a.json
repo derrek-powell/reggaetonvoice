@@ -747,6 +747,37 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "30d274e5-6f11-43a0-a211-10ffdd038147",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "These reverent remakes would play a strong role in shaping the dancehall scene in Puerto Rico. The Columbia Records production "
         },
         {
@@ -762,6 +793,42 @@
         },
         {
           "text": " not only attest to a close engagement with contemporary Jamaican reggae, but also bear witness to the crucial role New York played in shaping reggaetón production. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "da258426-0596-404a-ae1a-8f97d268126b"
+      },
+      "event2": {
+        "uuid": "93697713-1a89-4b9f-9ec6-79f5c99f1ca5"
+      },
+      "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -794,7 +861,39 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "These performances found their way to Puerto Rico via DJ Negro, who began operating The Noise nightclub in 1990, and the producer Jorge Oquendo's \"meren-rap\" project. This brought together rising Puerto Rican rap stars and established merengue musicians in a calculated attempt to develop a Latin pop/rap hybrid that could appeal to a wider audience of rap, reggae, merengue, pop, freestyle, and other Latin and urban dance genres (most of which were produced by Vico C) "
+          "text": "These performances found their way to Puerto Rico via DJ Negro, who began operating The Noise nightclub in 1990, and the producer Jorge Oquendo's \"meren-rap\" project. This brought together rising Puerto Rican rap stars and established merengue musicians in a calculated attempt to develop a Latin pop/rap hybrid that could appeal to a wider audience of rap, reggae, merengue, pop, freestyle, and other Latin and urban dance genres (most of which were produced by Vico C). \"Te Ves Buena Remix\", a sample-based hip-hop inflected atempt at a reggae style track, is perhaps the closest of the project to sound like the productions soon to emerge from the parallel, grassroots development of rap-reggae fusions in San Juan. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -882,6 +981,6 @@
   "slug": "a-sonic-guide-to-reggaetons-globalization",
   "created_at": "2026-03-13T23:04:10.557Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-21T22:29:26.364Z",
+  "updated_at": "2026-03-21T22:44:55.017Z",
   "updated_by": "derrek-powell"
 }
