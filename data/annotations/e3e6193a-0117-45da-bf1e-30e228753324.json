@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 138,
-      "end_time": 140,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "[vamo'] a dejar la temÃ¡tica"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "s-reduction"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "phonology"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Ivy Queen"
-        }
-      ],
-      "uuid": "ca824897-0b58-4067-82ff-98ec1120df40"
-    },
-    {
       "start_time": 140,
       "end_time": 142,
       "annotation": [
