@@ -3,7 +3,7 @@
     "13f1ce37-851d-4f3e-84e6-3265f0545cb0": {
       "label": "Daddy Yankee Gasolina 2004",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://www.youtube.com/watch?v=CCF1_jI8Prk",
       "duration": 0,
       "caption_set": [],
@@ -29,6 +29,6 @@
   "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/",
   "created_at": "2026-03-21T20:36:44.821Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-21T20:36:44.821Z",
+  "updated_at": "2026-03-21T20:52:53.491Z",
   "updated_by": "derrek-powell"
 }
