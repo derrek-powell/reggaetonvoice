@@ -1,22 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 168,
-      "end_time": 170,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "no puede ser asÃ­"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "f20693e0-7eba-415c-895e-a01cc1976245"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "cb8196ae-b0c9-449c-9066-a31cbfd78c1b",
   "source_id": "b9158ed2-282e-4e81-a0a2-f8c6e8da861c"
