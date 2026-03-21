@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "b54eda80-9a79-40ed-806a-0bd9413f3c4b": {
+      "label": "La Recta Final (1989)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=1Ks56UUb7Is",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"La Recta Final\" (1989) Vico C, Prime Records "
+        }
+      ]
+    }
+  ],
+  "citation": "VICO C. (2020, July 1). LA RECTA FINAL -  VICO C  👍  Habro  los ojos, me levanto [Video recording]. https://www.youtube.com/watch?v=1Ks56UUb7Is",
+  "label": "Vico C La Recta Final ",
+  "av_file_order": [
+    "b54eda80-9a79-40ed-806a-0bd9413f3c4b"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "created_at": "2026-03-21T21:38:32.197Z",
+  "created_by": "derrek-powell",
+  "updated_at": "2026-03-21T21:38:32.197Z",
+  "updated_by": "derrek-powell"
+}
