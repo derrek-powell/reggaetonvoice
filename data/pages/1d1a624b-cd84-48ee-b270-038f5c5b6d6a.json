@@ -350,8 +350,27 @@
       ]
     },
     {
-      "type": "paragraph",
-      "align": "left",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "27b11444-db58-4485-b138-61aa4c6cdaf2",
+        "start": 21,
+        "end": 70,
+        "file": "13f1ce37-851d-4f3e-84e6-3265f0545cb0",
+        "type": "Video"
+      },
+      "event2": {
+        "uuid": "490b78b9-3aee-4361-9098-b6f1e59a7118",
+        "start": 62,
+        "end": 148,
+        "file": "f9fb65e1-21d6-42a7-8b4c-f47c72d4d4e2",
+        "type": "Video"
+      },
+      "type": "event-comparison",
       "children": [
         {
           "text": ""
@@ -360,25 +379,6 @@
     },
     {
       "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": "This percussive structure can be heard in diverse Caribbean genres such as reggae, mento, soca, calypso, salsa, son, merengue, konpa, and zouk. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
       "children": [
         {
           "text": ""
@@ -453,6 +453,6 @@
   "slug": "a-sonic-guide-to-reggaetons-globalization",
   "created_at": "2026-03-13T23:04:10.557Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-21T21:00:59.769Z",
+  "updated_at": "2026-03-21T21:09:01.154Z",
   "updated_by": "derrek-powell"
 }
