@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "2c8b0399-e014-4814-9c28-97746e4dc90c": {
+      "label": "Punnany Tegereg (1991)",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=03W9EhDO0KE",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"Punnany Tegereg\" (1991) Little Lenny, Shocking Vibes Records"
+        }
+      ]
+    }
+  ],
+  "citation": "Little Lenny - Topic. (2017, April 10). Punnaney Tegereg [Video recording]. https://www.youtube.com/watch?v=03W9EhDO0KE",
+  "label": "Little Lenny Punnany Tegereg",
+  "av_file_order": [
+    "2c8b0399-e014-4814-9c28-97746e4dc90c"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "created_at": "2026-03-21T22:17:38.728Z",
+  "created_by": "derrek-powell",
+  "updated_at": "2026-03-21T22:17:38.728Z",
+  "updated_by": "derrek-powell"
+}
