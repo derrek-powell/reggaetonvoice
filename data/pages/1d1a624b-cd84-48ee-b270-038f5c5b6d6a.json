@@ -861,7 +861,27 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "These performances found their way to Puerto Rico via DJ Negro, who began operating The Noise nightclub in 1990, and the producer Jorge Oquendo's \"meren-rap\" project. This brought together rising Puerto Rican rap stars and established merengue musicians in a calculated attempt to develop a Latin pop/rap hybrid that could appeal to a wider audience of rap, reggae, merengue, pop, freestyle, and other Latin and urban dance genres (most of which were produced by Vico C). \"Te Ves Buena Remix\", a sample-based hip-hop inflected atempt at a reggae style track, is perhaps the closest of the project to sound like the productions soon to emerge from the parallel, grassroots development of rap-reggae fusions in San Juan. "
+          "text": "These performances found their way to Puerto Rico via DJ Negro, who began operating The Noise nightclub in 1990, and the producer Jorge Oquendo's \"meren-rap\" project. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Meren-Rap",
+          "italic": true
+        },
+        {
+          "text": " is an 8-track EP that brings together rising Puerto Rican rap stars and established merengue musicians in a calculated attempt to develop a Latin pop/rap hybrid that could appeal to a wider audience of rap, reggae, merengue, pop, freestyle, and other Latin and urban dance genres (most of which were produced by Vico C). \"Te Ves Buena Remix\", a sample-based hip-hop inflected atempt at a reggae style track, is perhaps the closest of the project to sound like the productions soon to emerge from the parallel, grassroots development of rap-reggae fusions in San Juan. "
         }
       ]
     },
@@ -882,7 +902,19 @@
       ]
     },
     {
-      "type": "paragraph",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "145c6a3a-9d35-4e49-9452-cd9b40b909af"
+      },
+      "event2": {
+        "uuid": "fee3e39e-5b34-4ec7-ac25-0e08df021968"
+      },
+      "type": "event-comparison",
       "children": [
         {
           "text": ""
@@ -898,7 +930,210 @@
       ]
     },
     {
+      "uuid": "e0bd1d96-ceb4-4502-8282-493529a14e40",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
+      "children": [
+        {
+          "text": "This studio experiment is best understood as playing a paradoxically important yet parginal role in the development of reggaetón. The album did make a splash on the Island, but without grassroots support it was quickly supplanted by a similar sort of fusion which, instead of Latin or \"tropical\" signifiers, tended to foreground the Black, urban, transnational sounds of hip-hop and reggae. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Melaza, Dembow, y el Underground ",
+          "textSize": "heading-three",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "DJ Playero, DJ Negro, DJ Nelson put the tracks together "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ivy Queen"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Daddy Yankee"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Baby Rasta and Gringo propel their verses by intoning one of the many familiar melodic contours that Jamaican dancehall DJs have endlessly reworked since the early to mid-1980s"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The different names for the genre all had different was of connecting with its Black diasporic roots. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "- Calling it melaza (molasses, race as sugar production) directly connects it to cultural politics of Blackness. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "- Calling it underground or dembow, or rap and reggae, signaled artistic alignment and a localization of products putatively non-Puerto Rican (rap & reggae). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "- Underground calls attention to its marginalized (and proud) status vis-a-vis mainstream Puerto Rican economy, culture, and society. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Even though these terms are derived from hip-hop and reggae, they took on new meaning in Puerto Rico to describe \"una fusión tan intensa de rap con reggae que no puede ser clasificada como una cosa o la otra\" (Rivera, 1995 fn 50)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Moreover, the term underground referred specifically to how underground recordings literally circulated outside of formal commercial channels, dubbed from cassette to cassette after an initial, small run of master tapes until about 1994. This was in part due to how the music had a reputation as the obscene music of the underclass (e.g., clashes with the National Center on Sexual Exploitation, NCOSE, formerly Morality in Media kept them out of mainstream channels ). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "It wasn't until 1999 when DJ Nelson and DJ Coyote managed to get San Juan's mix 107.7 fm to begin a 24/7 reggaetón format "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The dembow name refers to the beat from Shabba Rank's production, though it has been abstracted away from its original into a particular rhythmic pattern and a set of specific drum timbres. This became an important signifier that artists could combine with other elements to create distinctiveness within a system of resonant sonic signifiers. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://drive.google.com/file/d/1afCXcLyvLHi2kD3dOps1G7Yc6uArWSTI/view?usp=sharing",
+      "caption": "Basic Elements of Puerto Rico's localized Dem Bow",
       "children": [
         {
           "text": ""
@@ -927,7 +1162,78 @@
       "align": "left",
       "children": [
         {
+          "text": "DJ Negro & DJ Playero embodied the process of localizing the foreign-but-familiar through their influential mixtape sets that aided the creation of reggaetón's current style by building off reggae's \"riddim method\" and hip-hop's sample-based collages. The degree of intertextuality on such recordings is remarkable and charged with significance. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "Underground producers employ a primarily sample-based approach according to whatever source seems appropriate, rearticulating both reggae and hip-hop's central practices of reuse and allusion. Marshall (p. 45) describes this as taking reggae's riddim method and hip-hop omnivorous sampling to an unprecedented extreme. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Reggaetón Latino ",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -981,6 +1287,6 @@
   "slug": "a-sonic-guide-to-reggaetons-globalization",
   "created_at": "2026-03-13T23:04:10.557Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-21T22:44:55.017Z",
+  "updated_at": "2026-03-21T23:43:40.513Z",
   "updated_by": "derrek-powell"
 }
