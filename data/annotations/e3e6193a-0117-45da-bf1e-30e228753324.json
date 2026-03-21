@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 140,
-      "end_time": 142,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "aunque yo soy siempre simpÃ¡tica"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "6d2ebcd0-4b02-4516-8b4e-d3d009906e32"
-    },
-    {
       "start_time": 142,
       "end_time": 144,
       "annotation": [
