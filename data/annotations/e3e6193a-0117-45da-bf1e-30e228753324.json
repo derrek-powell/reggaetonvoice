@@ -15,35 +15,6 @@
       ],
       "tags": [],
       "uuid": "f20693e0-7eba-415c-895e-a01cc1976245"
-    },
-    {
-      "start_time": 175,
-      "end_time": 180,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "ya tuvo su tiempo y [sabe'] que [e'] a que hay"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "s-reduction"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "phonology"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Ivy Queen"
-        }
-      ],
-      "uuid": "a7539539-7cdd-403c-8347-30178eb4f054"
     }
   ],
   "set": "Default",
