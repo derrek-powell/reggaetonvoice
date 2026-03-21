@@ -15,7 +15,23 @@
       "align": "left",
       "children": [
         {
-          "text": "Gasolina (2004) "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "\"The snares suggest connections to a long history of "
+        },
+        {
+          "text": "pistas",
+          "italic": true
+        },
+        {
+          "text": " and mixtaps which preceded the breakthrough pop smash and which remain as audible, palpable, if subtle remnants of an unbridled, underground, sample-based past in a genre that has since embraced slick synthesizers and commercial channels\" (Marshall, 2009 p. 21). "
         }
       ]
     },
@@ -169,14 +185,7 @@
       "align": "left",
       "children": [
         {
-          "text": "\"The snares suggest connections to a long history of "
-        },
-        {
-          "text": "pistas",
-          "italic": true
-        },
-        {
-          "text": " and mixtaps which preceded the breakthrough pop smash and which remain as audible, palpable, if subtle remnants of an unbridled, underground, sample-based past in a genre that has since embraced slick synthesizers and commercial channels\" (Marshall, 2009 p. 21). "
+          "text": ""
         }
       ]
     },
@@ -212,16 +221,131 @@
       "children": [
         {
           "textSize": "heading-three",
-          "text": "Dem Bow "
+          "text": "The Dem Bow Beat "
         }
       ]
     },
     {
       "type": "paragraph",
-      "align": "left",
+      "align": "justify",
       "children": [
         {
-          "text": "The predominant rhythmic orientation of reggaetón is derived directly from dancehall reggae. While there is also influence from roots reggae (à la Bob Marley), dancehall reggae's synthetic textures, tempos, rapid-fire rap, and minimalist focus on 3+3+2 cross rhythms demarcated by heavy, synthesized drums have had a stronger influence. "
+          "text": "The predominant rhythmic orientation of reggaetón is derived directly from dancehall reggae. While there is also influence from roots reggae, dancehall's textures, tempos, rapid-fire flow, and minimalist focus on 3+3+2 cross rhythms demarcated by heavy, synthesized drums have had a stronger influence. One of the most enduring features is the following "
+        },
+        {
+          "text": "riddim ",
+          "italic": true
+        },
+        {
+          "text": "with"
+        },
+        {
+          "italic": true,
+          "text": " "
+        },
+        {
+          "text": "a 4/4 pulse of a kick drum and syncopated snares audible in Shabba Ranks' song \"Dem Bow\" (1990). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "uuid": "2d54dc74-315b-4b64-85f3-c98739d0d1b2",
+              "includes": [
+                "media",
+                "annotations",
+                "label",
+                "description"
+              ],
+              "type": "event",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://drive.google.com/file/d/1LUvOamgX0yt2c6bLF39o-M6gYAsSu-2P/view?usp=sharing",
+              "caption": "Skeleton of the Dem Bow Riddim from Marshall (2009) ",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -239,16 +363,7 @@
       "align": "left",
       "children": [
         {
-          "text": "riddim: a 4/4 pulse of kick drum and syncopated snares along a 3+3+2 groove. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": "This can be heard in diverse Caribbean genres such as reggae, mento, soca, calypso, salsa, son, merengue, konpa, and zouk. "
+          "text": "This percussive structure can be heard in diverse Caribbean genres such as reggae, mento, soca, calypso, salsa, son, merengue, konpa, and zouk. "
         }
       ]
     },
@@ -266,7 +381,7 @@
       "align": "left",
       "children": [
         {
-          "text": "bam bam riddims "
+          "text": ""
         }
       ]
     },
@@ -338,6 +453,6 @@
   "slug": "a-sonic-guide-to-reggaetons-globalization",
   "created_at": "2026-03-13T23:04:10.557Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-21T20:15:46.103Z",
+  "updated_at": "2026-03-21T21:00:59.769Z",
   "updated_by": "derrek-powell"
 }
