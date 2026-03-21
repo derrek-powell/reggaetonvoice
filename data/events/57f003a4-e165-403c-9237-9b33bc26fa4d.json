@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "748ed6e9-64f9-443f-85b6-816b4beba538": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=WKKgBg8jVyk",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "The Noise 7 ",
+  "av_file_order": [
+    "748ed6e9-64f9-443f-85b6-816b4beba538"
+  ],
+  "created_at": "2026-03-21T23:20:19.314Z",
+  "created_by": "derrek-powell",
+  "updated_at": "2026-03-21T23:20:19.314Z",
+  "updated_by": "derrek-powell"
+}
