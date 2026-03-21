@@ -1,5 +1,39 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 20,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here you can hear how the dem bow remains the rhythmic foundation even as its tempo changes and other instrumentation is layered on top. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "riddim"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Bad Bunny"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "DTMF"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dem bow"
+        }
+      ],
+      "uuid": "f1c302ca-37b7-41b1-a018-623d22f91147"
+    }
+  ],
   "set": "Default",
   "event_id": "3b7a4fe0-163c-4491-9548-67991f681c67",
   "source_id": "73e62492-bbe2-43b7-b0ca-f7e5c27a9835"
