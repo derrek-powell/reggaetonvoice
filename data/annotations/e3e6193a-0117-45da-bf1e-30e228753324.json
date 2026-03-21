@@ -1,5 +1,392 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 138,
+      "end_time": 140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[vamo'] a dejar la temÃ¡tica"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-reduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ivy Queen"
+        }
+      ],
+      "uuid": "ca824897-0b58-4067-82ff-98ec1120df40"
+    },
+    {
+      "start_time": 140,
+      "end_time": 142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "aunque yo soy siempre simpÃ¡tica"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "6d2ebcd0-4b02-4516-8b4e-d3d009906e32"
+    },
+    {
+      "start_time": 142,
+      "end_time": 144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "puedo ser problemÃ¡tica"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fd5a40fd-4161-4130-bc5a-6cebb2f5a505"
+    },
+    {
+      "start_time": 144,
+      "end_time": 147,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "no quiero que [piense'] que [e'to] [e'] una tÃ¡ctica"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-reduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ivy Queen"
+        }
+      ],
+      "uuid": "b56afcad-69c6-4e92-9927-bf7d897ad216"
+    },
+    {
+      "start_time": 147,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "que no me importa lo tuyo [es] aparte"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-retention"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ivy Queen"
+        }
+      ],
+      "uuid": "408fa80c-6309-4ee1-8170-367ad991c03e"
+    },
+    {
+      "start_time": 149,
+      "end_time": 152,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y el sÃ³lo pensarte da [gana'] de devorarte"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-reduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ivy Queen"
+        }
+      ],
+      "uuid": "af177bf6-3457-45c4-b55f-1acffcefe624"
+    },
+    {
+      "start_time": 152,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "parte por parte saborearte"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8991e24e-d4b8-491c-bd6a-83a2b1f66df3"
+    },
+    {
+      "start_time": 154,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "yo sÃ© lo que [quiere'] voy a hacer que [brinque'] y [salte']"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-reduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ivy Queen"
+        }
+      ],
+      "uuid": "28de7867-0c37-4a7a-82b4-74882f00d269"
+    },
+    {
+      "start_time": 156,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "no hay ninguna otra como yo nadie la parte yo"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "af96c20b-be38-45bc-bd56-a3d9695c365a"
+    },
+    {
+      "start_time": 159,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[sabe'] que me tienta papacito yo sÃ­ tengo el arte pa' seducir"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-reduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ivy Queen"
+        }
+      ],
+      "uuid": "345da90e-ca37-4fb2-8d3f-d9ba52a0ddfe"
+    },
+    {
+      "start_time": 164,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "nadie me calienta como tÃº lo [haces] pero eso"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-retention"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ivy Queen"
+        }
+      ],
+      "uuid": "9b0cc44a-ce23-4d70-8540-a44a58f3d5b7"
+    },
+    {
+      "start_time": 168,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "no puede ser asÃ­"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f20693e0-7eba-415c-895e-a01cc1976245"
+    },
+    {
+      "start_time": 170,
+      "end_time": 175,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "de pana lo siento hay que decir[no'] bye bye bye"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4a8e49fc-7b8a-4590-9bba-9382a551773c"
+    },
+    {
+      "start_time": 175,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ya tuvo su tiempo y [sabe'] que [e'] a que hay"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-reduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ivy Queen"
+        }
+      ],
+      "uuid": "a7539539-7cdd-403c-8347-30178eb4f054"
+    },
+    {
+      "start_time": 180,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "pero si me [ronca'] y [dice'] que me [aguanta'] [sabe'] que me tiro y voy pa'llÃ¡"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-reduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ivy Queen"
+        }
+      ],
+      "uuid": "474b59fb-7747-47f5-a9c4-7f758d3f3d1b"
+    },
+    {
+      "start_time": 184,
+      "end_time": 189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "baby si tÃº [ronca'] y [dice'] que me [aguanta'] [sabe'] que me tiro y voy pa'llÃ¡"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-reduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ivy Queen"
+        }
+      ],
+      "uuid": "a7180290-c1b4-4721-9818-f6188bc563c8"
+    }
+  ],
   "set": "Default",
   "event_id": "cb8196ae-b0c9-449c-9066-a31cbfd78c1b",
   "source_id": "b9158ed2-282e-4e81-a0a2-f8c6e8da861c"
