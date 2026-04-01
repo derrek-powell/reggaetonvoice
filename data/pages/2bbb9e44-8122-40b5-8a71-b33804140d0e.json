@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "735b4f87-1a46-4949-96c6-6251e2361bea",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-03-21T23:06:22.200Z",
   "created_by": "derrek-powell",
   "title": "Wisin y Yandel Dembow",
   "slug": "wisin-y-yandel-dembow",
-  "updated_at": "2026-03-21T23:06:22.200Z",
+  "updated_at": "2026-04-01T20:50:14.610Z",
   "updated_by": "derrek-powell",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "735b4f87-1a46-4949-96c6-6251e2361bea"
   }
