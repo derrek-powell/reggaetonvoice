@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "da258426-0596-404a-ae1a-8f97d268126b",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-03-21T22:14:49.474Z",
   "created_by": "derrek-powell",
   "title": "El General Pu Tun Tun",
   "slug": "el-general-pu-tun-tun",
-  "updated_at": "2026-03-21T22:14:49.474Z",
+  "updated_at": "2026-04-01T20:49:45.256Z",
   "updated_by": "derrek-powell",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "da258426-0596-404a-ae1a-8f97d268126b"
   }
