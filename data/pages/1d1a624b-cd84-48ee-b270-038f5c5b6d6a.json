@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "A sonic history ",
+          "text": "From Reggae to Reggaetón ",
           "textSize": "heading-one"
         }
       ],
@@ -51,40 +51,29 @@
       "children": [
         {
           "textSize": "heading-three",
-          "text": "Origin Narrative "
+          "text": "A Brief History of Origin "
         }
       ]
     },
     {
       "type": "paragraph",
-      "align": "left",
       "children": [
         {
-          "text": "Reggaetón is often described as a Puerto Rican innovation with origins traceable to the underground scene of San Juan during the 1990s. This narrative frames the genre as a product of artistic codemixing emerging from the simultaneous interplay of Afro-Caribbean musical influences resonating throughout Jamaica, Panama, Puerto Rico, and New York City. Below is an outline of this history with audio examples to help you follow along with the sonic development of one of the world's most widely consumed musical genres. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
+          "text": "Reggaetón is widely recognized as a Puerto Rican musical innovation that emerged from the underground scenes of San Juan in the 1990s. At its core, the genre is a fusion of dancehall and rap, often described as hip-hop lyricism performed over dancehall-derived rhythmic structures. Yet this formulation only captures part of the story. Reggaetón developed through a broader trans-Caribbean and diasporic musical ecology, shaped by the simultaneous circulation and popularization of Jamaican dancehall, Afro-Panamanian"
+        },
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
+          "text": " reggae en español",
+          "italic": true
+        },
         {
-          "text": "Step 1: The first 3 blocks are the primary musical influences. "
+          "text": ", and Latin hip-hop in New York City, as well as the cultural interfaces among these sites. "
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
-      "align": "left",
+      "align": "justify",
       "children": [
         {
           "text": ""
@@ -93,34 +82,16 @@
     },
     {
       "type": "paragraph",
-      "align": "left",
+      "align": "justify",
       "children": [
         {
-          "text": "\"In New York, Panamanians, Jamaicans, Puerto Ricans, Dominicans, and African Americans all lived in proximity and were often racialized together. Therefore, genres like reggae and hip-hop resonanted powerfully as \"Black musics\" which, for all lines still drawn between groups, could embody and express new articulations of community\" (Marshall, 2009 p. 33). "
+          "text": "These genres did not evolve in isolation. In fact, throughout the late twentieth century, dancehall and hip-hop frequently traveled together, heard across the Caribbean and its diasporas as complementary “Black musics” that shared aesthetic, social, and political affinities. In Panama, reggae en español emerged through a direct adoption of Jamaican musical traditions, resulting in a localized practice that closely emulated dancehall’s sonic and performative conventions. In contrast, Puerto Rico’s engagement with these sounds was more indirect, mediated through New York City, where Caribbean and African American communities lived in proximity and were often racialized within a shared framework of Blackness."
         }
       ]
     },
     {
       "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": "\"Dancehall and hip-hop have tended to travel together, heard outside their principal sites of production as two sides of the same coin\" (Marshall, 2009 p. 25). Dancehall made its way to San Juan not from Kingston, but from New York. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
+      "align": "justify",
       "children": [
         {
           "text": ""
@@ -131,28 +102,64 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This direct link between Jamaica and Panama and the embrace of reggae produced a different ecology that than in Puerto Rico, to where the genre arrived indirectly as mediated by New York and hip-hop. "
+          "text": "New York thus played a pivotal role in reggaetón’s formation. Within its dense, multiethnic neighborhoods, Panamanians, Jamaicans, Puerto Ricans, Dominicans, and African Americans encountered one another through everyday social life and through music. Genres like reggae and hip-hop resonated powerfully in these contexts as expressive forms capable of articulating emergent, diasporic Black subjectivities and solidarities (Marshall 2009: 33). It was through this urban contact zone that dancehall circulated into Puerto Rico—not directly from Kingston, but refracted through the aesthetics, technologies, and cultural politics of New York hip-hop."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
     {
       "type": "paragraph",
       "children": [
+        {
+          "text": "As these sounds took root in San Juan, aspiring rappers began to transition toward dancehall-inspired production, framing their performances as rap delivered over "
+        },
+        {
+          "text": "baile",
+          "italic": true
+        },
+        {
+          "text": "-oriented "
+        },
+        {
+          "text": "riddims",
+          "italic": true
+        },
+        {
+          "text": " that resonated more closely with Caribbean rhythmic sensibilities. This shift was not merely musical, but semiotic: dancehall’s association with transnational Blackness, urban modernity, and countercultural resistance offered a powerful framework through which artists could position themselves. Indeed, reggaetón’s early uptake in Puerto Rico was deeply tied to these social meanings.  Its sounds, styles, and performance practices indexed forms of marginality, resistance, and urban belonging that were both locally grounded and globally intelligible. Although reggaetón has since become a global commercial phenomenon, these racialized sensibilities continue to echo in the sonic and stylistic templates that structure its contemporary production."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following sections provide a guided, audio history of the development of reggaetón from dancehall reggae. ",
+          "textSize": "heading-three"
+        },
         {
           "text": "\n"
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "horizontal-separator",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -165,7 +172,7 @@
       "children": [
         {
           "textSize": "heading-three",
-          "text": "Dancehall Reggae "
+          "text": "Rhythms from Dancehall Reggae "
         }
       ]
     },
@@ -174,7 +181,7 @@
       "align": "justify",
       "children": [
         {
-          "text": "The predominant rhythmic orientation of reggaetón is derived directly from dancehall reggae. While there is also influence from roots reggae, dancehall's textures, tempos, rapid-fire flow, minimalist focus on 3+3+2 cross rhythms demarcated by heavy, synthesized drums, and local concerns with crime, drugs, violence, sex, poverty, and corruption have had a stronger stylistic influence. Much of dancehall's uptake in Panama and Puerto Rico was related to its counter-cultural connotations and close relationship with rap/hip-hop, as well as its capacity to circulate social semiotics of modernity, urbanity, and Blackness as political subjectivity. One of the most enduring features of this influence still audible in reggaetón today is the following "
+          "text": "The predominant rhythmic orientation of reggaetón is derived directly from dancehall reggae. While there is also influence from roots reggae, dancehall's textures, tempos, rapid-fire flow, and minimalist focus on 3+3+2 cross rhythms demarcated by heavy, synthesized drums have had a stronger stylistic influence. One of the most enduring features of this influence still audible in reggaetón today is the following "
         },
         {
           "text": "riddim",
@@ -282,7 +289,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "With the growth and influence of New York's Jamaican community in the 1980s, by the 1990s dancehall had worked its way into the sets of hip-hop DJs and became a culturally charged feature of the New York soundscape. These riddims, such as the examples below, would later be incorporated into the underground recordings that laid the musical foundations for reggaetón. "
+          "text": "With the growth and influence of New York's Jamaican community in the 1980s, by the 1990s dancehall had worked its way into the sets of hip-hop DJs and became a culturally charged feature of the New York soundscape. These riddims, such as the examples below, would later be incorporated into the underground recordings that laid the musical foundations for reggaetón in San Juan.  "
         }
       ],
       "align": "justify"
@@ -349,7 +356,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "While dancehall reggae gave the proto-reggaetón of the early 1990s its musical structure, the "
+          "text": "While dancehall reggae gave proto-reggaetón its musical structure, the "
         },
         {
           "text": "raperos",
@@ -363,14 +370,14 @@
           "italic": true
         },
         {
-          "text": " of this period drew heavy stylistic influences from gangster rap and the \"Latin rap\" that diverged linguistically from the sonic template set by the former. Vico C is a foundational figure here, recognized as the father of "
+          "text": " of the early 1990s also drew an equal amount of stylistic influences from gangster rap and the \"Latin rap\". Luis Armando Lozado Cruz —known professionally as Vico C— is a foundational figure in this development. As the first artist to show how one could rap entirely and compellingly in Spanish, Vico C is often recognized as the father of "
         },
         {
-          "text": "rap en español",
+          "text": "rap en español. ",
           "italic": true
         },
         {
-          "text": " and the first to demonstrate how one could rap entirely and compellingly in Spanish (aside from the occassional insertion of hip-hop slang lyrics). "
+          "text": "While reggaetón drew from dancehall musically, the flow (i.e., scripting and delivery) of the lyrics and performance of artistic personae drew more heavily from rap and hip-hop, so much that the genre is often described as hip-hop flow layered on top of a reggae beat (Marshall, 2009: 27) "
         }
       ],
       "align": "justify"
@@ -402,14 +409,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\"I sing hip-hop on top of a reggaetón beat. I don't know how to write it any other way\" (Tego Calderón, Marshall 2009 p. 27) "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
         }
       ]
@@ -426,7 +425,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Afro-Panamanian ",
+          "text": "Afro-Panamanian",
           "textSize": "heading-three"
         },
         {
@@ -440,7 +439,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Prior to the global rise of reggae in the 1970s, Afro-Panamanian popular music was heavily based around the calypso performances of local favorites like Lord Cobra and Lord Panama. By the late 1970s, roots reggae had largely supplanted calypso, and from here, artists like El General, Nando Boom, and Chicho Man became early proponents of Panamanian reggae by performing some of the first Spanish-language reggae tracks. Since the 1980s, dancehall has dominated the scene through the consistent production of Spanish-language cover versions of contemporary dancehall hits replayed over the original Jamaican riddims. In this sense, Panamanian reggae exemplifies an emulation of dancehall rather than a derivative. "
+          "text": "Since the 1980s, dancehall reggae has dominated the Panamanian popular music scene, in particular the works of artists like El General, Nando Boom, and Chicho Man who produced Spanish-language cover versions of contemporary dancehall hits over the original Jamaican "
+        },
+        {
+          "text": "riddims",
+          "italic": true
+        },
+        {
+          "text": ". "
         }
       ]
     },
@@ -564,7 +570,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Dancehall and hip-hop were in close proximity during the 1990s in New York City, often heard outside their principal sites of production as two sides of the same coin. As a result, many aspiring rappers of Caribbean descent began transitioning to dancehall, framing their performances as rapping over baile-centric riddims that were more compatible with the sonic flavors of Caribbean culture. Following "
+          "text": "Following "
         },
         {
           "text": "Dancehall Reggaespañol",
@@ -647,7 +653,7 @@
           "italic": true
         },
         {
-          "text": " found their way to San Juan via Jorge Oquendo and DJ Negro, the latter who began operating The Noise nightclub in 1990. While the former played a marginal role in the development of reggaetón, the latter made more of a splash on the Island. But, without grassroots support, these productions were quickly supplanted by a similar sort of fusion which prioritized signifiers tied to the Black, urban, transnational sounds of hip-hop and dancehall. DJ Negro and DJ Playero played a pivotal role in the development of this new hybrid by merging the familiar melodic contours of Jamaican dancehall and hip-hop and recruiting emerging rappers like Baby Rasta, Daddy Yankee, Gringo, and Ivy Queen to rap over the tracks. These DJs built off practices of reuse and allusion, taking reggae's \"riddim method\" and hip-hop's sample-based collages to an unprecedented extreme to create a new hybrid genre—at times called "
+          "text": " found their way to San Juan via Jorge Oquendo and DJ Negro, though these productions were quickly supplanted by a similar sort of hip-hop dancehall fusion produced by DJ Negro and DJ Playero. This new hybrid drew from reggae's \"riddim method\" and hip-hop's practices of sampling to merge the familiar melodic contours of dancehall and hip-hop with lyrics performed by emerging rappers like Baby Rasta, Daddy Yankee, Gringo, and Ivy Queen that could not be clearly classified as either dancehall or rap. This new genre—called "
         },
         {
           "text": "melaza",
@@ -671,11 +677,11 @@
           "text": ", or "
         },
         {
-          "text": "underground",
+          "text": "underground—",
           "italic": true
         },
         {
-          "text": "—was described as an intense fusion of rap with reggae that could not be clearly classified as one or the other. In these productions, Shabba Ranks' dem bow rhythmic pattern had been abstracted away from its original structure to become an important signifier that could be repurposed and combined with other elements to create distinctiveness within a system of resonant sonic signifiers. "
+          "text": "abstracted Shabba Rank's \"dem bow\" riddim to become an important signifier of artistic affiliation, one that to this day is still repurposed and combined with other elements to create distinctiveness within a structured sonic community. "
         }
       ],
       "align": "justify"
@@ -737,7 +743,16 @@
     },
     {
       "type": "paragraph",
-      "align": "left",
+      "align": "justify",
+      "children": [
+        {
+          "text": "These underground recordings literally circulated outside mainstream Puerto Rican commercial channels as cassette tapes made from a small run of master tapes until about 1994. This underground distribution was in part due to the music's inherited reputation as the obscene music of the (racialized) underclass and clashes with the National Center on Sexual Exploitation (NCOSE, formerly Morality in Media) to keep them out of mainstream channels. It wasn't until 1999 when DJ Nelson and DJ Coyote managed to get San Juan's mix 107.7 fm to begin a 24/7 reggaetón format station, and the genre began to expand into ear of the mainstream. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": ""
@@ -756,70 +771,354 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Reggaetón Latino ",
+          "text": "Reggaetón Arrives ",
           "textSize": "heading-three"
         }
       ]
     },
     {
       "type": "paragraph",
-      "align": "justify",
       "children": [
         {
-          "text": "The underground recordings literally circulated outside the mainstream Puerto Rican economy and commercial channels, being dubbed from cassette to cassette from a small run of master tapes until about 1994. This underground distribution was in part due to the music's inherited reputation as the obscene music of the (racialized) underclass and clashes with the National Center on Sexual Exploitation (NCOSE, formerly Morality in Media) to keep them out of mainstream channels. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": "It wasn't until 1999 when DJ Nelson and DJ Coyote managed to get San Juan's mix 107.7 fm to begin a 24/7 reggaetón format station. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "textSize": "heading-three",
-          "text": "Luney Tunes "
+          "text": "Over the late 1990s and early 2000s, underground became less underground both in terms of aesthetics and economics. Around this time, artists and producers (namely Daddy Yankee and DJ Nelson) began to call the genre \""
         },
         {
-          "text": "alternates the snares every four measures to create a subtle, stylistically grounded sense of movement against the otherwise repetitive structures of the track "
+          "text": "reggaetón",
+          "italic": true
+        },
+        {
+          "text": "\", accordingly inspired as a simplification of \""
+        },
+        {
+          "text": "reggae maratón",
+          "italic": true
+        },
+        {
+          "text": "\" or an augmentative form of reggae, roughly translating to \"big reggae\". The popularity of these recordings is in part responsible for the conventionalization of this new name with this music, in particular the synthesized, new beats that, aside from the dembow template, did not cleanly switch into sampled hip-hop and reggae beats as cleanly. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "DJ Blass Reggaeton sex series image "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "DJ Nelson Reggaeton live vol 1 image "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Thanks to technological developments in tools for producing and distributing recordings, reggaetón was no longer bound by Puerto Rico's shores or even the broader diasporic circuits in New York. Artists began to mix the dancehall inspired riddims like the dembow template with the propulsive sounds of techno/tecno and later the \"tropical\" sounds of bachata and salsa. Established producers such as DJ Playero, DJ Nelson, and DJ Joe, as well as newcomers like DJ Blass, helped move the genre's primary sound sources from samples to synthesizers resonant of trace-style techno anthems. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Daddy Yankee \"Todas las yales\" https://www.youtube.com/watch?v=h5_Yhp4qm1E "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Plan B + DJ Joe \"Orgasmo\" https://www.youtube.com/watch?v=Brb8jgI5fGk&list=PLFHJmVE09_HWfX3kj8Xz7Asu07aLFBm40&index=5 "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2003 - Tego Calderón Pa que retrozen "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "With the exception of the dem bow template, by the release of DJ Joe's 2001 series \""
+        },
+        {
+          "text": "Fatal Fantassy",
+          "italic": true
+        },
+        {
+          "text": "\", vocalists began to refine a distinctively Puerto Rican approach to melodic contour and vocal timbre, often evoking the nasal singing styles of many soneros that connected the sounds of techno to the sexual. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Luny Tunes & Reggaetón Latino ",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The rise and success of Luny tunes and the definitive role they played in shaping contemporary reggaetón symbolizes the central role migration has played in the ongoing formation and reformation of the genre. Luny (Francisco Saldana) and Tunes (Victor Cabrera) were born in the Dominican Republic before moving to Massachusetts as teenagers. Luny Tunes, and cohorts such as Nelly, Noriega, and Tainy, set themselves apart form their forebears by advancing a distinctive, pop-oriented melodic and harmonic language to reggaetón. The duo produced sleek, shiny tracks with the latest musical devices more common to pop and R&B to embody a sonic form of the flashy style of blin-blineo (\"bling bling\") borrowed from commercial hip-hop and thus resonant with the U.S. mainstream industry and urban radio. Additionally, Luny Tunes also proved crucial in moving the genre into the realm of \"Latin\" or \"tropical\" music by invoking the distinctive piano riffs of salsa and merengue (though they were not the first to do this). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Oye mi Canto "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Don Omar 2005 Reggaetón Latino "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2004 Gasolina "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2003 Rakata "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2003 Quiero Bailar \n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "However, the international commercialization of reggaetón also was a bit of luck. In 2003, before the major breakout of the genre in the mainland US, a wave of crossover dancehall hits by Sean Paul, Wayne Wonder, and Elephant Man hit the U.S. and prepared audiences for a dance-centric pop genre. Spanish and Spanglish songs followed suit, piggybacking their way to new levels of international success on hip-hop's national and global resonance with the added assistance of their brethen from Jamaica who prepared the stateside audiences for a new wave of Caribbean-inflected rap-infused dance music. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Sean Paul (2003) Temperature https://www.youtube.com/watch?v=dW2MmuA1nI4 "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pitbull (2003) Culo https://www.youtube.com/watch?v=7MnTLl7wMII "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Nina Sky (2003) Move ya body https://www.youtube.com/watch?v=u2_E62NY3hg"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In this new, commercialized version, the music was increasingly produced and promoted as the soundtrack of \""
+        },
+        {
+          "text": "perreo",
+          "italic": true
+        },
+        {
+          "text": "\" and \""
+        },
+        {
+          "text": "bellaqueo",
+          "italic": true
+        },
+        {
+          "text": "\". Mirroring the commercialism and exaggerated sexual license associated with club culture, song themes turned more squarely to macho fantasies about sex. Reggaetón appeared to embrace, if not amplify, a number of racial, gendered, and national stereotypes as the music moved into the mainstream marketplace. Given such changes in context and content, the genre's cultural politics are often seen as undergoing a major shift around the turn of the millennium, moving away from a sonically, textually, and visually encoded foregrounding of racial community toward nationalist and gendered Latin/pan-Latin signifiers. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
         }
       ]
     }
   ],
-  "title": "A Sonic History ",
+  "title": "From Reggae to Reggaetón ",
   "parent": "127ac0fc-62d2-4806-9d22-8f2a9ddc890a",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "a-sonic-history",
+  "slug": "from-reggae-to-reggaeton",
   "created_at": "2026-03-13T23:04:10.557Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-04-01T20:48:33.716Z",
+  "updated_at": "2026-04-24T22:32:13.822Z",
   "updated_by": "derrek-powell"
 }
