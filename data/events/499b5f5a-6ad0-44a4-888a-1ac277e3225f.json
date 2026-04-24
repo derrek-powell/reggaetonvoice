@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "0fa7c57b-b3e6-43a3-9822-614b1e1b9546": {
+      "label": "Todas las Yales (1999) ",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=h5_Yhp4qm1E",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Todas las Yales, DJ Playero Vol 41 (1999) "
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Daddy Yankee Todas las Yales ",
+  "av_file_order": [
+    "0fa7c57b-b3e6-43a3-9822-614b1e1b9546"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-NC/1.0/",
+  "created_at": "2026-04-24T22:49:54.842Z",
+  "created_by": "derrek-powell",
+  "updated_at": "2026-04-24T22:49:54.842Z",
+  "updated_by": "derrek-powell"
+}
