@@ -892,6 +892,38 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "499b5f5a-6ad0-44a4-888a-1ac277e3225f"
+      },
+      "event2": {
+        "uuid": "5ee41cb5-b505-424e-8e30-73bd2a1f6c30"
+      },
+      "type": "event-comparison",
       "children": [
         {
           "text": ""
@@ -902,28 +934,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Daddy Yankee \"Todas las yales\" https://www.youtube.com/watch?v=h5_Yhp4qm1E "
+          "text": ""
         }
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Plan B + DJ Joe \"Orgasmo\" https://www.youtube.com/watch?v=Brb8jgI5fGk&list=PLFHJmVE09_HWfX3kj8Xz7Asu07aLFBm40&index=5 "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "2003 - Tego Calderón Pa que retrozen "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
+      "uuid": "10761066-227f-4a96-aa37-957e911a5611",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -959,7 +982,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The rise and success of Luny tunes and the definitive role they played in shaping contemporary reggaetón symbolize the central role migration has played in the ongoing formation and reformation of the genre. Luny (Francisco Saldana) and Tunes (Victor Cabrera) were born in the Dominican Republic before moving to Massachusetts as teenagers. The duo set themselves apart from their forebearers by advancing a distinctive, pop-oriented melodic and harmonic language to reggaetón to embody a sonic form of the flashy blin-blineo/bling-bling style borrowed from commercial hip-hop. Additionally, Luny Tunes also proved crucial in moving the genre into the realm of \"Latin\" music by invoking distinctive salsa and merengue piano riffs and other nationalist and gendered Latin/pan-Latin signifiers. "
+          "text": "The rise and success of Luny tunes and the definitive role they played in shaping contemporary reggaetón symbolize the central role migration has played in the ongoing formation and reformation of the genre. Luny (Francisco Saldana) and Tunes (Victor Cabrera) were born in the Dominican Republic before moving to Massachusetts as teenagers. The duo set themselves apart from their forebearers by advancing a distinctive, pop-oriented melodic and harmonic language to reggaetón to embody a sonic form of the flashy blin-blineo/bling-bling style borrowed from commercial hip-hop.  "
         }
       ],
       "align": "justify"
@@ -974,10 +997,17 @@
       ]
     },
     {
-      "type": "paragraph",
+      "uuid": "27b11444-db58-4485-b138-61aa4c6cdaf2",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
       "children": [
         {
-          "text": "Oye mi Canto "
+          "text": ""
         }
       ]
     },
@@ -985,7 +1015,22 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Don Omar 2005 Reggaetón Latino "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "18d68186-63ba-4300-8666-b35fb004ea8b",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -993,7 +1038,22 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "2004 Gasolina "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "b9f70e74-0b1a-4ecf-bfc8-49a28f360c09",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -1001,15 +1061,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "2003 Rakata "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "2003 Quiero Bailar \n"
+          "text": ""
         }
       ]
     },
@@ -1031,13 +1083,33 @@
           "italic": true
         },
         {
-          "text": "\". Mirroring the commercialism and exaggerated sexual license associated with club culture, song themes turned more squarely to macho fantasies about sex. Reggaetón appeared to embrace, if not amplify, a number of racial, gendered, and national stereotypes as the music moved into the mainstream marketplace. Given such changes in context and content, the genre's cultural politics are often seen as undergoing a major shift around the turn of the millennium, moving away from a sonically, textually, and visually encoded foregrounding of racial community toward the urban sound of a pan-ethnic transnational \"Latin\" community. "
+          "text": "\". Mirroring the commercialism and exaggerated sexual license associated with club culture, song themes turned more squarely to macho fantasies about sex. Reggaetón appeared to embrace, if not amplify, a number of racial, gendered, and national stereotypes as the music moved into the mainstream marketplace. Given such changes in context and content, the genre's cultural politics are often seen as undergoing a major shift around the turn of the millennium, moving away from a sonically, textually, and visually encoded foregrounding of racial community toward the urban sound of a pan-ethnic transnational \"Latin\" community. In fact, Luny Tunes proved crucial in moving the genre into the realm of \"Latin\" music by invoking distinctive salsa and merengue piano riffs and other nationalist and gendered Latin/pan-Latin signifiers. "
         }
       ],
       "align": "justify"
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "8f657a1c-c2d8-4874-aa33-99f61c160b41"
+      },
+      "event2": {
+        "uuid": "d4666744-86a3-4a50-ad8b-fdf07611e929"
+      },
+      "type": "event-comparison",
       "children": [
         {
           "text": ""
@@ -1159,6 +1231,6 @@
   "slug": "from-reggae-to-reggaeton",
   "created_at": "2026-03-13T23:04:10.557Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-04-24T22:47:55.086Z",
+  "updated_at": "2026-04-24T23:02:10.761Z",
   "updated_by": "derrek-powell"
 }
