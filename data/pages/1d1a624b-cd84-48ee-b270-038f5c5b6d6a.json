@@ -135,7 +135,8 @@
         {
           "text": " that resonated more closely with Caribbean rhythmic sensibilities. This shift was not merely musical, but semiotic: dancehall’s association with transnational Blackness, urban modernity, and countercultural resistance offered a powerful framework through which artists could position themselves. Indeed, reggaetón’s early uptake in Puerto Rico was deeply tied to these social meanings.  Its sounds, styles, and performance practices indexed forms of marginality, resistance, and urban belonging that were both locally grounded and globally intelligible. Although reggaetón has since become a global commercial phenomenon, these racialized sensibilities continue to echo in the sonic and stylistic templates that structure its contemporary production."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -149,7 +150,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The following sections provide a guided, audio history of the development of reggaetón from dancehall reggae. ",
+          "text": "The following sections provide a guided, audio history of the development of reggaetón from its sample-based origins. ",
           "textSize": "heading-three"
         },
         {
@@ -706,14 +707,6 @@
     },
     {
       "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "align": "left",
       "children": [
         {
@@ -780,7 +773,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Over the late 1990s and early 2000s, underground became less underground both in terms of aesthetics and economics. Around this time, artists and producers (namely Daddy Yankee and DJ Nelson) began to call the genre \""
+          "text": "Over the late 1990s and early 2000s, underground became less underground both in terms of aesthetics and economics. Around this time, artists and producers (namely DJ Nelson and Daddy Yankee) began to call the genre \""
         },
         {
           "text": "reggaetón",
@@ -796,6 +789,84 @@
         {
           "text": "\" or an augmentative form of reggae, roughly translating to \"big reggae\". The popularity of these recordings is in part responsible for the conventionalization of this new name with this music, in particular the synthesized, new beats that, aside from the dembow template, did not cleanly switch into sampled hip-hop and reggae beats as cleanly. "
         }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://drive.google.com/file/d/1Y5Ypnyupm4yrMtM4sNzO2s3rTo4BDFfj/view?usp=sharing",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://drive.google.com/file/d/1dddF1BMznjFSunM-WTWZ1UPDfN9CFTFI/view?usp=sharing",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
       ]
     },
     {
@@ -810,33 +881,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "DJ Blass Reggaeton sex series image "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "Thanks to technological developments in tools for producing and distributing recordings, reggaetón was no longer bound by Puerto Rico's shores or even the broader diasporic circuits in New York. Artists began to mix the dancehall inspired riddims like the dembow template with the propulsive sounds of techno/tecno and later the \"tropical\" sounds of bachata and salsa. Established producers such as DJ Playero, DJ Nelson, and DJ Joe, as well as newcomers like DJ Blass, helped move the genre's primary sound sources from samples to synthesizers resonant of trace-style techno anthems. By 2001, vocalists also began to refine a distinctively Puerto Rican approach to melodic contour and vocal timbre, often evoking the nasal singing styles of many "
+        },
         {
-          "text": "DJ Nelson Reggaeton live vol 1 image "
+          "text": "soneros. ",
+          "italic": true
         }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Thanks to technological developments in tools for producing and distributing recordings, reggaetón was no longer bound by Puerto Rico's shores or even the broader diasporic circuits in New York. Artists began to mix the dancehall inspired riddims like the dembow template with the propulsive sounds of techno/tecno and later the \"tropical\" sounds of bachata and salsa. Established producers such as DJ Playero, DJ Nelson, and DJ Joe, as well as newcomers like DJ Blass, helped move the genre's primary sound sources from samples to synthesizers resonant of trace-style techno anthems. "
-        }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -882,29 +934,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "With the exception of the dem bow template, by the release of DJ Joe's 2001 series \""
-        },
-        {
-          "text": "Fatal Fantassy",
-          "italic": true
-        },
-        {
-          "text": "\", vocalists began to refine a distinctively Puerto Rican approach to melodic contour and vocal timbre, often evoking the nasal singing styles of many soneros that connected the sounds of techno to the sexual. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
         }
       ]
@@ -930,20 +959,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "The rise and success of Luny tunes and the definitive role they played in shaping contemporary reggaetón symbolize the central role migration has played in the ongoing formation and reformation of the genre. Luny (Francisco Saldana) and Tunes (Victor Cabrera) were born in the Dominican Republic before moving to Massachusetts as teenagers. The duo set themselves apart from their forebearers by advancing a distinctive, pop-oriented melodic and harmonic language to reggaetón to embody a sonic form of the flashy blin-blineo/bling-bling style borrowed from commercial hip-hop. Additionally, Luny Tunes also proved crucial in moving the genre into the realm of \"Latin\" music by invoking distinctive salsa and merengue piano riffs and other nationalist and gendered Latin/pan-Latin signifiers. "
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
-      "children": [
-        {
-          "text": "The rise and success of Luny tunes and the definitive role they played in shaping contemporary reggaetón symbolizes the central role migration has played in the ongoing formation and reformation of the genre. Luny (Francisco Saldana) and Tunes (Victor Cabrera) were born in the Dominican Republic before moving to Massachusetts as teenagers. Luny Tunes, and cohorts such as Nelly, Noriega, and Tainy, set themselves apart form their forebears by advancing a distinctive, pop-oriented melodic and harmonic language to reggaetón. The duo produced sleek, shiny tracks with the latest musical devices more common to pop and R&B to embody a sonic form of the flashy style of blin-blineo (\"bling bling\") borrowed from commercial hip-hop and thus resonant with the U.S. mainstream industry and urban radio. Additionally, Luny Tunes also proved crucial in moving the genre into the realm of \"Latin\" or \"tropical\" music by invoking the distinctive piano riffs of salsa and merengue (though they were not the first to do this). "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": ""
@@ -987,6 +1010,37 @@
       "children": [
         {
           "text": "2003 Quiero Bailar \n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In this new, commercialized version, the music was increasingly produced and promoted as the soundtrack of \""
+        },
+        {
+          "text": "perreo",
+          "italic": true
+        },
+        {
+          "text": "\" and \""
+        },
+        {
+          "text": "bellaqueo",
+          "italic": true
+        },
+        {
+          "text": "\". Mirroring the commercialism and exaggerated sexual license associated with club culture, song themes turned more squarely to macho fantasies about sex. Reggaetón appeared to embrace, if not amplify, a number of racial, gendered, and national stereotypes as the music moved into the mainstream marketplace. Given such changes in context and content, the genre's cultural politics are often seen as undergoing a major shift around the turn of the millennium, moving away from a sonically, textually, and visually encoded foregrounding of racial community toward the urban sound of a pan-ethnic transnational \"Latin\" community. "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -1050,21 +1104,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "In this new, commercialized version, the music was increasingly produced and promoted as the soundtrack of \""
-        },
-        {
-          "text": "perreo",
-          "italic": true
-        },
-        {
-          "text": "\" and \""
-        },
-        {
-          "text": "bellaqueo",
-          "italic": true
-        },
-        {
-          "text": "\". Mirroring the commercialism and exaggerated sexual license associated with club culture, song themes turned more squarely to macho fantasies about sex. Reggaetón appeared to embrace, if not amplify, a number of racial, gendered, and national stereotypes as the music moved into the mainstream marketplace. Given such changes in context and content, the genre's cultural politics are often seen as undergoing a major shift around the turn of the millennium, moving away from a sonically, textually, and visually encoded foregrounding of racial community toward nationalist and gendered Latin/pan-Latin signifiers. "
+          "text": ""
         }
       ]
     },
@@ -1119,6 +1159,6 @@
   "slug": "from-reggae-to-reggaeton",
   "created_at": "2026-03-13T23:04:10.557Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-04-24T22:32:13.822Z",
+  "updated_at": "2026-04-24T22:47:55.086Z",
   "updated_by": "derrek-powell"
 }
