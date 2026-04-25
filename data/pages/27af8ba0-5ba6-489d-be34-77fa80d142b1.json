@@ -151,12 +151,74 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "ad173160-4543-4aa0-a022-b6d9ca8a09ce",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": "This was amplified by the rise of Zumba, which moved Latin urban rhythms into gyms, dance studios, cruise ships, and community centers. Through Zumba, reggaetón’s dembow-derived rhythmic sensibility became newly legible as “Latin dance” for global audiences, often detached from the genre’s underground history and racial politics. In this moment, reggaetón entered a new circuit of circulation: not only radio and clubs, but choreographed wellness economies where Afro-diasporic rhythmic templates were repackaged as accessible, high-energy, multicultural fun."
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "12f42cb2-9d18-4136-981b-a70601c9a5c7"
+      },
+      "event2": {
+        "uuid": "2fc23706-4381-4a9a-8e1c-e85f539f6cec"
+      },
+      "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -195,12 +257,36 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": ""
         }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "926413a6-fda1-4a02-bdcc-e5f9158aea6e",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
       ],
-      "align": "justify"
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -248,12 +334,81 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": ""
         }
+      ]
+    },
+    {
+      "uuid": "1bdf7f8e-6ed9-4fca-a50e-469de22d037c",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
       ],
-      "align": "justify"
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "87fbea7e-a3f5-4560-baae-3ececfe6aaf1",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "4e8f3c29-b836-44e2-b68e-c7352d8e1876",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -263,6 +418,15 @@
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "horizontal-separator",
@@ -276,8 +440,69 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Despacito ",
+          "text": "Latin Trap ",
           "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "By the mid-2010s, Latin trap emerged as a countercurrent to the increasingly polished, Latinized reggaetón circulating through global pop markets. Rooted in the sonic aesthetics of U.S. Southern trap—slower tempos, sparse percussion, heavy bass, minor-key atmospheres, and a renewed emphasis on rap flow—Latin trap allowed Puerto Rican artists to reactivate the underground sensibilities that reggaetón had partially shed during its crossover. Artists such as Anuel AA, Bryant Myers, Ozuna, and later Bad Bunny used trap to foreground street-coded authenticity, emotional excess, and linguistic specificity, often performing in a Puerto Rican Spanish that resisted the flattening pressures of mainstream Latin pop."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In this sense, Latin trap was not a departure from reggaetón’s history so much as a return to one of its foundational impulses: the adaptation of Black U.S. and Afro-Caribbean musical forms to articulate local experiences of marginality, masculinity, pleasure, violence, and survival. Its rise helped re-center Puerto Rico within the urbano landscape at a moment when Colombian pop-reggaetón was becoming dominant, while also expanding what urbano could sound and feel like. Latin trap restored darkness, rawness, and lyrical confrontation to the market, preparing the conditions for artists like Bad Bunny to move fluidly between trap, reggaetón, and broader Caribbean experimentation."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": "Despacito "
         }
       ]
     },
@@ -310,12 +535,27 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": ""
         }
+      ]
+    },
+    {
+      "uuid": "490b78b9-3aee-4361-9098-b6f1e59a7118",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
       ],
-      "align": "justify"
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -325,6 +565,15 @@
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "horizontal-separator",
@@ -354,12 +603,27 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": ""
         }
+      ]
+    },
+    {
+      "uuid": "85f48f62-bab8-4670-9e09-f71f4efb4d73",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
       ],
-      "align": "justify"
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -420,6 +684,30 @@
         {
           "text": "The Super Bowl LIV Halftime Show headlined by Shakira and Jennifer Lopez stands as a landmark moment for reggaetón and Latin music’s visibility within the U.S. mainstream, even though the performance itself was not centered on reggaetón as a genre. Framed primarily through pop, dance, and Latin crossover hits, the show nevertheless strategically incorporated urbano through guest appearances by Bad Bunny and J Balvin, as well as performances of tracks like “Mi Gente” and “I Like It,” alongside reggaetón-inflected moments in Shakira’s own catalog. In doing so, the halftime show positioned reggaetón not as a marginal or niche genre, but as an essential component of contemporary Latin popular music, worthy of inclusion on one of the most visible entertainment stages in the world. This moment signals a broader shift in the cultural economy: reggaetón’s sounds, artists, and aesthetics had become sufficiently normalized—and profitable—to be showcased within a highly curated, national spectacle, even if still embedded within a broader, more palatable Latin pop framework."
         }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "8657b574-a9df-48f8-8a1d-680b7e194010",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
       ]
     },
     {
@@ -474,6 +762,21 @@
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "22dddac5-b426-4ac3-a9d8-4ee7faf18217",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
       "children": [
         {
           "text": ""
@@ -659,6 +962,6 @@
   "slug": "from-reggeaton-to-urbano-latino",
   "created_at": "2026-03-13T23:05:16.653Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-04-25T00:37:42.401Z",
+  "updated_at": "2026-04-25T00:56:51.322Z",
   "updated_by": "derrek-powell"
 }
