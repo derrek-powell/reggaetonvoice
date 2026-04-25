@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "1bdf7f8e-6ed9-4fca-a50e-469de22d037c",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-25T00:44:00.307Z",
   "created_by": "derrek-powell",
   "title": "J Balvin Ginza ",
   "slug": "j-balvin-ginza",
-  "updated_at": "2026-04-25T00:44:00.307Z",
+  "updated_at": "2026-04-25T00:50:23.442Z",
   "updated_by": "derrek-powell",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "1bdf7f8e-6ed9-4fca-a50e-469de22d037c"
   }
