@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "4e8f3c29-b836-44e2-b68e-c7352d8e1876",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-25T00:45:47.412Z",
   "created_by": "derrek-powell",
   "title": "Karol G No Queda Nada",
   "slug": "karol-g-no-queda-nada",
-  "updated_at": "2026-04-25T00:45:47.412Z",
+  "updated_at": "2026-04-25T00:50:29.912Z",
   "updated_by": "derrek-powell",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "4e8f3c29-b836-44e2-b68e-c7352d8e1876"
   }
