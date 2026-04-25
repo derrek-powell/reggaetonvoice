@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "8f657a1c-c2d8-4874-aa33-99f61c160b41",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-24T22:54:53.944Z",
   "created_by": "derrek-powell",
   "title": "N.O.R.E Oye mi Canto ",
   "slug": "nore-oye-mi-canto",
-  "updated_at": "2026-04-24T22:54:53.944Z",
+  "updated_at": "2026-04-25T00:38:50.023Z",
   "updated_by": "derrek-powell",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "8f657a1c-c2d8-4874-aa33-99f61c160b41"
   }
