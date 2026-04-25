@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "926413a6-fda1-4a02-bdcc-e5f9158aea6e",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-25T00:43:11.269Z",
   "created_by": "derrek-powell",
   "title": "Enrique Iglesias, Descemer Bueno & Gente de Zona Bailando ",
   "slug": "enrique-iglesias-descemer-bueno-and-gente-de-z",
-  "updated_at": "2026-04-25T00:43:11.269Z",
+  "updated_at": "2026-04-25T00:50:19.843Z",
   "updated_by": "derrek-powell",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "926413a6-fda1-4a02-bdcc-e5f9158aea6e"
   }
