@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "d4666744-86a3-4a50-ad8b-fdf07611e929",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-24T22:55:56.421Z",
   "created_by": "derrek-powell",
   "title": "Don Omar Reggaeton Latino ",
   "slug": "don-omar-reggaeton-latino",
-  "updated_at": "2026-04-24T22:55:56.421Z",
+  "updated_at": "2026-04-25T00:38:57.478Z",
   "updated_by": "derrek-powell",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "d4666744-86a3-4a50-ad8b-fdf07611e929"
   }
