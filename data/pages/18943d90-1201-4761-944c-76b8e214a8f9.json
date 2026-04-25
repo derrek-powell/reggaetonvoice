@@ -4,6 +4,172 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Contribute to the Atlas!",
+          "textSize": "heading-one"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "A letter from the author, Derrek Powell "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": "I want your input and insight! "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "This Atlas is an extension of my dissertation research, which focuses on the enregisterment of the reggaetón voice as an artistically identifiable singing style in Puerto Rico. However, I am not the linguistic authority on this subject, nor am I able to investigate every linguistic aspect of this performance style. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "If you are a scholar of reggaetón—in history, anthropology, political science, or linguistics—and you want to share your research with the Atlas as a way of helping to outline the reggaetón voice, please send me the following: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "1. The Area of the Atlas you'd like to contribute to (phonology, lexicon, history, etc.) "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "2. What you'd like to contribute (an entry, additional information, a specific song feature, etc.) "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "If you would like to contribute an entry, please send me the following: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "1. A brief introduction to the feature "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "2. A history of the feature "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "3. Any information you have about the feature's use in Puerto Rico "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "4. Information about how the feature shows up in reggaetón, complete with song example recommendations. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -17,6 +183,6 @@
   "slug": "contribute-to-the-atlas",
   "created_at": "2026-03-14T00:25:50.447Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-14T00:25:50.447Z",
+  "updated_at": "2026-04-25T02:04:03.691Z",
   "updated_by": "derrek-powell"
 }
