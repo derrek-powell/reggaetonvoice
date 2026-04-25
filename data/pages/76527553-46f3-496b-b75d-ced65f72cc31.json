@@ -4,7 +4,89 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "What is \"Style\" in Linguistics?",
+          "textSize": "heading-one"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-one",
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "Style refers to the creation and performance of distinctiveness in a structured system of possibilities. It is the intersection of agency and structure. Think about how you dress yourself: We know that certain garments go on different parts of the body, and that certain colors and patterns \"pair\" well with others because of the social structures surrounding clothing and color theory in which we are socialized. However, we get to choose how we dress ourselves, meaning sometimes we follow established conventions, and other times we take risks in the pursuit of innovation. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "Language works the same way. There are conventional linguistic structures, including a language's phonological, morphological, and syntactic systems. However, there is also variation within those systems, meaning that not every instance of, say, a written < s > will be pronounced /s/; not every verb in the past tense takes the -ed ending; and not every use of the word \"cool\" refers to temperature. We use variation to craft our own personal style of using language, meaning we are constantly making choices about what we say and how to perform different social roles or effects as we move through life. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "In linguistics, we talk about styles as a cluster of linguistic features. A linguistic feature, or sometimes called a variable, is an element of a speech signal that we can isolate and examine its rate and contexts of occurrence in a sample. Think about hyper- and hypoarticulation: In casual speech, people tend to relax the pronunciation of plosive consonants like /t/ /p/ and /k/, especially at the end of words and syllables. But, we are also told that in public speaking roles, we should be careful to pronounce all of the sounds of a word. If I speak with hyperarticulation in a casual setting, the unexpectedness or the mismatch of the speech signal and the context trigger a specific effect (sometimes humor, other times parody, sometimes imitation, etc.). That is the power of style: the choices we make about how we speak are how we create templates or directives for speaking like "
+        },
+        {
+          "text": "somebody",
+          "italic": true
+        },
+        {
+          "text": ". "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "Insert Image of Style Clusters here  "
         }
       ]
     }
@@ -17,6 +99,6 @@
   "slug": "a-quick-guide-to-linguistic-style",
   "created_at": "2026-03-13T23:01:29.718Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-13T23:01:29.719Z",
+  "updated_at": "2026-04-25T01:04:30.777Z",
   "updated_by": "derrek-powell"
 }
