@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "95dfa1c9-5762-4cd3-a03e-eac1b9673342": {
+      "label": "No Queda Nada (2016) ",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=eKavD10nN3E ",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Karol G No Queda Nada",
+  "av_file_order": [
+    "95dfa1c9-5762-4cd3-a03e-eac1b9673342"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-NC/1.0/",
+  "created_at": "2026-04-25T00:45:47.154Z",
+  "created_by": "derrek-powell",
+  "updated_at": "2026-04-25T00:45:47.154Z",
+  "updated_by": "derrek-powell"
+}
