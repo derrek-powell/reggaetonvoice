@@ -4,20 +4,407 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Singing Style",
+          "textSize": "heading-one"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "If linguistic style is the creation of distinctiveness in a structured speech system, then a singing style is the interface of linguistic and musical style as enacted through phonation of the vocal chords. That is, it is how linguistic variation is manipulated in the context of singing to create different persona or characters, or to perform different emotions, or embody different traits and stances in alignment with the musical performance as a whole. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Linguistic analyses of singing styles are a relatively new undertaking, most definitely because only recently has streaming providing us with the technology to effectively examine large amounts of sung data without needing to physically record singers in a sound booth. Nevertheless, a large amount of the existing research on singing styles are studies examining English vocalists, and for that reason the examples in this section will be about English singing (despite this being an Atlas of Hispanic Musical Voices). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Question of Dialect and Place ",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The earliest sociolinguistic analyses of singing treated style—particularly the use of American English features by non-U.S. artists— as a form of deliberate appropriation tied to the global dominance of U.S. popular music. Within this framework, phonological features associated with American varieties were treated as indexes of place, and their appearance in singing was framed as an attempt to align with the prestige and authority of American musical production. Consider the case of The Beatles, and note how these singers sound \"American\" when singing but \"British\" when speaking. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[The Beatles comparison] "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "While this perspective offered an important starting point for analyzing singing accents, it ultimately reduced performance to a dialectal phenomenon and overlooked the broader semiotic complexity through which musical meaning is produced. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Subsequent work has challenged this view by emphasizing the multimodal and context-specific nature of vocal performance. Drawing on approaches such as acoustemology, scholars argue that sound, rhythm, instrumentation, and embodiment all contribute to how place and identity are evoked in music, often in ways that exceed or override dialectal features. At the same time, singing cannot be treated as a straightforward extension of speech: differences in phonation, melody, and stylistic constraint mean that shifts between spoken and sung production may reflect the demands of the medium rather than intentional acts of identity construction. Consider the case of Little Mix below. These two artists, Leanne and Jade, are from two unique linguistic regions of England. In their interview speech, you can clearly hear Jade's Jordie accent and how it distinguishes her phonologically from Leanne. However, when these two sing the same long from the group's hit \"No More Sad Songs,\" notice how the two not only sound almost identical, but they sound distinctly more American as was the case with the Beatles. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[Little Mix Comparison] "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In 2019, New Zealand sociolinguist Andy Gibson carried out an empirical study specifically to test whether the presence of \"Americanisms\" was intentional or reactive to the medium of singing. By having artists recite lyrics as speaking and singing, Gibson found that every artists' vowels shifted towards qualities associated with U.S. English only when singing. Moreover, the participants explicitly commented on the difficulty of singing in a New Zealand accent, stating that it required conscious effort and was significantly more difficult. In the subsequent years, Gibson has repeatedly shown with both productive and perceptual data that the presence of U.S.-like accents in the songs of New Zealand artists are reactive to the context of singing. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The takeaway from Gibson's work is that features previously interpreted as appropriations of American voices were instead enregistered features of the singing style associated with the genre in which the artists were performing. That is, an American-esque linguistic model is the default and exemplar template for anglophone popular music, having emerged systematically due to the dominance of U.S. musical voices throughout the history of recorded music. Put differently, singers "
+        },
+        {
+          "text": "learn",
+          "italic": true
+        },
+        {
+          "text": " which different variation clusters constitute different singing styles, and how those styles connect the performer and performance artistically to the genre in which they are performing. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "To account for these dynamics, more recent frameworks conceptualize singing voice as operating within “genre-worlds”—intertextual systems of sound, image, and performance that shape both artistic production and audience interpretation. Within these worlds, voice functions simultaneously as instrument, body, persona, and character, with meaning emerging through the interaction of linguistic, musical, and visual cues. Rather than viewing stylistic choices as isolated acts of imitation, this approach understands them as engagements with culturally circulating templates that define what voices should sound like in particular genres. In this sense, the significance of singing styles lies not in their direct indexical link to place, but in how they mobilize shared expectations about voice, identity, and authenticity within specific musical contexts."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Singing is Learned Stylistic Behavior ",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The question of genre is central to the analysis of singing styles, in particular as it relates to notions of intertextuality and the reproduction of form and meaning. In the music industry, genre classifications in popular music are not fixed taxonomies, but market-driven constructions that emerge in response to commercial interests. Once established, however, these categories exert powerful constraints on artistic production, encouraging the repetition of profitable images, sounds, and character types over innovation. Genre labels become linked to specific performative styles, spaces, and narratives (i.e., genre-worlds) through which artists situate themselves with their vocal performance. Therefore, in many cases, the stylistic choices in performance reflect not a direct claim to personal identity, but an imaginative engagement with these genre-worlds and the artistic personae they make available. The Little Mix example above therefore is less about the singers trying to sound \"American\" and more about them adhering to an established model of how to sound like a \"Pop Star\" based on the American voices that dominate the charts. "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Now, not all genres treat the relationship between performer and persona in the same way. In hip-hop, for example, there is a strong ideological expectation that the performer's voice reflects their \"real\" self, collapsing the distinction between person and character. This emphasis on authenticity or \"keepin' it real\" means that linguistic style becomes a key marker of credibility by ensuring the performer does not perform the \"voice\" of someone else. Additionally, within the creative market of hip-hop exist certain linguistic structures that afford agentive exploration, what Samy H. Alim has titled the "
+        },
+        {
+          "text": "Hip Hop Nation Language",
+          "italic": true
+        },
+        {
+          "text": ". This set of tropicalized elements of African American English provides rappers with a way to incorporate an enregistered artistic lexicon into their own vernacular speech as a way of aligning with the genre's traditions of resistance and images of marginality. Consider the case of Mexican-American rapper Snow Tha Product and South Korean rapper CL below. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "When done in ways that maintain a connection to the performer’s own identity and community, such practices are often interpreted as expressions of transnational solidarity. However, these dynamics also expose tensions around appropriation and commodification. When artists adopt raciolinguistically enregistered styles without maintaining the authenticity expected by the genre—particularly when there is a clear disconnect between their performed and everyday speech—such practices are frequently criticized as exploitative. Iggy Azalea is perhaps the most publicly visible case of this tension. Compare how Iggy Azalea speaks to how she raps, and then do the same with Eminem below. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[Iggy Comparison] "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[Eminem Comparison] "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eberhardt & Freeman (2015) did an analysis that showed Iggy Azalea adopts a hypercorrected yet seemingly authentic linguistic style modeled after African American English, whereas Eminem may use features of AAE but they are equally present in both his sung and spoken productions. Their framing of this as linguistic minstrelsy comes from the fact that Azalea is pretending to talk like a Black girl in order to capitalize off the cultural value of Blackness in hip-hop markets without having to confront any of the social problems that befall Black women. That is, she adorns Black Voice or what is commonly referred to as a Blaccent for her own commercial gain. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Why Study Singing Voices? ",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "What the above examples showcase is how singing styles are not neutral linguistic behavior. They are semiotic assemblages that becomes sites where questions of identity, legitimacy, marketability, and appropriation converge. This can therein reveal how genre-worlds not only enable creative expression, but also the commodification of marginalized cultural practices and forms. Studying singing voices, then, allows us to see how sound becomes social meaning—how artists actively construct, negotiate, and contest identities through performance. It reveals the mechanisms through which language, music, and embodiment are mobilized to produce authenticity, circulate cultural value, and reproduce or disrupt systems of power within global markets. In this sense, singing voices offer a uniquely rich site for tracing how culture is both expressed and commodified."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
           "text": ""
         }
       ]
     }
   ],
-  "title": "Examples of Singing Voices ",
+  "title": "Singing Style",
   "parent": "76527553-46f3-496b-b75d-ced65f72cc31",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "examples-of-singing-voices",
+  "slug": "singing-style",
   "created_at": "2026-03-13T23:02:07.262Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-13T23:02:07.262Z",
+  "updated_at": "2026-04-25T01:38:15.976Z",
   "updated_by": "derrek-powell"
 }
