@@ -90,7 +90,23 @@
           "underline": true
         },
         {
-          "text": "). In the International Phonetic Alphabet, this sound is represented with an /s/. "
+          "text": "). In the International Phonetic Alphabet (IPA), this sound is represented with an /s/. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -106,7 +122,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "S-Reduction ",
+          "text": "/s/ Reduction ",
           "textSize": "heading-three"
         }
       ]
@@ -132,6 +148,22 @@
       "children": [
         {
           "text": "[Insert Dialect map about /s/ reduction] "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -175,11 +207,24 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
-        },
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
           "text": "/s/ in Reggaetón ",
-          "textSize": "heading-two"
+          "textSize": "heading-three"
         }
       ]
     },
@@ -208,6 +253,89 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Below are examples that demonstrate claims made in research about the nature of /s/ reduction in reggaetón",
+          "textSize": "heading-three"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Listen Here ",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The following examples are designed to showcase the findings of research on /s/ reduction in contemporary reggeatón. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "/s/ is seen as a genre-specific index of artistic affiliation. This means that scholars have found  artists reduce /s/ significantly more when performing reggaetón but not other genres. Below are examples of Puerto Rican artists specifically who showcase this pattern. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ivy Queen "
+        }
+      ]
+    },
+    {
       "uuid": "cb8196ae-b0c9-449c-9066-a31cbfd78c1b",
       "includes": [
         "media",
@@ -229,7 +357,280 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Include other artists "
+          "text": "Daddy Yankee"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Dalex "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ozuna "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Chesca "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The claim that /s/ functions as an artistic-index linked to reggaetón is also attested in analyses of artists of Caribbean decent who are not from Puerto Rico. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Natti Natasha "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Srta. Dayana "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Moreover, this pattern also holds up for singers who are not of Caribbean descent and who are native speakers of dialects of Spanish that typically retain /s/ in coda. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "J Balvin "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Becky G "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Karol G "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Perhaps the case that best supports this claim is that of the Brazilian singer Anitta, who learned Spanish specifically to enter into the mainstream Hispanophone Latin Music market. Compare her breakout collaboration with Maluma in 2016 to her 2022 hit \"Envolver\" written by Justin Quiles. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Anitta "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Perhaps unsurprisingly, studies have found that the rate of occurrence of /s/ reduction in these productions is approaching the same rate of occurrence as Puerto Rican performers. When compared to their interview speech, it actually appears that Puerto Ricans increase their rate of /s/ retention. This suggests that this Caribbean-based performance model is exactly that. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Finally, the adoption of /s/ reduction by speakers of s-reducing varieties is a relatively new trend, gaining significant widespread traction around 2020 according to the data reviewed in Powell (2024). Given how these dates align with the curtails of Despacito and Bichota, it is hypothesized that the feature acquired its hegemonic indexicality relative to genre around this time. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Moreover, "
         }
       ]
     },
@@ -259,6 +660,6 @@
   "slug": "alveolar-fricatives-in-coda",
   "created_at": "2026-03-14T00:01:39.983Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-14T00:01:39.983Z",
+  "updated_at": "2026-04-25T01:52:30.476Z",
   "updated_by": "derrek-powell"
 }
