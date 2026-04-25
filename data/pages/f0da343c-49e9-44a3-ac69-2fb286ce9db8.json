@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "18d68186-63ba-4300-8666-b35fb004ea8b",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-04-24T22:57:49.806Z",
   "created_by": "derrek-powell",
   "title": "Ivy Queen Yo Quiero Bailar",
   "slug": "ivy-queen-yo-quiero-bailar",
-  "updated_at": "2026-04-24T22:57:49.806Z",
+  "updated_at": "2026-04-25T00:39:18.420Z",
   "updated_by": "derrek-powell",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "18d68186-63ba-4300-8666-b35fb004ea8b"
   }
