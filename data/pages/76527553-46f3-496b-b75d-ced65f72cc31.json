@@ -12,25 +12,6 @@
     },
     {
       "type": "paragraph",
-      "align": "center",
-      "children": [
-        {
-          "textSize": "heading-one",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": "Style refers to the creation and performance of distinctiveness in a structured system of possibilities. It is the intersection of agency and structure. Think about how you dress yourself: We know that certain garments go on different parts of the body, and that certain colors and patterns \"pair\" well with others because of the social structures surrounding clothing and color theory in which we are socialized. However, we get to choose how we dress ourselves, meaning sometimes we follow established conventions, and other times we take risks in the pursuit of innovation. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "align": "left",
       "children": [
         {
@@ -40,37 +21,57 @@
     },
     {
       "type": "paragraph",
-      "align": "left",
       "children": [
         {
-          "text": "Language works the same way. There are conventional linguistic structures, including a language's phonological, morphological, and syntactic systems. However, there is also variation within those systems, meaning that not every instance of, say, a written < s > will be pronounced /s/; not every verb in the past tense takes the -ed ending; and not every use of the word \"cool\" refers to temperature. We use variation to craft our own personal style of using language, meaning we are constantly making choices about what we say and how to perform different social roles or effects as we move through life. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": "In linguistics, we talk about styles as a cluster of linguistic features. A linguistic feature, or sometimes called a variable, is an element of a speech signal that we can isolate and examine its rate and contexts of occurrence in a sample. Think about hyper- and hypoarticulation: In casual speech, people tend to relax the pronunciation of plosive consonants like /t/ /p/ and /k/, especially at the end of words and syllables. But, we are also told that in public speaking roles, we should be careful to pronounce all of the sounds of a word. If I speak with hyperarticulation in a casual setting, the unexpectedness or the mismatch of the speech signal and the context trigger a specific effect (sometimes humor, other times parody, sometimes imitation, etc.). That is the power of style: the choices we make about how we speak are how we create templates or directives for speaking like "
+          "text": "Style",
+          "bold": true
         },
         {
-          "text": "somebody",
+          "text": " refers to the creation and performance of distinctiveness within a structured system of possibilities. It sits at the intersection of agency and structure. Think about how you dress yourself: We know that certain garments go on different parts of the body, and that certain colors and patterns “pair” well with others because of the cultural systems surrounding fashion and color theory in which we are socialized. Nevertheless, we use that knowledge to make choices about how to present ourselves to the world through our attire.  Sometimes we follow established conventions, and other times, we take risks in the pursuit of innovation. Style emerges from that tension."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Language works the same way. There are conventional linguistic structures—phonological, morphological, and syntactic systems—that organize how language operates. But there is also variation within those systems. That is, not every instance of written <s> is pronounced /s/; not every past tense verb takes -ed; and not every use of the word "
+        },
+        {
+          "text": "cool",
           "italic": true
         },
         {
-          "text": ". "
+          "text": " refers to temperature. Speakers draw on this variability to craft their own ways of speaking, meaning that we are constantly making choices about what we say and how we say it to perform different social roles and effects as we move through the world. In sociolinguistics, the co-occurrence of these choices is the foundation of a speech style. "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Styles are clusters of linguistic features that, when paired together, index or perform a particular effect. A linguistic feature (or variable) is an element of speech that can be isolated and analyzed according to its frequency of occurrence in specific contexts. Consider hyper- and hypoarticulation: it is very common for speakers to alternate between a fully realized /t/, /p/, and /k/ sounds and their relaxed variants, especially at the end of words. We can isolate the intensity of these consonants and quantify it across speech contexts, where we might find that speakers use more of the relaxed variants in casual speech than in a formal context like public speaking. We might also find that when someone uses hyperarticulated speech in a casual setting, the mismatch between form and context can perform or create instances of recognizable humor, parody, imitation, or emphasis. This is the power of style: the choices we make about how we speak do not simply convey information; they create socially meaningful patterns that others can recognize, interpret, and even replicate as ways of “sounding like” particular kinds of people."
+        }
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -82,11 +83,49 @@
       ]
     },
     {
+      "type": "image",
+      "url": "https://drive.google.com/file/d/1EPpQj4P_TSlzTSy7Ea1rA0ayu6sTl7ZK/view?usp=sharing",
+      "caption": "A Model of Styles",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "center"
+    },
+    {
       "type": "paragraph",
       "align": "center",
       "children": [
         {
-          "text": "Insert Image of Style Clusters here  "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The naming of styles is a particularly powerful act because it provides us with a way to share our styles referentially and to give other people a way to recognize, interpret, and reproduce them. Once a style is named, it can circulate explicitly as a socially recognizable category that links speech with social meanings tied to categories of imagined speakers. That is, labels like \"professional,\" \"appropriate,\" \"ghetto,\" \"Black,\" or \"gay,\" do not simply describe ways of speaking—they organize expectations about what those styles should sound like and who is authorized to use them. Therefore, while naming is what allows styles to travel through social space, this naming is never neutral. It often reflects broader ideologies about people themselves, and the labels applied to speech styles can act as a way to stabilize its meaning and impose boundaries around its use. "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "When we study speech styles, we are not just studying situated speech production in a descriptive sense. We are examining how the strategic and creative use of linguistic variation in real-life contexts actively shapes the way we use language to navigate social life. "
         }
       ]
     }
@@ -99,6 +138,6 @@
   "slug": "what-is-style-in-linguistics",
   "created_at": "2026-03-13T23:01:29.718Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-04-25T01:04:51.715Z",
+  "updated_at": "2026-04-30T17:21:49.932Z",
   "updated_by": "derrek-powell"
 }
