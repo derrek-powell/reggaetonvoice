@@ -12,14 +12,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Alveolar Fricatives in Coda",
           "textSize": "heading-one"
         }
@@ -90,7 +82,14 @@
           "underline": true
         },
         {
-          "text": "). In the International Phonetic Alphabet (IPA), this sound is represented with an /s/. "
+          "text": "). In the International Phonetic Alphabet (IPA), this sound is represented with an "
+        },
+        {
+          "text": "/s/",
+          "bold": true
+        },
+        {
+          "text": ". "
         }
       ]
     },
@@ -131,9 +130,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "One of the most widely discussed features of Caribbean Spanish and a central resource in reggaetón is the variable realization of syllable-final /s/. Historically, this feature traces back to Southern Spain in Seville and Andalusia, where processes of consonant weakening (lenition) began as early as the 16th century in lower-class speech before spreading upward through the social hierarchy and outward through colonial expansion. As a result, varieties of Spanish across the Caribbean inherited this feature as part of a broader phonological profile shaped by Andalusian input."
+          "text": "One of the most widely discussed features of Caribbean Spanish and a central resource in reggaetón is the variable realization of syllable-final /s/ (e.g., "
+        },
+        {
+          "text": "los mismos",
+          "italic": true
+        },
+        {
+          "text": ").  Historically, this feature traces back to Southern Spain in Seville and Andalusia, where processes of consonant weakening began as early as the 16th century in lower-class speech before spreading upward through the social hierarchy and outward through colonial expansion. As a result, varieties of Spanish across the Caribbean inherited this feature as part of a broader phonological profile shaped by Andalusian input."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -141,7 +148,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -154,14 +162,63 @@
           "bold": true
         },
         {
-          "text": "That is, a fully articulated sibilant [s] may be realized as an aspirated [h], and, in some cases deleted altogether. In Puerto Rican Spanish, this system is even more complex, with scholars documenting not only [s], [h], and [∅], but also a glottal stop [ʔ] as a local variant (e.g., "
+          "text": "That is, a fully articulated sibilant [s] may be realized as such (e.g., [los 'mismos]), an aspirated [h] ([loh 'mihmoh]), and, in some cases, deleted altogether ([lo 'mimo]). In Puerto Rico, /s/ reduction falls within Stage 3 of Lipski's weakening pathway (see below). This system is even more complex, with scholars documenting not only [s], [h], and [∅], but also their voiced counterparts [z] and [ɦ], and a glottal stop [ʔ]  ([loʔ ˈmihmoʔ]). Importantly, the lack of /s/ does not create confusion between words that without /s/ are homophonous (e.g., "
         },
         {
-          "text": "los mismos",
+          "text": "mismo",
           "italic": true
         },
         {
-          "text": " → [loh ˈmihmoh], [lo ˈmimo], [loʔˈmihmoʔ]). Crucially, these are not random alternations. Their distribution is conditioned by phonological environment (e.g., position in the syllable), as well as social and stylistic factors. "
+          "text": " and "
+        },
+        {
+          "text": "mimo",
+          "italic": true
+        },
+        {
+          "text": "), as speakers utilize several phonetic strategies to distinguish forms, including vocalic and consonantal lengthening and consonantal strengthening (e.g., "
+        },
+        {
+          "text": "mismo",
+          "italic": true
+        },
+        {
+          "text": " ['mim:o] vs "
+        },
+        {
+          "text": "mimo",
+          "italic": true
+        },
+        {
+          "text": " ['mimo]). "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "The alternation between these forms are not random. Rather, their distribution is conditioned by phonological environment (e.g., whether the /s/ precedes a consonant or a vowel), as well as social and stylistic factors. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -172,6 +229,17 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "image",
+      "url": "https://drive.google.com/file/d/1c83P40bRzW2KUQeTXGwMf1ZVmRg319uj/view?usp=sharing",
+      "caption": "Lipski's S-Weakening Pathway ",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -707,6 +775,6 @@
   "slug": "alveolar-fricatives-in-coda",
   "created_at": "2026-03-14T00:01:39.983Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-04-30T18:15:05.313Z",
+  "updated_at": "2026-04-30T18:49:55.442Z",
   "updated_by": "derrek-powell"
 }
