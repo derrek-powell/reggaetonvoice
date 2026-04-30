@@ -55,16 +55,23 @@
       "children": [
         {
           "textSize": "heading-three",
-          "text": "A Brief History "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
     {
       "type": "paragraph",
-      "align": "left",
       "children": [
         {
-          "text": "The working theory is a combination of rhotacism from Andalusia and the Canary Islands and an approximation of rhotics absent in the African languages of the people captured and enslaved from the west coast of Africa. "
+          "text": ""
         }
       ]
     },
@@ -74,6 +81,127 @@
       "children": [
         {
           "textSize": "heading-three",
+          "text": "A Brief History "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "The working theory is a combination of rhotacism from Andalusia and the Canary Islands and an approximation of rhotics absent in the African languages of the people captured and enslaved from the west coast of Africa."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "One of the most recognizable phonological features associated with Puerto Rican Spanish is the variable realization of syllable-final /ɾ/, commonly referred to as "
+        },
+        {
+          "text": "lambdacism",
+          "italic": true
+        },
+        {
+          "text": " (i.e., the lateralization of /ɾ/ to [l], as in "
+        },
+        {
+          "text": "parte",
+          "italic": true
+        },
+        {
+          "text": " → [ˈpalte]). Like /s/ weakening, this feature is part of a broader set of consonant neutralizations characteristic of Caribbean Spanish, where contrasts between liquids in coda position are often reduced. While this process is not unique to Puerto Rico, it has become especially salient in popular and metalinguistic discourse, where speakers are stereotypically described as “diciendo "
+        },
+        {
+          "text": "ele por ere",
+          "italic": true
+        },
+        {
+          "text": "” ."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Phonetically, /ɾ/ in Puerto Rican Spanish exhibits a wide range of variation beyond simple lateralization. In addition to the prescriptive tap [ɾ], scholars document lateral variants [l] and [ɭ], rhotic approximants [ɹ]/[ɻ] (similar to English "
+        },
+        {
+          "text": "r",
+          "italic": true
+        },
+        {
+          "text": "), gemination of following consonants, and occasional deletion. Earlier variationist work often reduced this system to a binary contrast between [ɾ] and [l], mapping it onto a prestige–stigma continuum. More recent research, however, shows that this variation is far more complex, with different variants carrying distinct social meanings depending on context, speaker, and listener perception."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -90,16 +218,56 @@
     },
     {
       "type": "paragraph",
-      "align": "left",
       "children": [
         {
-          "text": "Alveolar taps in Puerto Rico showcase a significant amount of productive variation. They can be realized as taps, tap approximates, rhotic retroflexes, lateral approximates, bunched laterals, or canonical laterals. "
+          "text": "Socially, the prescriptive [ɾ] is typically associated with formality, education, and institutional authority, aligning with broader standard language ideologies. Lateralization [l], by contrast, has historically been stigmatized as nonstandard or vulgar, often linked to working-class, rural, or older male speakers. At the same time, newer studies show shifting evaluations, with younger Puerto Ricans sometimes reevaluating [l] as a marker of authenticity, informality, and local identity. In particular, exaggerated or stylized uses of [l] are associated with "
+        },
+        {
+          "text": "caco",
+          "italic": true
+        },
+        {
+          "text": " personae—urban, working-class masculinities tied to reggaetón culture—illustrating how the feature can be mobilized as a positive stylistic resource in the right context ."
         }
       ]
     },
     {
       "type": "paragraph",
-      "align": "left",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Crucially, as with /s/, the meanings of lambdacism are not fixed—they are mediated by raciolinguistic perception. Studies show that the same lateralized variant [l] may be evaluated positively when attributed to a Puerto Rican speaker, but negatively when attributed to a Dominican speaker, reflecting broader hierarchies of race, nationality, and belonging on the island . In this sense, lambdacism is not simply a phonological feature; it is part of a larger indexical field through which listeners interpret identity. Its social meaning emerges not from the sound itself, but from how that sound is heard, categorized, and linked to socially recognizable types of speakers."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://drive.google.com/file/d/1Ja6E2oDldee4Djq1y59ttPVW5SuSgMQR/view?usp=sharing",
+      "caption": "Indexical Field of Lambdacism ",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -108,10 +276,9 @@
     },
     {
       "type": "paragraph",
-      "align": "left",
       "children": [
         {
-          "text": "Indexical Field "
+          "text": ""
         }
       ]
     },
@@ -136,8 +303,7 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-two",
-          "text": ""
+          "text": "Within reggaetón and other forms of Latin urban music, lambdacism functions as a key stylistic resource. Like /s/ reduction, it has become enregistered as part of a recognizable “reggaetón voice,” allowing performers to index Caribbeanness, urbanity, and particular gendered or classed identities through phonological variation. What begins as a local pattern of consonant neutralization thus becomes a globally circulating marker of style—one that artists can adopt, exaggerate, or resist in the construction of their musical personae."
         }
       ]
     },
@@ -411,6 +577,6 @@
   "slug": "alveolar-taps-in-coda",
   "created_at": "2026-03-14T00:15:16.919Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-04-25T01:58:14.148Z",
+  "updated_at": "2026-04-30T19:12:32.676Z",
   "updated_by": "derrek-powell"
 }
