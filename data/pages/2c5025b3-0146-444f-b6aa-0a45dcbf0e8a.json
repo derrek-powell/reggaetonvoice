@@ -131,7 +131,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Brief history (16th-century Seville) "
+          "text": "One of the most widely discussed features of Caribbean Spanish and a central resource in reggaetón is the variable realization of syllable-final /s/. Historically, this feature traces back to Southern Spain in Seville and Andalusia, where processes of consonant weakening (lenition) began as early as the 16th century in lower-class speech before spreading upward through the social hierarchy and outward through colonial expansion. As a result, varieties of Spanish across the Caribbean inherited this feature as part of a broader phonological profile shaped by Andalusian input."
         }
       ]
     },
@@ -139,7 +139,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[Insert table about Spanish /s/ reduction pathway] (Lipski, 1999) "
+          "text": ""
         }
       ]
     },
@@ -147,7 +147,37 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[Insert Dialect map about /s/ reduction] "
+          "text": "Phonetically, /s/ reduction is often described as a weakening pathway "
+        },
+        {
+          "text": "[s] → [h] → [∅]. ",
+          "bold": true
+        },
+        {
+          "text": "That is, a fully articulated sibilant [s] may be realized as an aspirated [h], and, in some cases deleted altogether. In Puerto Rican Spanish, this system is even more complex, with scholars documenting not only [s], [h], and [∅], but also a glottal stop [ʔ] as a local variant (e.g., "
+        },
+        {
+          "text": "los mismos",
+          "italic": true
+        },
+        {
+          "text": " → [loh ˈmihmoh], [lo ˈmimo], [loʔˈmihmoʔ]). Crucially, these are not random alternations. Their distribution is conditioned by phonological environment (e.g., position in the syllable), as well as social and stylistic factors. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -183,7 +213,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The Spanish spoken by Puerto Ricans features a significant amount of /s/ reduction. "
+          "text": "In Puerto Rico, /s/ variation is deeply embedded in social evaluation. Traditionally, full [s] is associated with formality, education, and institutional authority, while aspiration [h] and deletion [∅] are linked to informality and everyday speech. However, these associations are not stable or uniform. Aspirated [h], for example, is often positively evaluated as an authentic marker of Puerto Rican identity, particularly in casual contexts. Deletion [∅], by contrast, is more heavily stigmatized, frequently associated with lack of education or lower socioeconomic status. At the same time, these values are highly context-dependent and mediated by who is perceived to be using the feature."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -191,7 +230,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[Insert table about Puerto Rican /s/ variation & compensation strategies]\n"
+          "text": "Importantly, /s/ reduction in Puerto Rico cannot be understood purely as a linguistic variable—it is a raciolinguistic one. Associations between deletion [∅] and Dominican Spanish, for instance, demonstrate how phonological features become sites for broader social ideologies, including racialization, migration, and national identity. The same variant may be evaluated differently depending on whether the speaker is perceived as Puerto Rican, Dominican, or foreign. In this sense, /s/ variation operates not only as a marker of speech style, but as part of a larger indexical field through which listeners interpret identity, authenticity, and social belonging."
         }
       ]
     },
@@ -199,7 +238,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[Insert transcribed examples from an interview with reggaetón artists] "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Taken together, /s/ reduction illustrates how a phonological process that originated as a regional feature becomes reinterpreted through social practice. In everyday speech and especially in musical performance, these variants are not simply inherited—they are strategically deployed. This is why /s/ reduction plays such a central role in reggaetón: it has become enregistered as part of the genre’s sonic identity, a stylistic resource that signals Caribbeanness, urbanity, and authenticity, regardless of where the performer is from.\n"
         }
       ]
     },
@@ -660,6 +707,6 @@
   "slug": "alveolar-fricatives-in-coda",
   "created_at": "2026-03-14T00:01:39.983Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-04-25T01:52:30.476Z",
+  "updated_at": "2026-04-30T18:15:05.313Z",
   "updated_by": "derrek-powell"
 }
