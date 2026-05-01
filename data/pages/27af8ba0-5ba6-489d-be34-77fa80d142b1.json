@@ -33,16 +33,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The trajectory of reggaetón’s incorporation into the global music industry follows a familiar pattern shared with other Afro-diasporic genres: forms that emerge as localized articulations of Black expressive culture are gradually recontextualized, sanitized, and redistributed through dominant market logics. In its early stages, reggaetón functioned as a site of Afro-diasporic resistance in Puerto Rico, drawing from hip-hop and dancehall to articulate the lived realities of working-class and racialized communities, particularly in the "
+          "text": "The trajectory of reggaetón’s incorporation into the global music industry follows a familiar pattern shared with other Afro-diasporic genres: forms that emerge as localized articulations of Black expressive culture are gradually recontextualized, sanitized, and redistributed through dominant market logics. In its early stages, reggaetón functioned as a site of Black-diasporic resistance in Puerto Rico, drawing from hip-hop and dancehall to articulate the lived realities of working-class and racialized communities, particularly in the "
         },
         {
           "text": "caseríos",
           "italic": true
         },
         {
-          "text": " of San Juan. These performances adapted circulating Black musical forms to local conditions, producing a genre that was both globally resonant and locally grounded. Its early reception reflects this positioning—widely embraced by youth audiences while simultaneously subjected to censorship campaigns that framed the music as morally corrupting and socially destabilizing. Ironically, such efforts only amplified its underground circulation, consolidating reggaetón as a powerful countercultural force."
+          "text": " of San Juan.  Its early reception reflects this positioning—widely embraced by youth audiences while simultaneously subjected to censorship campaigns that framed the music as morally corrupting and socially destabilizing. Ironically, such efforts only amplified its underground circulation, consolidating reggaetón as a powerful countercultural force."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -56,39 +57,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "By the early 2000s, however, reggaetón’s rapid rise—punctuated by the crossover success of Gasolina by Daddy Yankee—positioned the genre for incorporation into U.S. and global media markets. This moment coincided with the so-called “Latin Boom,” in which artists like Ricky Martin, Enrique Iglesias, and Shakira were already establishing the commercial viability of “Latin” music for Anglophone audiences. Within this framework, reggaetón was rebranded as “Latin urban” or “Latin hip-hop,” a move that both expanded its reach and initiated a process of discursive flattening. The industry’s reliance on broad, marketable identity categories produced a version of Latinidad that obscured internal heterogeneity, collapsing diverse histories, racial formations, and linguistic practices into a singular, consumable genre-world."
+          "text": "By the early 2000s, however, reggaetón’s rapid rise—punctuated by the crossover success of Gasolina by Daddy Yankee—positioned the genre for incorporation into U.S. and global media markets. This moment coincided with the so-called “Latin Boom,” in which artists like Ricky Martin, Enrique Iglesias, and Shakira were already establishing the commercial viability of “Latin” music for Anglophone audiences. Within this framework, reggaetón was rebranded as “Latin\" hip-hop, a move that expanded its reach while initiating a process of discursive flattening that erased the Black diasporic and transnational origins of the genre. This process of Latinization was not neutral. It operated through what can be understood as a set of racialized and aesthetic “safety frames” that rendered reggaetón legible and profitable to global audiences. These frames privileged artists who conformed more closely to a dominant “Latin look” (light complexion, European features, racially ambiguous presentation) while downplaying or erasing the genre’s Afro-Caribbean origins. Simultaneously, the raciolinguistic enregisterment of Spanish as the defining marker of Latinidad allowed the genre’s linguistic surface to stand in for cultural authenticity, even as the Blackness that originally animated its sonic and performative practices was increasingly backgrounded. In this sense, reggaetón’s crossover depended not only on translation across markets, but on a partial detachment from the Blackness that had initially rendered it politically and culturally potent."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "This process of Latinization was not neutral. It operated through what can be understood as a set of racialized and aesthetic “safety frames” that rendered reggaetón legible—and profitable—to global audiences. These frames privileged artists who conformed more closely to a dominant “Latin look” (light complexion, European features, racially ambiguous presentation) while downplaying or erasing the genre’s Afro-Caribbean origins. Simultaneously, the raciolinguistic enregisterment of Spanish as the defining marker of Latinidad allowed the genre’s linguistic surface to stand in for cultural authenticity, even as the Blackness that originally animated its sonic and performative practices was increasingly backgrounded. In this sense, reggaetón’s crossover depended not only on translation across markets, but on a partial detachment from the Africanity that had initially rendered it politically and culturally potent."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "As reggaetón became a dominant force in global popular music, these dynamics intensified. The genre’s sonic templates—dembow rhythms, vocal delivery styles, and embodied performance practices rooted in Afro-diasporic traditions—remained central to its appeal, yet their circulation was increasingly mediated by artists and industry structures positioned closer to whiteness, economic privilege, and transnational mobility. The result is a political economy in which Afro-Caribbean expressive forms are widely consumed as markers of a generalized, non-threatening urban Latinidad, while the communities and identities most directly tied to their emergence are rendered less visible within mainstream representations. Reggaetón’s Latinization, then, is not simply a story of expansion, but of transformation: a reconfiguration of the genre’s indexical field in which Blackness, language, and marketability are continuously negotiated."
         }
       ]
     },
@@ -97,8 +76,38 @@
       "align": "center",
       "children": [
         {
-          "text": "\n"
+          "text": "[Solis Miranda's old vs new reggaetón artists picture] "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "As reggaetón became a dominant force in global popular music, these dynamics intensified. The genre’s sonic templates for embodied performance rooted in Black-diasporic traditions remained central to its appeal, yet their circulation was increasingly mediated by artists and industry structures positioned closer to whiteness, economic privilege, and transnational mobility. The result is a political economy in which Afro-, Afro-Caribbean, and Caribbean expressive forms more broadly are widely consumed as markers of a generalized, non-threatening "
         },
+        {
+          "text": "urban",
+          "italic": true
+        },
+        {
+          "text": " Latinidad, while the communities and identities most directly tied to their emergence are rendered less visible within mainstream representations. Reggaetón’s Latinization, then, is not simply a story of expansion, but of transformation: a reconfiguration of the genre’s indexical field in which Blackness, language, and marketability are continuously negotiated."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
         {
           "text": "\nBelow are some of the most pivotal moments of reggaetón's continued transformation and globalization over the past two decades. ",
           "textSize": "heading-three"
@@ -962,6 +971,6 @@
   "slug": "from-reggeaton-to-urbano-latino",
   "created_at": "2026-03-13T23:05:16.653Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-04-25T00:56:51.322Z",
+  "updated_at": "2026-05-01T18:44:00.028Z",
   "updated_by": "derrek-powell"
 }
