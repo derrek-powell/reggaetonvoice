@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "076752cb-4763-47ad-beb0-f853df12ddb7": {
+      "label": "Chuck (2023) ",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=o0AkME8JD14",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "CL Chuck ",
+  "av_file_order": [
+    "076752cb-4763-47ad-beb0-f853df12ddb7"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-NC/1.0/",
+  "created_at": "2026-05-01T18:28:24.841Z",
+  "created_by": "derrek-powell",
+  "updated_at": "2026-05-01T18:28:24.841Z",
+  "updated_by": "derrek-powell"
+}
