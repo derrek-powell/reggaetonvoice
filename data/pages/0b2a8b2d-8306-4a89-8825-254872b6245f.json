@@ -91,16 +91,35 @@
     },
     {
       "type": "paragraph",
-      "align": "center",
+      "align": "justify",
       "children": [
         {
-          "text": "[Insert the example of the Beatles]"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "90af35c9-31a1-4054-a587-d8d36d184a9a"
+      },
+      "event2": {
+        "uuid": "3d0c2ef1-8836-4a23-a66e-03740d1ff2ae"
+      },
+      "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
     {
       "type": "paragraph",
-      "align": "justify",
       "children": [
         {
           "text": ""
@@ -291,7 +310,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "To account for these dynamics, more recent frameworks conceptualize singing voice as operating within "
+          "text": "To account for these dynamics, more recent frameworks conceptualize singing voices as operating within "
         },
         {
           "text": "genre-worlds",
@@ -315,9 +334,10 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Genre is therefore central to understanding singing styles. In the music industry, genres are not fixed taxonomies, but market-driven categories that emerge in response to commercial interests. Once established, however, they exert powerful constraints, encouraging artists to reproduce profitable sounds, images, and personae. The Little Mix example is less about trying to “sound American” and more about adhering to a recognizable model of how a “pop star” should sound—one historically shaped by American musical dominance."
+          "text": "Genre is therefore central to understanding singing styles. In the music industry, genres are not fixed taxonomies, but market-driven categories that emerge in response to commercial interests. Once established, however, they exert powerful constraints, encouraging artists to reproduce profitable sounds, images, and personae. The Little Mix example above is therefore less about trying to “sound American” and more about adhering to a recognizable model of how a “pop star” should sound—one historically shaped by American musical dominance."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -331,7 +351,21 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "At the same time, not all genres structure the relationship between performer and persona in the same way. In hip-hop, for example, there is a strong ideological expectation that the performer’s voice reflects their “real” self, collapsing the distinction between person and character. Authenticity—often framed as “keepin’ it real”—is central, and linguistic style becomes a key marker of credibility. Within this space, artists draw on what Samy Alim terms the Hip Hop Nation Language, a set of enregistered features associated with African American English that circulate globally as stylistic resources. When used in ways that remain grounded in the performer’s identity and community, such practices are often interpreted as expressions of transnational solidarity."
+          "text": "At the same time, not all genres structure the relationship between performer and persona in the same way. In hip-hop, for example, there is a strong ideological expectation that the performer’s voice reflects their “real” self, as discernible by their linguistic behavior. "
+        },
+        {
+          "text": "Authenticity",
+          "bold": true
+        },
+        {
+          "text": " or “keepin’ it real” is central, and linguistic style becomes a key marker of credibility. Within this space, artists draw on what Samy Alim terms the "
+        },
+        {
+          "text": "Hip Hop Nation Language",
+          "bold": true
+        },
+        {
+          "text": ", a set of enregistered features associated with African American English that circulate globally as stylistic resources. When used in ways that remain grounded in the performer’s identity and community, such practices are often interpreted as expressions of transnational solidarity. Below are some examples from the Chicana rapper Snow Tha Product and the South Korean rapper CL to showcase how English is systematically integrated into the production. "
         }
       ],
       "align": "justify"
@@ -366,13 +400,32 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "However, they also expose tensions around appropriation and commodification. When artists adopt raciolinguistically enregistered styles without maintaining the authenticity expected by the genre—particularly when there is a clear disconnect between performed and everyday speech—these practices are frequently criticized as exploitative. The case of Iggy Azalea is especially instructive: her use of African American English features in performance contrasts sharply with her spoken speech, leading scholars to frame her style as linguistic minstrelsy. By comparison, Eminem’s use of similar features is more consistent across contexts, aligning more closely with hip-hop’s expectations of authenticity."
+          "text": "However, they also expose tensions around appropriation and commodification. When artists adopt raciolinguistically enregistered styles without maintaining the authenticity expected by the genre—particularly when there is a clear disconnect between performed and everyday speech—these practices are frequently criticized as exploitative. The case of Iggy Azalea is especially instructive: her use of African American English features in performance contrasts sharply with her spoken speech, leading scholars to frame her style as linguistic minstrelsy. By comparison, Eminem’s use of similar features is more consistent across contexts, aligning more closely with hip-hop’s expectations of authenticity. "
         }
       ],
       "align": "justify"
     },
     {
-      "type": "heading-two",
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "[Iggy Azalea & Eminem examples?] "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
       "children": [
         {
           "text": ""
@@ -458,6 +511,6 @@
   "slug": "singing-style",
   "created_at": "2026-03-13T23:02:07.262Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-01T18:18:26.568Z",
+  "updated_at": "2026-05-01T18:26:33.627Z",
   "updated_by": "derrek-powell"
 }
