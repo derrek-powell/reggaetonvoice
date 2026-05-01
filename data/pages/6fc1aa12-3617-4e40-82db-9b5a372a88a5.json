@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "65c0578a-b071-4ca6-b25e-c79a0733b054",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-05-01T18:28:25.297Z",
   "created_by": "derrek-powell",
   "title": "CL Chuck ",
   "slug": "cl-chuck",
-  "updated_at": "2026-05-01T18:28:25.297Z",
+  "updated_at": "2026-05-01T18:28:44.416Z",
   "updated_by": "derrek-powell",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "65c0578a-b071-4ca6-b25e-c79a0733b054"
   }
