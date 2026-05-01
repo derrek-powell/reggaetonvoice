@@ -1,0 +1,14 @@
+{
+  "content": [],
+  "created_at": "2026-05-01T18:18:58.614Z",
+  "created_by": "derrek-powell",
+  "title": "The Beatles Interview",
+  "slug": "the-beatles-interview",
+  "updated_at": "2026-05-01T18:18:58.614Z",
+  "updated_by": "derrek-powell",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "90af35c9-31a1-4054-a587-d8d36d184a9a"
+  }
+}
