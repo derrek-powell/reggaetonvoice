@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "1a265255-d430-4068-bc9c-4f160779dffa": {
+      "label": "I Want to Hold Your Hand",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=jenWdylTtzs",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "The Beatles Hold Your Hand",
+  "av_file_order": [
+    "1a265255-d430-4068-bc9c-4f160779dffa"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-NC/1.0/",
+  "created_at": "2026-05-01T18:20:03.479Z",
+  "created_by": "derrek-powell",
+  "updated_at": "2026-05-01T18:20:03.479Z",
+  "updated_by": "derrek-powell"
+}
