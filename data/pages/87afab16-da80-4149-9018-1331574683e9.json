@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "38a032fd-d572-46bb-a919-28347a867141",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-05-03T19:40:18.396Z",
   "created_by": "derrek-powell",
   "title": "Bad Bunny EeO",
   "slug": "bad-bunny-eeo",
-  "updated_at": "2026-05-03T19:40:18.396Z",
+  "updated_at": "2026-05-03T19:41:34.480Z",
   "updated_by": "derrek-powell",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "38a032fd-d572-46bb-a919-28347a867141"
   }
