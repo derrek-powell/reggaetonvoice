@@ -120,7 +120,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Linguistic Structure ",
+          "text": "Overview",
           "textSize": "heading-three"
         }
       ]
@@ -129,34 +129,10 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This section covers the technical linguistic aspects of the feature under study. For phonetic/phonological elements, this may include the phonetics of how the sound is produced and information about its phonological conditioning. For syntactic elements, this could include information about the clausal structure and pertinent interactions with semantics. This section is largely written for other linguists but in a voice that aims to remain accessible for readers without a linguistic background. "
+          "text": "This section covers the technical linguistic aspects of the feature under study. For phonetic/phonological elements, this may include the phonetics of how the sound is produced and information about its phonological conditioning. For syntactic elements, this could include information about the clausal structure and pertinent interactions with semantics. This section is largely written for other linguists but in a voice that aims to remain accessible for readers without a linguistic background. When applicable, this section will also detail theories about the origins of the linguistic behavior in a general sense. This can include theories of its development and dispersion, or any information the analyst deems pertinent to effectively introduce readers to the feature. "
         }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "A brief history",
-          "textSize": "heading-three"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "When applicable, this section aims to detail theories about the origins of the linguistic behavior in a general sense. This can include theories of its development and dispersion, or any information the analyst deems pertinent to effectively introduce readers to the feature. "
-        }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -226,6 +202,6 @@
   "slug": "the-reggaeton-voice",
   "created_at": "2026-03-13T23:05:32.862Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-03T20:55:30.646Z",
+  "updated_at": "2026-05-03T20:57:06.033Z",
   "updated_by": "derrek-powell"
 }
