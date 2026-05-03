@@ -59,7 +59,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Reggaetón is widely recognized as a Puerto Rican musical innovation that emerged from the underground scenes of San Juan in the 1990s. At its core, the genre is a fusion of dancehall and rap, often described as hip-hop lyricism performed over dancehall-derived rhythmic structures. Yet this formulation only captures part of the story. Reggaetón developed through a broader trans-Caribbean and diasporic musical ecology, shaped by the simultaneous circulation and popularization of Jamaican dancehall, Afro-Panamanian"
+          "text": "Reggaetón is widely recognized as a Puerto Rican musical innovation that emerged from the underground and nightclub scenes of San Juan in the 1990s. At its core, the genre is a fusion of dancehall and rap, often described as hip hop lyricism performed over dancehall-derived rhythmic structures. Yet this formulation only captures part of the story. Reggaetón developed through a broader trans-Caribbean and diasporic musical ecology, shaped by the simultaneous circulation and popularization of Jamaican dancehall, Afro-Panamanian"
         },
         {
           "text": " reggae en español",
@@ -85,7 +85,14 @@
       "align": "justify",
       "children": [
         {
-          "text": "These genres did not evolve in isolation. In fact, throughout the late twentieth century, dancehall and hip-hop frequently traveled together, heard across the Caribbean and its diasporas as complementary “Black musics” that shared aesthetic, social, and political affinities. In Panama, reggae en español emerged through a direct adoption of Jamaican musical traditions, resulting in a localized practice that closely emulated dancehall’s sonic and performative conventions. In contrast, Puerto Rico’s engagement with these sounds was more indirect, mediated through New York City, where Caribbean and African American communities lived in proximity and were often racialized within a shared framework of Blackness."
+          "text": "These genres did not evolve in isolation. In fact, throughout the late twentieth century, dancehall and hip-hop frequently traveled together, heard across the Caribbean and its diasporas as complementary “Black musics” that shared aesthetic, social, and political affinities. In Panama, "
+        },
+        {
+          "text": "reggae en español",
+          "italic": true
+        },
+        {
+          "text": " emerged through a direct adoption of Jamaican musical traditions, resulting in a localized practice that closely emulated dancehall’s sonic and performative conventions. In contrast, Puerto Rico’s engagement with these sounds was more indirect, mediated in part through New York City, where Caribbean and African American communities lived in proximity and were often racialized within a shared framework of Blackness."
         }
       ]
     },
@@ -102,7 +109,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "New York thus played a pivotal role in reggaetón’s formation. Within its dense, multiethnic neighborhoods, Panamanians, Jamaicans, Puerto Ricans, Dominicans, and African Americans encountered one another through everyday social life and through music. Genres like reggae and hip-hop resonated powerfully in these contexts as expressive forms capable of articulating emergent, diasporic Black subjectivities and solidarities (Marshall 2009: 33). It was through this urban contact zone that dancehall circulated into Puerto Rico—not directly from Kingston, but refracted through the aesthetics, technologies, and cultural politics of New York hip-hop."
+          "text": "New York thus played a pivotal role in reggaetón’s formation. Within its dense, multiethnic neighborhoods, Panamanians, Jamaicans, Puerto Ricans, Dominicans, and African Americans encountered one another through everyday social life and through music. Genres like reggae and hip-hop resonated powerfully in these contexts as expressive forms capable of articulating emergent, diasporic Black subjectivities and solidarities. It was through this urban contact zone that dancehall circulated into Puerto Rico—not directly from Kingston, but refracted through the aesthetics, technologies, and cultural politics of New York hip hop."
         }
       ],
       "align": "justify"
@@ -1143,6 +1150,6 @@
   "slug": "from-reggae-to-reggaeton",
   "created_at": "2026-03-13T23:04:10.557Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-01T18:37:47.732Z",
+  "updated_at": "2026-05-03T18:12:43.265Z",
   "updated_by": "derrek-powell"
 }
