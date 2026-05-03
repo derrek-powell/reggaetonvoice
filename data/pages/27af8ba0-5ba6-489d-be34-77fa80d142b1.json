@@ -70,7 +70,25 @@
       "align": "center",
       "children": [
         {
-          "text": "[Solis Miranda's old vs new reggaetón artists picture] "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://drive.google.com/file/d/1Wyq3fPkNCLnjdlkQFX9zwKaO02Ql5UhD/view?usp=sharing",
+      "caption": "Early reggaetón artists on top (from L to R, El General, Tego Calderón, Don Omar) and newer reggaetón headliners (L to R, J Balvin, Maluma, Bad Bunny) ",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -1164,6 +1182,6 @@
   "slug": "from-reggeaton-to-urbano-latino",
   "created_at": "2026-03-13T23:05:16.653Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-03T19:52:03.373Z",
+  "updated_at": "2026-05-03T20:14:08.202Z",
   "updated_by": "derrek-powell"
 }
