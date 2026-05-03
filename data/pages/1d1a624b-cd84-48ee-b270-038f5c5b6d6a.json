@@ -385,7 +385,7 @@
           "italic": true
         },
         {
-          "text": "While reggaetón drew from dancehall musically, the flow (i.e., scripting and delivery) of the lyrics and performance of artistic personae drew more heavily from rap and hip-hop, so much that the genre is often described as hip-hop flow layered on top of a reggae beat (Marshall, 2009: 27) "
+          "text": "While reggaetón drew from dancehall musically, the flow (i.e., scripting and delivery) of the lyrics and performance of artistic personae drew more heavily from rap and hip-hop, so much that the genre is often described as hip-hop flow layered on top of a reggae beat."
         }
       ],
       "align": "justify"
@@ -746,7 +746,7 @@
       "align": "justify",
       "children": [
         {
-          "text": "These underground recordings literally circulated outside mainstream Puerto Rican commercial channels as cassette tapes made from a small run of master tapes until about 1994. This underground distribution was in part due to the music's inherited reputation as the obscene music of the (racialized) underclass and clashes with the National Center on Sexual Exploitation (NCOSE, formerly Morality in Media) to keep them out of mainstream channels. It wasn't until 1999 when DJ Nelson and DJ Coyote managed to get San Juan's mix 107.7 fm to begin a 24/7 reggaetón format station, and the genre began to expand into ear of the mainstream. "
+          "text": "These underground recordings literally circulated outside mainstream Puerto Rican commercial channels as cassette tapes made from a small run of master tapes until about 1994. This underground distribution was in part due to the music's inherited reputation as the obscene music of the (racialized) underclass and clashes with the National Center on Sexual Exploitation (NCOSE, formerly Morality in Media) to keep them out of mainstream channels. It wasn't until 1999 when DJ Nelson and DJ Coyote managed to get San Juan's mix 107.7 fm to begin a 24/7 reggaetón format station, and the genre began to expand into the ears of the mainstream. "
         }
       ]
     },
@@ -888,24 +888,10 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Thanks to technological developments in tools for producing and distributing recordings, reggaetón was no longer bound by Puerto Rico's shores or even the broader diasporic circuits in New York. Artists began to mix the dancehall inspired riddims like the dembow template with the propulsive sounds of techno/tecno and later the \"tropical\" sounds of bachata and salsa. Established producers such as DJ Playero, DJ Nelson, and DJ Joe, as well as newcomers like DJ Blass, helped move the genre's primary sound sources from samples to synthesizers resonant of trace-style techno anthems. By 2001, vocalists also began to refine a distinctively Puerto Rican approach to melodic contour and vocal timbre, often evoking the nasal singing styles of many "
-        },
-        {
-          "text": "soneros. ",
-          "italic": true
+          "text": "Thanks to technological developments in tools for producing and distributing recordings, reggaetón was no longer bound by Puerto Rico's shores or even the broader diasporic circuits in New York. Artists began to mix the dancehall inspired riddims like the dembow template with the propulsive sounds of techno/tecno and later the \"tropical\" sounds of bachata and salsa. Established producers such as DJ Playero, DJ Nelson, and DJ Joe, as well as newcomers like DJ Blass, helped move the genre's primary sound sources from samples to synthesizers resonant of trace-style techno anthems. "
         }
       ],
       "align": "justify"
-    },
-    {
-      "type": "paragraph",
-      "align": "justify",
-      "children": [
-        {
-          "italic": true,
-          "text": ""
-        }
-      ]
     },
     {
       "type": "paragraph",
@@ -1150,6 +1136,6 @@
   "slug": "from-reggae-to-reggaeton",
   "created_at": "2026-03-13T23:04:10.557Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-03T18:12:56.503Z",
+  "updated_at": "2026-05-03T18:17:43.796Z",
   "updated_by": "derrek-powell"
 }
