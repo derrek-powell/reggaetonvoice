@@ -1122,11 +1122,17 @@
       ]
     },
     {
-      "type": "paragraph",
-      "align": "justify",
+      "uuid": "07593341-dc7d-46fa-930c-332dd4eb71b6",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
       "children": [
         {
-          "text": "[Benito Bowl] "
+          "text": ""
         }
       ]
     },
@@ -1158,6 +1164,6 @@
   "slug": "from-reggeaton-to-urbano-latino",
   "created_at": "2026-03-13T23:05:16.653Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-03T19:50:48.176Z",
+  "updated_at": "2026-05-03T19:52:03.373Z",
   "updated_by": "derrek-powell"
 }
