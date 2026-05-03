@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "8e3b4f28-8ae8-413a-9d3e-16c65cec9bc2",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-05-03T19:37:42.136Z",
   "created_by": "derrek-powell",
   "title": "Bad Bunny Safaera ",
   "slug": "bad-bunny-safaera",
-  "updated_at": "2026-05-03T19:37:42.137Z",
+  "updated_at": "2026-05-03T19:41:19.871Z",
   "updated_by": "derrek-powell",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "8e3b4f28-8ae8-413a-9d3e-16c65cec9bc2"
   }
