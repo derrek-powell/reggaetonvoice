@@ -30,6 +30,55 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "The Reggaetón Voice ("
+        },
+        {
+          "text": "la voz del reggaetón",
+          "italic": true
+        },
+        {
+          "text": ") refers to the linguistic style artists have curated over the years to perform reggaetón that draws inspiration from the syllabic syncopation of dancehall DJs' ragga-moofin flip-tongue style of rap and the staccato, double-time, end-rhyme orientation of mainstream hip hop. It is an artistic derivative of working-class dialects of Puerto Rican Spanish spoken in the "
+        },
+        {
+          "text": "caseríos",
+          "italic": true
+        },
+        {
+          "text": " (housing projects) of San Juan, the surrounding neighborhoods, and the New York diaspora that has resisted erasure and modification amidst the genre's globalization. That is, while other forms of Spanish-language popular music have been subjected to stylistic editing to approximate a neutralized, transnational standard, reggaetón flips the script and prioritizes the maintenance of local vernacular features often stigmatized in educational and spaces associated with \"high\" culture. "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "This Atlas is a space wherein reggaetón researchers and linguists can share their research about the linguistic enactment and perception of reggaetón itself. Below is an outline for how each entry is structured. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -38,7 +87,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "THE VOICE SPECIFICALLY "
+          "text": "Basic Atlas Entry Format",
+          "textSize": "heading-two"
         }
       ]
     },
@@ -46,7 +96,116 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Flip-tongue style rap (in Jamaica) is doubling the syllabic syncopation in the manner of dancehall DJs"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Each of the following entries follows this template: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Linguistic Structure ",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This section covers the technical linguistic aspects of the feature under study. For phonetic/phonological elements, this may include the phonetics of how the sound is produced and information about its phonological conditioning. For syntactic elements, this could include information about the clausal structure and pertinent interactions with semantics. This section is largely written for other linguists but in a voice that aims to remain accessible for readers without a linguistic background. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A brief history",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "When applicable, this section aims to detail theories about the origins of the linguistic behavior in a general sense. This can include theories of its development and dispersion, or any information the analyst deems pertinent to effectively introduce readers to the feature. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In Puerto Rico",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Because this Atlas begins with the Puerto Rican voices that first gave reggaetón its form, each section will include a brief overview of how the linguistic element has been studied in Puerto Rico outside the musical contexts of reggaetón production. As the Atlas expands to include voices from outside Puerto Rico, entries will situate the behaviors under study in their respective local contexts. "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In Reggaetón",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This final section is where readers can find a summary of contemporary research on the linguistic behavior in reggaetón performance specifically, including audible examples to showcase its use in real-life data. "
         }
       ]
     },
@@ -55,30 +214,6 @@
       "children": [
         {
           "text": "\n"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Underground MCs flows tend to closely resemble dancehall's sing-song,s taccato, double-time, end-rhyme orientation. They also have adapted DJs frequent disregard for conventional key relationships. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "The underground recordings supported a youth- and class-inflected cultural politics of Blackness and did so significantly by embracing (if not amplifying) the Nuyorican dimensions of Puerto Rican culture. "
         }
       ]
     }
@@ -91,6 +226,6 @@
   "slug": "the-reggaeton-voice",
   "created_at": "2026-03-13T23:05:32.862Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-04-25T01:39:14.546Z",
+  "updated_at": "2026-05-03T20:55:30.646Z",
   "updated_by": "derrek-powell"
 }
