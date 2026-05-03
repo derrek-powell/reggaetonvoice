@@ -432,13 +432,24 @@
       "align": "justify"
     },
     {
-      "type": "paragraph",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "c1a9e736-9fef-4c9e-a197-e47f69ad4dae"
+      },
+      "event2": {
+        "uuid": "5c108112-7196-4fcb-8ecc-fa3fbc308843"
+      },
+      "type": "event-comparison",
       "children": [
         {
-          "text": "[Kripi Kush] [La ocasión] "
+          "text": ""
         }
-      ],
-      "align": "justify"
+      ]
     },
     {
       "type": "paragraph",
@@ -709,7 +720,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Superbowl LIV ",
+          "text": "Super Bowl LIV ",
           "textSize": "heading-three"
         }
       ]
@@ -911,7 +922,27 @@
       "align": "justify",
       "children": [
         {
-          "text": "[Safaera] [La Santa] "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "8e3b4f28-8ae8-413a-9d3e-16c65cec9bc2"
+      },
+      "event2": {
+        "uuid": "d5fd5a94-e682-489e-b53b-292cda816326"
+      },
+      "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -950,22 +981,19 @@
       ]
     },
     {
-      "type": "paragraph",
-      "align": "justify",
-      "children": [
-        {
-          "text": "[Yo perreo sola] "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
+      "uuid": "cd31cd76-a4a8-41f3-af15-49e339d92307",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
       "children": [
         {
           "text": ""
         }
-      ],
-      "align": "justify"
+      ]
     },
     {
       "type": "paragraph",
@@ -986,22 +1014,24 @@
       ]
     },
     {
-      "type": "paragraph",
-      "align": "justify",
-      "children": [
-        {
-          "text": "[Titi me preguntó] [Me porto bonito] "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "95736c17-4914-4714-b55d-52bb62728882"
+      },
+      "event2": {
+        "uuid": "9451063b-76b4-4ace-b5f0-b0bddb2cce1b"
+      },
+      "type": "event-comparison",
       "children": [
         {
           "text": ""
         }
-      ],
-      "align": "justify"
+      ]
     },
     {
       "type": "paragraph",
@@ -1022,8 +1052,19 @@
       ]
     },
     {
-      "type": "paragraph",
-      "align": "justify",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "38a032fd-d572-46bb-a919-28347a867141"
+      },
+      "event2": {
+        "uuid": "9c12066b-6d6d-40d7-8418-0e57e53e0085"
+      },
+      "type": "event-comparison",
       "children": [
         {
           "text": ""
@@ -1059,17 +1100,35 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The "
+          "text": "The most recent instance of global reggaetón achievements has been "
         },
         {
           "text": "Benito Bowl",
           "italic": true
         },
         {
-          "text": "—the Super Bowl LX Halftime Show headlined by Bad Bunny—marks a historic rupture in the cultural and linguistic politics of global popular music. On February 8, 2026, Bad Bunny became the first artist to headline the Super Bowl halftime show with a performance delivered primarily—and effectively entirely—in Spanish . This was not a moment of translation or accommodation; it was a full-scale reorientation of the stage itself. The most-watched entertainment platform in the United States was reorganized around Puerto Rican Spanish, Caribbean sound, and Afro-diasporic musical forms, with no concessions made to Anglophone expectations."
+          "text": ", a colloquial renaming of the Super Bowl LX Halftime Show headlined by Bad Bunny. This marks a historic rupture in the cultural and linguistic politics of global popular music. On February 8, 2026, Bad Bunny became the first artist to headline the Super Bowl halftime show with a performance delivered primarily, and effectively entirely, in Spanish. This was not a moment of translation or accommodation; it was a full-scale reorientation of the stage itself. The most-watched entertainment platform in the United States was reorganized around Puerto Rican Spanish, Caribbean sound, and Afro-diasporic musical forms, with no concessions made to Anglophone expectations."
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "[Benito Bowl] "
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -1084,21 +1143,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "What makes the “Benito Bowl” especially significant is that it completes a trajectory you’ve been mapping: from "
-        },
-        {
-          "text": "Despacito",
-          "italic": true
-        },
-        {
-          "text": " proving Spanish-language viability, to "
-        },
-        {
-          "text": "Mi Gente",
-          "italic": true
-        },
-        {
-          "text": " proving rhythmic scalability, to Bad Bunny demonstrating that neither language nor Caribbeanness needs to be softened at all. The performance—framed as a celebration of Puerto Rican culture, complete with traditional instruments, local iconography, and a reggaetón-heavy setlist—positioned Caribbean expressive culture not as an exotic supplement to American spectacle, but as its organizing center . Even the audience logic shifts here: rather than asking global viewers to understand Spanish, Bad Bunny explicitly reframed participation around feeling and movement (“people only have to worry about dance”) .\n\nIn this sense, the “Benito Bowl” is not just representation—it is infrastructural power. It demonstrates that reggaetón and Puerto Rican urbano have reached a point where they can dictate the terms of global visibility, rather than adapt to them. The halftime show becomes less a site where Latin music is included and more a site where U.S. mainstream culture temporarily reorganizes itself around Caribbean norms. What was once underground, racialized, and censored now commands the most surveilled stage in American media, not by erasing its linguistic or cultural specificity, but by amplifying it.\n\n"
+          "text": "What makes the “Benito Bowl” especially significant is how the performance—framed as a celebration of Puerto Rican culture, complete with traditional instruments, local iconography, a reggaetón-heavy setlist, and a guest appearance by Ricky Martin—positioned Caribbean expressive culture not as an exotic supplement to American spectacle, but as its organizing center. Moreover, the performance masterfully weaves political critiques of U.S. imperalism and racist models of national belonging into its sets and organization. Even the audience logic shifts here: Bad Bunny not only told the global audience they had \"four months\" to learn Spanish upon announcing his headlining spot, he also explicitly reframed participation around feeling and movement while including moments of double voicing specifically for Latino/Puerto Rican listeners and viewers that would remain otherwise inaccessible to the global Other.  In this sense, the “Benito Bowl” is not just representation—it is infrastructural power. It demonstrates that reggaetón and Puerto Rican popular culture have reached a point where they can dictate the terms of global visibility, rather than adapt to them. The halftime show becomes less a site where Latin music is included and more a site where U.S. mainstream culture temporarily reorganizes itself around Caribbean norms. What was once underground, racialized, and censored now commands the most surveilled stage in American media, not by erasing its linguistic or cultural specificity, but by amplifying it.\n\n"
         }
       ],
       "align": "justify"
@@ -1113,6 +1158,6 @@
   "slug": "from-reggeaton-to-urbano-latino",
   "created_at": "2026-03-13T23:05:16.653Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-03T19:35:20.868Z",
+  "updated_at": "2026-05-03T19:50:48.176Z",
   "updated_by": "derrek-powell"
 }
