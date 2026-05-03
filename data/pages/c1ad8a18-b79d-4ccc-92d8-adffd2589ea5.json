@@ -243,23 +243,7 @@
           "bold": true
         },
         {
-          "text": " is an organizing unit that indexes a meaningful contrast in a language. In other words, it is a sound that, if changed, can change the meaning of a word."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "For example, in Spanish /p/ vs /b/ distinguishes the words \""
+          "text": " is an organizing unit that indexes a meaningful contrast in a language. In other words, it is a sound that, if changed, can change the meaning of a word. For example, in Spanish /p/ vs /b/ distinguishes the words \""
         },
         {
           "text": "papa",
@@ -273,210 +257,69 @@
           "italic": true
         },
         {
-          "text": "\", or the sounds /b/ and /"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Phonemes are written between slashes: / /"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "horizontal-separator",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Basic Atlas Index ",
-          "textSize": "heading-two"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Each of the following entries will follow this template to convey the following information: "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "textSize": "heading-four"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-four",
-          "text": "Articulation/Orthographic Representation "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "This section covers how the sound is produced, its phonological environment, and the conventional symbols used for its identification in writing and the IPA"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "In phonetics (the study of how linguistic sound is physically produced), sounds are named by first the place of articulation in the mouth, and second by the manner of articulation. So, an "
+          "text": "\", or the sounds /β/ and /b/ distinguish the words \""
         },
         {
-          "text": "alveolar",
+          "text": "viví",
           "italic": true
         },
         {
-          "text": " (place) "
+          "text": "\" and \""
         },
         {
-          "text": "fricative",
+          "text": "bibi",
           "italic": true
         },
         {
-          "text": " (manner) is a sound where the tongue touches the alveolar ridge right behind our upper incisors while producing frication, which happens when a lot of very fast-moving air escapes from around the tongue. In English and Spanish, this sound is represented in writing mostly with an < s > and sometimes a < c > (e.g., la"
+          "text": "\". Phonemes are written between slashes / / when discussed in a general sense. However, the actual production of sound is written between brackets [ ]. That means /s/ refers to alveolar fricatives in general, whereas [s] describes a sound someone actually produced. "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In contrast, "
         },
         {
-          "text": "s",
-          "underline": true
+          "text": "allophones",
+          "bold": true
         },
         {
+          "text": " are the different ways a phoneme can be pronounced without changing meaning. Another term for allophone is a "
+        },
+        {
+          "text": "variant, ",
+          "bold": true
+        },
+        {
+          "text": "as these are not different phones but different"
+        },
+        {
+          "bold": true,
           "text": " "
         },
         {
-          "text": "c",
-          "underline": true
+          "text": "ways of saying \"the same\" sound."
         },
         {
-          "text": "inco "
+          "bold": true,
+          "text": " "
         },
         {
-          "text": "s",
-          "underline": true
-        },
-        {
-          "text": "illa"
-        },
-        {
-          "text": "s",
-          "underline": true
-        },
-        {
-          "text": "). In the International Phonetic Alphabet (IPA), this sound is represented with an /s/. "
+          "text": "For example, the phoneme /s/ in Spanish can be pronounced as a voiceless alveolar fricative /s/ or a voiced alveolar fricative /z/, and in some dialects it is pronounced as an aspiration /h/ or completely deleted /ø/. Allophones are written between brackets. "
         }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-four",
-          "text": "A brief history "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "This explains the origins of the sound and a dialectal map of its use in the Hispanophone world "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-four",
-          "text": "In Puerto Rico"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "This section will explain the allophonic variation in Puerto Rico, including examples of interview speech from reggaetón artists. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-four",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-four",
-          "text": "In Reggaetón "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "This section will exemplify contemporary research on the sound in reggaetón, providing examples from different artists to showcase each claim. "
-        }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -497,6 +340,6 @@
   "slug": "phonology",
   "created_at": "2026-03-13T23:05:55.197Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-03T20:35:28.241Z",
+  "updated_at": "2026-05-03T20:41:40.802Z",
   "updated_by": "derrek-powell"
 }
