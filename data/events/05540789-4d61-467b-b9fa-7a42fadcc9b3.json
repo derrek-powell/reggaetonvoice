@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "ce85064a-339f-4acb-8826-58456fda255b": {
+      "label": "Fancy (2014) ",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=O-zpOMYRi0w",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Iggy Azalea Fancy ",
+  "av_file_order": [
+    "ce85064a-339f-4acb-8826-58456fda255b"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-NC/1.0/",
+  "created_at": "2026-05-03T19:57:21.933Z",
+  "created_by": "derrek-powell",
+  "updated_at": "2026-05-03T19:57:21.933Z",
+  "updated_by": "derrek-powell"
+}
