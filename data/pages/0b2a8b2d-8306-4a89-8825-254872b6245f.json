@@ -434,7 +434,43 @@
     },
     {
       "type": "paragraph",
-      "align": "justify",
+      "align": "center",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "a8b0d802-27ec-4a42-ba4b-2e2d135f7f54",
+        "start": 224,
+        "end": 315,
+        "file": "5bf2df4e-d65d-44a4-b6b8-7df818d56f7c",
+        "type": "Video"
+      },
+      "event2": {
+        "uuid": "05540789-4d61-467b-b9fa-7a42fadcc9b3",
+        "start": 6,
+        "end": 37,
+        "file": "ce85064a-339f-4acb-8826-58456fda255b",
+        "type": "Video"
+      },
+      "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -538,6 +574,6 @@
   "slug": "singing-style",
   "created_at": "2026-03-13T23:02:07.262Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-03T19:55:58.739Z",
+  "updated_at": "2026-05-03T20:02:27.366Z",
   "updated_by": "derrek-powell"
 }
