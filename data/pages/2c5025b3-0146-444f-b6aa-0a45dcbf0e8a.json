@@ -38,14 +38,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "Overview: /s/ Reduction ",
           "textSize": "heading-three"
         }
@@ -507,10 +499,11 @@
     },
     {
       "type": "paragraph",
+      "align": "center",
       "children": [
         {
-          "text": "/s/ in Reggaetón ",
-          "textSize": "heading-three"
+          "textSize": "heading-two",
+          "text": "/s/ in Reggaetón "
         }
       ]
     },
@@ -518,57 +511,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "S-reduction in coda is a very common phonological feature of reggaetón production. In online lyric transcripts, you will find people mark words with etymological /s/ with an ' (e.g., no me mire') to indicate an intentional reduction. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "Coda s-reduction is a very common phonological feature of reggaetón's production. It's salience is so visible that in online lyric transcriptions, you will commonly find people mark words with etymological /s/ with an ' to indicate a reduction (e.g., \""
+        },
         {
-          "text": "Alveolar Fricatives in Coda Articulation/Orthographic Representation  \nS-Reduction Coda /s/ in Puerto Rico S-Reduction in Reggaetón "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "no me mire' así",
+          "italic": true
+        },
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Below are examples that demonstrate claims made in research about the nature of /s/ reduction in reggaetón",
-          "textSize": "heading-three"
+          "text": "\"). Because of its salience, and the fact that this feature is by far the most well-researched case of phonological variation in the Spanish-speaking world, it is perhaps unsurprising that most of the research on reggaetón singing styles has recruited /s/ as the unit of analysis. The following examples will showcase the findings of these studies. "
         }
       ],
-      "align": "center"
+      "align": "justify"
     },
     {
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "horizontal-separator",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Listen Here ",
+          "text": "",
           "textSize": "heading-three"
         }
       ]
@@ -577,6 +536,62 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "The findings on /s/ reduction can be summarized as such: This feature is an enregistered resource for constructing and performing artistic authenticity and alignment with the broader reggaetón soundscape. This claim draws from research from two major experimental designs: "
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Research comparing reggaetón's vocal style to that of other Hispano-Caribbean genres. "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Research comparing performances by Puerto Rican/Caribbean artists and reggaetón artists from non-s-reducing dialects of Spanish."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": "Sibilants' Mark on the Genre"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The first line of research to examine the semiotic function of /s/ reduction across the genre categories used by global music industries to organize and market various forms of Caribbean popular music. In particular, Powell (2025) compared the allophonic distribution of this feature in the performances of three mainstream artists from different parts of the insular Caribbean: Ivy Queen (Puerto Rico), Natti Natasha (Dominican Republic), and Srta. Dayana (Cuba). Each of these artists was selected because they frequently perform not just reggaetón, but in genres that are marketed explicitly as \"Latin Pop\" or \"Tropical\" (an umbrella category designed to account for folkloric musics like salsa, plena, merengue, bachata, rumba, and the like). For each artist, the rate of /s/ reduction significantly increased in songs marketed as reggaetón/urbano music, while drastically decreasing in songs marketed as \"tropical\" (see below): "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -585,23 +600,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The following examples are designed to showcase the findings of research on /s/ reduction in contemporary reggeatón. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "/s/ is seen as a genre-specific index of artistic affiliation. This means that scholars have found  artists reduce /s/ significantly more when performing reggaetón but not other genres. Below are examples of Puerto Rican artists specifically who showcase this pattern. "
+          "text": "/s/ is seen as a genre-specific index of artistic affiliation. This means that scholars have found artists reduce /s/ significantly more when performing reggaetón but not other genres. Below are examples of Puerto Rican artists specifically who showcase this pattern. "
         }
       ]
     },
@@ -633,6 +632,54 @@
       "end": 189,
       "file": "b9158ed2-282e-4e81-a0a2-f8c6e8da861c",
       "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Natti Natasha "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Tropical (la mejor versión de mí) https://www.youtube.com/watch?v=R9rVapGCf2c"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -692,6 +739,38 @@
       "children": [
         {
           "text": "Chesca "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Because genres are not predictors of style, there are of course exceptions where certain artists do not follow this pattern. For example: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -946,6 +1025,6 @@
   "slug": "alveolar-fricatives-in-coda",
   "created_at": "2026-03-14T00:01:39.983Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-03T21:12:13.152Z",
+  "updated_at": "2026-05-03T21:52:37.612Z",
   "updated_by": "derrek-powell"
 }
