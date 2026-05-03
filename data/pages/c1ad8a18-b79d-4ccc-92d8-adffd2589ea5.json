@@ -12,7 +12,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Phonology  ",
+          "text": "Phonetics / Phonology  ",
           "bold": true,
           "textSize": "heading-one"
         }
@@ -23,8 +23,9 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "How humans organize the sounds of their language into an abstract system of phonemes and syllables. ",
-          "textSize": "heading-three"
+          "text": "How humans produce and organize the sounds of their language into an abstract system of phonemes and syllables. ",
+          "textSize": "heading-three",
+          "italic": true
         }
       ],
       "align": "center"
@@ -44,7 +45,7 @@
       "align": "left",
       "children": [
         {
-          "text": "Phonology 101 ",
+          "text": "Basics 101 ",
           "textSize": "heading-two"
         }
       ]
@@ -53,12 +54,13 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Throughout we use technical linguistics jargon to describe the Reggaetón Voice. Here are the basics you'll need to follow along: "
+          "text": "When we speak of the phonetics and phonology of a singing voice, we are talking about the way singers produce linguistic sounds (phonetics) and how those sounds are organized into an abstract system (phonology). That is, phonetics refers to the physical gestures and acoustic signals that make up speech, or what your tongue, lips, and vocal folds are doing to create a sound. Phonology, by contrast, is how those sounds are patterned and interpreted within a language. It is the system that allows listeners to recognize which differences in sound matter and which do not."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
-      "type": "paragraph",
+      "type": "heading-three",
       "children": [
         {
           "text": ""
@@ -66,67 +68,93 @@
       ]
     },
     {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "heading-three",
+      "children": [
+        {
+          "text": "The IPA (International Phonetic Alphabet)",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
-          "text": "Phoneme",
-          "textSize": "heading-four"
+          "text": "To transcribe and study these sounds, linguists use the "
         },
         {
-          "text": "an organizing unit indexing a sonic contrast [is there a way to import an interactive activity?] *get examples from 330L book*"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "[Include example of the IPA 2020 chart] "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Allophones",
-          "textSize": "heading-four"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "the variations of a phoneme "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Syllable",
-          "textSize": "heading-four"
+          "text": "International Phonetic Alphabet (IPA)",
+          "bold": true
         },
         {
-          "text": " the metric building blocks of utterances "
+          "text": ", a standardized system for representing speech sounds across languages. Each symbol corresponds to a specific sound, regardless of how that sound is spelled in any particular language. For example, the letter < c > in Spanish can be represented with a /k/ in the IPA in words like \""
+        },
+        {
+          "text": "c",
+          "italic": true,
+          "bold": true,
+          "underline": true
+        },
+        {
+          "text": "asas",
+          "italic": true
+        },
+        {
+          "text": "\" or as a /s/ in words like \""
+        },
+        {
+          "text": "pare",
+          "italic": true
+        },
+        {
+          "text": "c",
+          "italic": true,
+          "bold": true,
+          "underline": true
+        },
+        {
+          "text": "er\"",
+          "italic": true
+        },
+        {
+          "text": ". The IPA provides analysts with a uniform and precise code for indicating the gestures and place of articulation for linguistic sounds independent from the phonological systems in which they are locally organized. "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "image",
+      "url": "https://drive.google.com/file/d/1f2IsRTI1-rk5d1yhXxF4TRpK_VQtwYd4/view?usp=sharing",
+      "caption": "IPA Chart (2020) ",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -134,7 +162,126 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Coda vs nucleus vs onset "
+          "text": "The IPA organizes sounds first according to their "
+        },
+        {
+          "text": "place",
+          "bold": true
+        },
+        {
+          "text": " or articulation, and then their "
+        },
+        {
+          "text": "manner",
+          "bold": true
+        },
+        {
+          "text": ". That is, instead of us saying \"an 's' sound,\" we can use a term like \"alveolar fricative\". \"Alveolar\" here is the place of articulation, because the tip of the tongue touches the alveolar ridge to make this sound. \"Fricative\" is the manner of articulation, which is when we allow a stream of high-frequency air to pass through the opening we've created with our tongue placement. In comparison, the sound /k/ is called a \"velar stop,\" because the tongue touches the velum and stops the air for a brief moment. Below is a diagram of the "
+        },
+        {
+          "text": "articulators",
+          "bold": true
+        },
+        {
+          "text": ", which are the parts of the mouth, nose, and throat/vocal tract used to produce speech sounds. "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://drive.google.com/file/d/1rRKMYw9Mwin3GsqZOWn4gcpo77ctvKvI/view?usp=sharing",
+      "caption": "Speech Articulators",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Phonemes & Allophones ",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "phoneme",
+          "bold": true
+        },
+        {
+          "text": " is an organizing unit that indexes a meaningful contrast in a language. In other words, it is a sound that, if changed, can change the meaning of a word."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "For example, in Spanish /p/ vs /b/ distinguishes the words \""
+        },
+        {
+          "text": "papa",
+          "italic": true
+        },
+        {
+          "text": "\" and \""
+        },
+        {
+          "text": "baba",
+          "italic": true
+        },
+        {
+          "text": "\", or the sounds /b/ and /"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Phonemes are written between slashes: / /"
         }
       ]
     },
@@ -350,6 +497,6 @@
   "slug": "phonology",
   "created_at": "2026-03-13T23:05:55.197Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-01T18:00:17.050Z",
+  "updated_at": "2026-05-03T20:35:28.241Z",
   "updated_by": "derrek-powell"
 }
