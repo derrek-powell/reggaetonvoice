@@ -22,81 +22,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "textSize": "heading-three"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-three",
-          "text": "Articulation/Orthographic Representation "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "In phonetics (the study of how linguistic sound is physically produced), sounds are named by first the place of articulation in the mouth, and second by the manner of articulation. So, an "
-        },
-        {
-          "text": "alveolar",
-          "italic": true
-        },
-        {
-          "text": " (place) "
-        },
-        {
-          "text": "fricative",
-          "italic": true
-        },
-        {
-          "text": " (manner) is a sound where the tongue touches the alveolar ridge right behind our upper incisors while producing frication, which happens when a lot of very fast-moving air escapes from around the tongue. In English and Spanish, this sound is represented in writing mostly with an < s > and sometimes a < c > (e.g., la"
-        },
-        {
-          "text": "s",
-          "underline": true
-        },
-        {
-          "text": " "
-        },
-        {
-          "text": "c",
-          "underline": true
-        },
-        {
-          "text": "inco "
-        },
-        {
-          "text": "s",
-          "underline": true
-        },
-        {
-          "text": "illa"
-        },
-        {
-          "text": "s",
-          "underline": true
-        },
-        {
-          "text": "). In the International Phonetic Alphabet (IPA), this sound is represented with an "
-        },
-        {
-          "text": "/s/",
-          "bold": true
-        },
-        {
-          "text": ". "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
         }
       ]
@@ -121,7 +46,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "/s/ Reduction ",
+          "text": "Overview: /s/ Reduction ",
           "textSize": "heading-three"
         }
       ]
@@ -133,11 +58,37 @@
           "text": "One of the most widely discussed features of Caribbean Spanish and a central resource in reggaetón is the variable realization of syllable-final /s/ (e.g., "
         },
         {
-          "text": "los mismos",
+          "text": "lo",
           "italic": true
         },
         {
-          "text": ").  Historically, this feature traces back to Southern Spain in Seville and Andalusia, where processes of consonant weakening began as early as the 16th century in lower-class speech before spreading upward through the social hierarchy and outward through colonial expansion. As a result, varieties of Spanish across the Caribbean inherited this feature as part of a broader phonological profile shaped by Andalusian input."
+          "italic": true,
+          "text": "s",
+          "bold": true,
+          "underline": true
+        },
+        {
+          "italic": true,
+          "text": " mi"
+        },
+        {
+          "italic": true,
+          "text": "s",
+          "bold": true,
+          "underline": true
+        },
+        {
+          "italic": true,
+          "text": "mo"
+        },
+        {
+          "italic": true,
+          "text": "s",
+          "bold": true,
+          "underline": true
+        },
+        {
+          "text": ").  Historically, this feature traces back to Southern Spain in Seville and Andalusia more broadly, where processes of consonant weakening began as early as the 16th century in lower-class speech before spreading upward through the social hierarchy and outward through colonial expansion. As a result, varieties of Spanish across the Caribbean inherited this feature as part of a broader phonological profile shaped by Andalusian input."
         }
       ],
       "align": "justify"
@@ -162,7 +113,7 @@
           "bold": true
         },
         {
-          "text": "That is, a fully articulated sibilant [s] may be realized as such (e.g., [los 'mismos]), an aspirated [h] ([loh 'mihmoh]), and, in some cases, deleted altogether ([lo 'mimo]). In Puerto Rico, /s/ reduction falls within Stage 3 of Lipski's weakening pathway (see below). This system is even more complex, with scholars documenting not only [s], [h], and [∅], but also their voiced counterparts [z] and [ɦ], and a glottal stop [ʔ]  ([loʔ ˈmihmoʔ]). Importantly, the lack of /s/ does not create confusion between words that without /s/ are homophonous (e.g., "
+          "text": "That is, a fully articulated sibilant [s] may be realized as such (e.g., [los 'mismos]), an aspirated [h] ([loh 'mihmoh]), and, in some cases, deleted altogether ([lo 'mimo]). In Puerto Rico, /s/ reduction falls within Stage 3 of Lipski's weakening pathway, meaning it canonically occurs in most cases of pre-consonantal coda and some pre-vocalic codas, but it does not occur in the onset position. In addition to these three  allophones, /s/ can also be realized as a voiced fricative [z] and aspiration [ɦ], as well as a glottal stop [ʔ]  ([loʔ ˈmihmoʔ]). that is unique to Puerto Rico. Importantly, the lack of /s/ does not create confusion between words that without /s/ are homophonous (e.g., "
         },
         {
           "text": "mismo",
@@ -205,17 +156,99 @@
       ]
     },
     {
-      "type": "paragraph",
-      "align": "justify",
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
       "children": [
         {
-          "text": "The alternation between these forms are not random. Rather, their distribution is conditioned by phonological environment (e.g., whether the /s/ precedes a consonant or a vowel), as well as social and stylistic factors. "
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://drive.google.com/file/d/1c83P40bRzW2KUQeTXGwMf1ZVmRg319uj/view?usp=drive_link",
+              "caption": "Lipski's s-reduction trajectory ",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "center"
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "image",
+              "url": "https://drive.google.com/file/d/1ZHXFbbnVRNxrzl5D5aTVzhFDoJ1Bo5yL/view?usp=sharing",
+              "caption": "Puerto Rico /s/ Variants",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
         }
       ]
     },
     {
       "type": "paragraph",
-      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "S-Reduction can be measured acoustically using a combined Center of Gravity (COG) and Standard Deviation (SD) Measurement in Hertz (Hz). The COG measurement tells us the average frequency of the sound, whereas the SD tells us the expansion or range of that average. That is, a sound with a very high COG and a low SD is a very high frequency flow of air moving through a relatively small airway. The prototypical alveolar variant has a high COG, typically ranging between 6-10kHz. As /s/ reduces toward /h/ and eventually /ø/, the COG drops drastically. Below are spectrograms that showcase a full /s/, as well as two forms of deletion: one where the \"place\" of /s/ in the word is trace-marked with a pause, and another where the segment is elided entirely. "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -242,13 +275,95 @@
             },
             {
               "type": "image",
-              "url": "https://drive.google.com/file/d/1c83P40bRzW2KUQeTXGwMf1ZVmRg319uj/view?usp=drive_link",
-              "caption": "Lipski's s-reduction trajectory ",
+              "url": "https://drive.google.com/file/d/1vDgOymJwBtzZfb93j0aA4LDnQ0TgJI0U/view?usp=sharing",
+              "caption": "/s/ Realization",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
               "children": [
                 {
                   "text": ""
                 }
               ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": " "
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://drive.google.com/file/d/1IxaV-LGZITmAT3FhKYYFZcP4aI4C7vdO/view?usp=sharing",
+              "caption": "/h/ Realization",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://drive.google.com/file/d/1edZpRMDpsFvCUYRl8RnGvawfcVP6DIQs/view?usp=drive_link",
+              "caption": "Trace-marked Deletion",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "center"
             },
             {
               "type": "paragraph",
@@ -273,13 +388,14 @@
             },
             {
               "type": "image",
-              "url": "https://drive.google.com/file/d/1ZHXFbbnVRNxrzl5D5aTVzhFDoJ1Bo5yL/view?usp=sharing",
-              "caption": "Puerto Rico /s/ Variants",
+              "url": "https://drive.google.com/file/d/1SLHu9T0_SOzDux6wL6BzBodY_8TwInEe/view?usp=sharing",
+              "caption": "Unmarked Deletion",
               "children": [
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "align": "center"
             },
             {
               "type": "paragraph",
@@ -287,7 +403,8 @@
                 {
                   "text": ""
                 }
-              ]
+              ],
+              "align": "center"
             }
           ]
         }
@@ -330,16 +447,7 @@
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-three",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "In Puerto Rico, /s/ variation is deeply embedded in social evaluation. Traditionally, full [s] is associated with formality, education, and institutional authority, while aspiration [h] and deletion [∅] are linked to informality and everyday speech. However, these associations are not stable or uniform. Aspirated [h], for example, is often positively evaluated as an authentic marker of Puerto Rican identity, particularly in casual contexts. Deletion [∅], by contrast, is more heavily stigmatized, frequently associated with lack of education or lower socioeconomic status. At the same time, these values are highly context-dependent and mediated by who is perceived to be using the feature."
+          "text": "The alternation between these forms is not random. Rather, their distribution is conditioned by phonological environment, as well as social and stylistic factors. In Puerto Rico, /s/ variation is deeply embedded in social evaluation. Traditionally, full [s] is associated with formality, education, and institutional authority, while aspiration [h] and deletion [∅] are linked to informality and everyday speech. However, these associations are not stable or uniform. Aspirated [h], for example, is often positively evaluated as an authentic marker of Puerto Rican identity, particularly in casual contexts. Deletion [∅], by contrast, is more heavily stigmatized, frequently associated with lack of education or lower socioeconomic status. At the same time, these values are highly context-dependent and mediated by who is perceived to be using the feature."
         }
       ],
       "align": "justify"
@@ -371,14 +479,6 @@
         }
       ],
       "align": "center"
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
     },
     {
       "type": "paragraph",
@@ -846,6 +946,6 @@
   "slug": "alveolar-fricatives-in-coda",
   "created_at": "2026-03-14T00:01:39.983Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-01T17:59:50.653Z",
+  "updated_at": "2026-05-03T21:12:13.152Z",
   "updated_by": "derrek-powell"
 }
