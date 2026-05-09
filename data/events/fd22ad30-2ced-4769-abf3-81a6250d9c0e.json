@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "371c7f8b-5ebf-40b7-8e36-1a6741fac47c": {
+      "label": "Rakata",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=C3lXxoQPqoA",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Rakata",
+  "av_file_order": [
+    "371c7f8b-5ebf-40b7-8e36-1a6741fac47c"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-NC/1.0/",
+  "created_at": "2026-05-09T21:20:13.653Z",
+  "created_by": "derrek-powell",
+  "updated_at": "2026-05-09T21:20:13.653Z",
+  "updated_by": "derrek-powell"
+}
