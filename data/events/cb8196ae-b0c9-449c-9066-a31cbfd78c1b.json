@@ -1,7 +1,7 @@
 {
   "audiovisual_files": {
     "b9158ed2-282e-4e81-a0a2-f8c6e8da861c": {
-      "label": "S-Reduction_IvyQueen",
+      "label": "Bye Bye ",
       "is_offline": false,
       "file_type": "Video",
       "file_url": "https://www.youtube.com/watch?v=dwkHVc67bXs",
@@ -16,19 +16,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This 2022 song by Ivy Queen showcases how coda /s/ is often reduced in contemporary reggaetón performances. "
+          "text": ""
         }
       ]
     }
   ],
   "citation": "Ivy Queen. (2022). Bye Bye: Bye Bye-Single [Digital]. Diamond Music.",
-  "label": "S-Reduction_IvyQueen",
+  "label": "Bye Bye",
   "av_file_order": [
     "b9158ed2-282e-4e81-a0a2-f8c6e8da861c"
   ],
-  "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/",
+  "rights_statement": "https://rightsstatements.org/vocab/InC-NC/1.0/",
   "created_at": "2026-03-13T23:13:17.016Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-21T19:50:02.523Z",
+  "updated_at": "2026-05-09T22:22:46.439Z",
   "updated_by": "derrek-powell"
 }
