@@ -38,7 +38,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Overview: /s/ Reduction ",
+          "text": "/s/ Reduction in Puerto Rico",
           "textSize": "heading-three"
         }
       ]
@@ -98,14 +98,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Phonetically, /s/ reduction is often described as a weakening pathway "
+          "text": "Phonetically, /s/ reduction is often described as a weakening progression of "
         },
         {
-          "text": "[s] → [h] → [∅]. ",
+          "text": "[s] → [h] → [∅] ",
           "bold": true
         },
         {
-          "text": "That is, a fully articulated sibilant [s] may be realized as such (e.g., [los 'mismos]), an aspirated [h] ([loh 'mihmoh]), and, in some cases, deleted altogether ([lo 'mimo]). In Puerto Rico, /s/ reduction falls within Stage 3 of Lipski's weakening pathway, meaning it canonically occurs in most cases of pre-consonantal coda and some pre-vocalic codas, but it does not occur in the onset position. In addition to these three  allophones, /s/ can also be realized as a voiced fricative [z] and aspiration [ɦ], as well as a glottal stop [ʔ]  ([loʔ ˈmihmoʔ]). that is unique to Puerto Rico. Importantly, the lack of /s/ does not create confusion between words that without /s/ are homophonous (e.g., "
+          "text": "that occurs in all dialects of spoken Spanish to differing degrees. That is, a fully articulated sibilant [s] may be realized as such (e.g., [los 'mismos]), an aspirated [h] ([loh 'mihmoh]), or, in some cases, deleted altogether ([lo 'mimo]). In Puerto Rico, /s/ reduction falls within Stage 3 of Lipski's weakening pathway, canonically occurring in most cases of pre-consonantal coda and some pre-vocalic codas, but it does not occur in the onset position. In addition to these three allophones, /s/ can also be realized as a voiced fricative [z] and aspiration [ɦ], as well as a glottal stop [ʔ]  ([loʔ ˈmihmoʔ]) that is unique to Puerto Rico. Importantly, the lack of /s/ does not create confusion between words that without /s/ are homophonous (e.g., "
         },
         {
           "text": "mismo",
@@ -119,7 +119,7 @@
           "italic": true
         },
         {
-          "text": "), as speakers utilize several phonetic strategies to distinguish forms, including vocalic and consonantal lengthening and consonantal strengthening (e.g., "
+          "text": "), as speakers utilize several phonetic strategies to distinguish forms, including vocalic and consonantal lengthening (e.g., "
         },
         {
           "text": "mismo",
@@ -133,7 +133,21 @@
           "italic": true
         },
         {
-          "text": " ['mimo]). "
+          "text": " ['mimo]) and consonantal strengthening (e.g., "
+        },
+        {
+          "text": "la vaca",
+          "italic": true
+        },
+        {
+          "text": " [la 'βaka] vs "
+        },
+        {
+          "text": "las vacas",
+          "italic": true
+        },
+        {
+          "text": " [la 'baka]). "
         }
       ],
       "align": "justify"
@@ -234,7 +248,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "S-Reduction can be measured acoustically using a combined Center of Gravity (COG) and Standard Deviation (SD) Measurement in Hertz (Hz). The COG measurement tells us the average frequency of the sound, whereas the SD tells us the expansion or range of that average. That is, a sound with a very high COG and a low SD is a very high frequency flow of air moving through a relatively small airway. The prototypical alveolar variant has a high COG, typically ranging between 6-10kHz. As /s/ reduces toward /h/ and eventually /ø/, the COG drops drastically. Below are spectrograms that showcase a full /s/, as well as two forms of deletion: one where the \"place\" of /s/ in the word is trace-marked with a pause, and another where the segment is elided entirely. "
+          "text": "Because s-reduction is a gradient feature, analysts often use acoustic measures to determine the extent of reduction and to classify tokens allophonically. This typically involves a combined Center of Gravity (COG) and Standard Deviation (SD) Measurement in Hertz (Hz). The COG measurement tells us the average frequency of the sound, whereas the SD tells us the dispersion of sound relative to that average. That is, a high COG (~6-10kHz) and a low SD indicate a very high frequency flow of concentrated air moving through a relatively small airway, which is characteristic [s], whereas lower COG and higher SD indicate less-concentrated air moving through a larger opening as occurs with [h]. Below are spectrograms showcasing [s] and [h], as well as two forms of deletion: one where the etymological place of /s/ is trace-marked with a pause, and another where the segment is elided entirely. "
         }
       ],
       "align": "justify"
@@ -406,31 +420,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "horizontal-separator",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "/s/ in Puerto Rico ",
+          "text": "",
           "textSize": "heading-three"
         }
       ]
@@ -439,19 +429,10 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The alternation between these forms is not random. Rather, their distribution is conditioned by phonological environment, as well as social and stylistic factors. In Puerto Rico, /s/ variation is deeply embedded in social evaluation. Traditionally, full [s] is associated with formality, education, and institutional authority, while aspiration [h] and deletion [∅] are linked to informality and everyday speech. However, these associations are not stable or uniform. Aspirated [h], for example, is often positively evaluated as an authentic marker of Puerto Rican identity, particularly in casual contexts. Deletion [∅], by contrast, is more heavily stigmatized, frequently associated with lack of education or lower socioeconomic status. At the same time, these values are highly context-dependent and mediated by who is perceived to be using the feature."
+          "text": "The alternation between these forms is not random, but conditioned by a combination of language-internal and -external factors, including phonological environment, interactional setting, role alignment, and encoded stance and affect. In Puerto Rico, [s] is recognized as having a historic connection to notions of formality, education, and institutional authority, while aspiration [h] and deletion [∅] are linked to informal settings and everyday speech. However, these associations are not stable or uniform. Aspirated [h], for example, is often positively evaluated as an authentic marker of Puerto Rican identity, particularly in casual contexts. Deletion [∅], by contrast, is more heavily stigmatized. While evaluations depend on the stance and background of the hearer and their perceptions of the speaker's background, there is research suggesting that full deletion is contrasted against [s] as indexing a lack of education or a lower socioeconomic status. There is also research to suggest that [s] carries gendered and sexuality-based associations, being heard as a \"feminine\" feature characteristic of the speech of women and gay men. "
         }
       ],
       "align": "justify"
-    },
-    {
-      "type": "paragraph",
-      "align": "justify",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
     },
     {
       "type": "paragraph",
@@ -484,7 +465,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Taken together, /s/ reduction illustrates how a phonological process that originated as a regional feature becomes reinterpreted through social practice. In everyday speech and especially in musical performance, these variants are not simply inherited—they are strategically deployed. This is why /s/ reduction plays such a central role in reggaetón: it has become enregistered as part of the genre’s sonic identity, a stylistic resource that signals Caribbeanness, urbanity, and authenticity, regardless of where the performer is from.\n"
+          "text": "s-Reduction illustrates how regional phonological features become reinterpreted as markers of social alignments. In musical performance, these variants are not inherited from the spoken registers of the performers, but strategically deployed as part of the stylization of the musical product. s-Reduction in reggaetón, in particular, plays a central role in constructing the voice of the genre, and is adopted by both speakers from within and without Puerto Rico. \n"
         }
       ],
       "align": "justify"
@@ -511,53 +492,33 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Coda s-reduction is a very common phonological feature of reggaetón's production. It's salience is so visible that in online lyric transcriptions, you will commonly find people mark words with etymological /s/ with an ' to indicate a reduction (e.g., \""
+          "text": "This feature carries high salience in reggaetón production and is even visible in online lyric transcriptions through the use of apostrophe to indicate reduction (e.g., \""
         },
         {
           "text": "no me mire' así",
           "italic": true
         },
         {
-          "text": "\"). Because of its salience, and the fact that this feature is by far the most well-researched case of phonological variation in the Spanish-speaking world, it is perhaps unsurprising that most of the research on reggaetón singing styles has recruited /s/ as the unit of analysis. The following examples will showcase the findings of these studies. "
+          "text": "\"). Moreover, given that this feature is by far the most well-researched case of phonological variation in the Spanish-speaking world, most research on reggaetón singing styles has centered on /s/ production. The following examples present data to showcase how contemporary findings frame /s/ as an enregistered resource for constructing and performing artistic alignment with the broader reggaetón soundscape as curated from research comparing reggaetón's vocal style to other genres and the speech of Puerto Rican and non-Puerto Rican performers. "
         }
       ],
       "align": "justify"
     },
     {
       "type": "paragraph",
+      "align": "justify",
       "children": [
         {
-          "text": "",
-          "textSize": "heading-three"
+          "text": ""
         }
       ]
     },
     {
       "type": "paragraph",
+      "align": "justify",
       "children": [
         {
-          "text": "The findings on /s/ reduction can be summarized as such: This feature is an enregistered resource for constructing and performing artistic authenticity and alignment with the broader reggaetón soundscape. This claim draws from research from two major experimental designs: "
-        }
-      ]
-    },
-    {
-      "type": "numbered-list",
-      "children": [
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Research comparing reggaetón's vocal style to that of other Hispano-Caribbean genres. "
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Research comparing performances by Puerto Rican/Caribbean artists and reggaetón artists from non-s-reducing dialects of Spanish."
-            }
-          ]
+          "text": ""
         }
       ]
     },
@@ -1073,6 +1034,6 @@
   "slug": "alveolar-fricatives-in-coda",
   "created_at": "2026-03-14T00:01:39.983Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-04T20:10:41.752Z",
+  "updated_at": "2026-05-09T20:22:59.792Z",
   "updated_by": "derrek-powell"
 }
