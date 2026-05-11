@@ -492,14 +492,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This feature carries high salience in reggaetón production and is even visible in online lyric transcriptions through the use of apostrophe to indicate reduction (e.g., \""
+          "text": "S-Reduction carries high salience in reggaetón production and is even visible in online lyric transcriptions through the use of apostrophes (e.g., \""
         },
         {
           "text": "no me mire' así",
           "italic": true
         },
         {
-          "text": "\"). Moreover, given that this feature is by far the most well-researched case of phonological variation in the Spanish-speaking world, most research on reggaetón singing styles has centered on /s/ production. The following examples present data to showcase how contemporary findings frame /s/ as an enregistered resource for constructing and performing artistic alignment with the broader reggaetón soundscape as curated from research comparing reggaetón's vocal style to other genres and the speech of Puerto Rican and non-Puerto Rican performers. "
+          "text": "\"). This feature is by far the most thoroughly researched phonological variable in the Hispanic Linguistics literature, which could explain why most research on reggaetón singing styles has used it as the locus of analysis. The following examples showcase how findings from contemporary research frame lenited /s/ as an enregistered resource for constructing and performing artistic alignment with the broader reggaetón soundscape. Throughout these examples, AVAnnotate's annotation feature provides transcriptions of the lyrics to highlight cases of reduction. For accessibility, this variability is presented binarily as \"retention [s] or reduction [h ʔ ø]\" marked in brackets as [s] or [-]. "
         }
       ],
       "align": "justify"
@@ -518,7 +518,7 @@
       "align": "justify",
       "children": [
         {
-          "text": "These examples use AVAnnotate to provide transcriptions alongside the audios of each song. In the interest of accessibility, /s/ variability has been reduced to a binary \"retention [s] vs reduction [h ø]\" marked in brackets as [s] or [-]. "
+          "text": "as curated from research comparing reggaetón's vocal style to other genres and the speech of Puerto Rican and non-Puerto Rican performers. "
         }
       ]
     },
@@ -1217,6 +1217,6 @@
   "slug": "alveolar-fricatives-in-coda",
   "created_at": "2026-03-14T00:01:39.983Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-09T22:25:01.048Z",
+  "updated_at": "2026-05-11T23:02:08.894Z",
   "updated_by": "derrek-powell"
 }
