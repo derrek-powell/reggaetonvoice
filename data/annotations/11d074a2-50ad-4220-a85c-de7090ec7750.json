@@ -1,5 +1,505 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 110,
+      "end_time": 113,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Por qué tanta[-] pelea[-] si termina[s] en mi cama?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-retention"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "s-reduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Becky G"
+        }
+      ],
+      "uuid": "0deb98af-0ea6-45b9-9b67-7193a5a85783"
+    },
+    {
+      "start_time": 113,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No drama, no drama, no drama"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "NA"
+        }
+      ],
+      "uuid": "ceee5452-6cc0-43c9-afc8-0a091ddd4f4c"
+    },
+    {
+      "start_time": 116,
+      "end_time": 119,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Pa' qué tan orgulloso? Si al final siempre me llama[-]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-reduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Becky G"
+        }
+      ],
+      "uuid": "94b51729-572f-4f16-a40a-5647be622fd3"
+    },
+    {
+      "start_time": 119,
+      "end_time": 124,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "(Ozuna: E[-] que su cuerpo me encanta, yeah, pero te me queja[-] tanto, uh-oh)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-reduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ozuna"
+        }
+      ],
+      "uuid": "8413eb70-bf4d-454a-be34-1009c2bf79a5"
+    },
+    {
+      "start_time": 124,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No drama, no drama, no drama"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "NA"
+        }
+      ],
+      "uuid": "d3e46a01-9fd6-450a-ae3b-5808c78991ca"
+    },
+    {
+      "start_time": 127,
+      "end_time": 130,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "¿Por qué lo hace[-] difícil?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-reduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Becky G"
+        }
+      ],
+      "uuid": "37f3de98-8daa-442e-a897-63793eff73a4"
+    },
+    {
+      "start_time": 130,
+      "end_time": 132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Papi, cógela easy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "NA"
+        }
+      ],
+      "uuid": "3bc0922e-8b80-49c8-9d40-87bc56050cb5"
+    },
+    {
+      "start_time": 132,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Saco bandera blanca pa' que me de[s] un kissy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-retention"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Becky G"
+        }
+      ],
+      "uuid": "2f2c3981-45c5-4106-b372-b3921805081c"
+    },
+    {
+      "start_time": 134,
+      "end_time": 136,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "E[s] que yo no quiero pelear"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-retention"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Becky G"
+        }
+      ],
+      "uuid": "a31d9826-1153-46f8-9013-9b6f32593c3b"
+    },
+    {
+      "start_time": 136,
+      "end_time": 138,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lo que te tiene mal"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "NA"
+        }
+      ],
+      "uuid": "8d7a4ecb-cfb8-4503-96da-23d33cef49fe"
+    },
+    {
+      "start_time": 138,
+      "end_time": 140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "En la cama lo podemo[-] arreglar"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-reduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Becky G"
+        }
+      ],
+      "uuid": "bfcc277e-e3fd-4618-815a-6f2a4eedeaf7"
+    },
+    {
+      "start_time": 140,
+      "end_time": 143,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "E[-] que e[-]toy di[-]pue[-]ta a darte lo que tú quiera[-]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-reduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Becky G"
+        }
+      ],
+      "uuid": "259a7f72-f340-4862-bc95-8c96193aac4d"
+    },
+    {
+      "start_time": 143,
+      "end_time": 146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sinceramente yo solo quisiera, yeah"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "NA"
+        }
+      ],
+      "uuid": "c62219df-a3a4-47df-b705-f9bd9fa049a0"
+    },
+    {
+      "start_time": 146,
+      "end_time": 149,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No drama, no drama contigo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "NA"
+        }
+      ],
+      "uuid": "aaf45eff-fb5f-49dc-8494-bba19c71c8ad"
+    },
+    {
+      "start_time": 149,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sígueme que yo te sigo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "NA"
+        }
+      ],
+      "uuid": "5f203f2d-7142-4189-a276-94e01ef90913"
+    },
+    {
+      "start_time": 151,
+      "end_time": 154,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y si me subo arriba, ¿qué va[s] a hacer?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-retention"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Becky G"
+        }
+      ],
+      "uuid": "7a3faf2e-8da5-4703-983c-57431e8ae021"
+    },
+    {
+      "start_time": 154,
+      "end_time": 156,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y si te beso el cuello ¿qué dice u[s]ted?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-retention"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Becky G"
+        }
+      ],
+      "uuid": "96ea3ba0-49fc-487a-b1f8-f45e2f0413b4"
+    },
+    {
+      "start_time": 156,
+      "end_time": 159,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ya se te e[-]tá olvidando"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-reduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Becky G"
+        }
+      ],
+      "uuid": "0828fee0-57f0-4139-b73a-559736e2e790"
+    },
+    {
+      "start_time": 159,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lo que e[-]taba[-] diciendo"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-reduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Becky G"
+        }
+      ],
+      "uuid": "43c19848-b394-41c7-8524-bfc69e585b31"
+    }
+  ],
   "set": "Default",
   "event_id": "769a5931-a631-4eca-a656-7ddefbc02aa5",
   "source_id": "11c52f6b-eb3d-4714-8944-1fe3fad3de38"
