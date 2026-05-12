@@ -67,27 +67,6 @@
       "uuid": "a5317b42-5b93-4c25-a046-f71b78320c46"
     },
     {
-      "start_time": 64,
-      "end_time": 69,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "undefined"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "NA"
-        }
-      ],
-      "uuid": "d305e9f9-057c-4d21-8430-53e69e1242ca"
-    },
-    {
       "start_time": 69,
       "end_time": 71,
       "annotation": [
