@@ -922,10 +922,45 @@
       ]
     },
     {
+      "includes": [
+        "media",
+        "annotations",
+        "label"
+      ],
+      "event1": {
+        "uuid": "2f54b0f0-788b-46da-95b8-520e1380cb36",
+        "start": 69,
+        "end": 117,
+        "file": "b6f63e98-a3dc-4248-be33-994af94f13e8",
+        "type": "Video"
+      },
+      "event2": {
+        "uuid": "827af6d7-cf18-43af-a1d1-a11c6e55f36c",
+        "start": 9,
+        "end": 73,
+        "file": "dc0b0f05-3ed7-4e48-a885-e2660eb7aa66",
+        "type": "Video"
+      },
+      "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
-          "text": "\nBelow are some figures that trace patterns of s-reduction distributions between singers, genres, and over time to further showcase this convergence toward a standardized singing style. "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Below are some figures that trace patterns of s-reduction distributions between singers, genres, and over time to further showcase this convergence toward a standardized singing style. "
         }
       ]
     },
@@ -943,7 +978,69 @@
       "align": "justify",
       "children": [
         {
-          "text": "[Graphs from Powell 2024, 2025, and Hayes 2023] "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Powell (2025) found that artists of three unique Hispano-Caribbean origins all preferred reduction in music marketed as Latin Urban as opposed to music marketed as Tropical. While individual rates of deletion varied by artist, overall, the directions of effect were uniform. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://drive.google.com/file/d/1mLchWCQDjpcncvlIcsTJ6MfAJE3L4Npj/view?usp=sharing",
+              "caption": "S-Reduction Patterns by Genre (from Powell, 2025) ",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -957,8 +1054,143 @@
       ]
     },
     {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Hayes (2023) found that, while the compared overall rate of reduction for Bad Bunny and J Balvin exhibits a stark contrast where the former reduces significantly more than the latter, these rates actually converge towards a \"middle ground\", suggesting alignment with an emergent phonological norm in reggaetón. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "image",
+              "url": "https://drive.google.com/file/d/1mgSbZLQh0McFVdrCPc3cqdebuqaoztBF/view?usp=sharing",
+              "caption": "S-Reduction Convergence (from Hayes, 2023)",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "type": "paragraph",
-      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        2,
+        4
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Powell (2024) found a similar convergence as Hayes in the performances of Anitta, Becky G, Karol G, and Natti Natasha. This study also identified that the prioritization of reduced variants has become more apparent in more recent years, in particular following the unprecedented success of Despacito. "
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://drive.google.com/file/d/1hhN45Joreu_2axEJZJnWJzKoS0MrEVwN/view?usp=sharing",
+              "caption": "S-Reduction Convergence (from Powell, 2024) ",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
       "children": [
         {
           "text": ""
@@ -997,6 +1229,84 @@
       "align": "justify",
       "children": [
         {
+          "text": "\nDelgado-Díaz, G., Galarza, I., & Díaz-Campos, M. (2021). “No me molesta que se coman las /s/”: A production and attitudes analysis of coda /s/ in Puerto Rican Spanish. In L. A. Ortiz-López & E.-M. Suárez Büdenbender (Eds.), "
+        },
+        {
+          "text": "Topics in Spanish Linguistic Perceptions",
+          "italic": true
+        },
+        {
+          "text": " (1st ed., pp. 13–34). Routledge.\n  \nHayes, E. N. (2023). Meeting in the Middle: Sociophonetic Convergence of Bad Bunny and J Balvin’s Coda /s/ in Their Artistic Performance Speech. "
+        },
+        {
+          "text": "Languages",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "8",
+          "italic": true
+        },
+        {
+          "text": "(4), Article 4. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.3390/languages8040287",
+          "children": [
+            {
+              "text": "https://doi.org/10.3390/languages8040287"
+            }
+          ]
+        },
+        {
+          "text": "\n  \nHualde, J. I. (2014). "
+        },
+        {
+          "text": "Los sonidos del español: Spanish Language edition.",
+          "italic": true
+        },
+        {
+          "text": " (1st ed.). Cambridge University Press. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1017/CBO9780511719943",
+          "children": [
+            {
+              "text": "https://doi.org/10.1017/CBO9780511719943"
+            }
+          ]
+        },
+        {
+          "text": "\n  \nMack, S. (2011). A sociophonetic analysis of /s/ variation in Puerto Rican Spanish. In L. A. Ortiz-López (Ed.), "
+        },
+        {
+          "text": "Selected Proceedings of the 13th Hispanic Linguistics Symposium.",
+          "italic": true
+        },
+        {
+          "text": " (pp. 81–93). Cascadilla Proceedings Project.\n \nMartínez Kane, A., & Papadopoulos, B. (2021). "
+        },
+        {
+          "text": "Catalana, Cantaora, or Reggaetonera? Rosalía and the Linguistic Performance of Persona.",
+          "italic": true
+        },
+        {
+          "text": " [Conference Presentation]. New Ways of Analyzing Variation NWAV49, University of Texas at Austin. "
+        },
+        {
+          "type": "link",
+          "url": "https://www.youtube.com/watch?v=DbPj1nAZbYc",
+          "children": [
+            {
+              "text": "https://www.youtube.com/watch?v=DbPj1nAZbYc"
+            }
+          ]
+        },
+        {
           "text": ""
         }
       ]
@@ -1007,6 +1317,118 @@
       "children": [
         {
           "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://www.youtube.com/watch?v=DbPj1nAZbYc",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "\nOrtiz-López, L. A. (2022). El español en Puerto Rico. In F. Moreno-Fernández & R. Caravedo (Eds.), "
+        },
+        {
+          "text": "Dialectología hispánica / The Routledge Handbook of Spanish Dialectology",
+          "italic": true
+        },
+        {
+          "text": " (pp. 344–358). Routledge."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Powell, D. (2024). ‘No’ Dimo’ par de Botella’ y Ahora Etamo’ Al Garete’: Exploring the Intersections of Coda /s/, Place, and the Reggaetón Voice. "
+        },
+        {
+          "text": "Languages",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "9",
+          "italic": true
+        },
+        {
+          "text": "(9), Article 9. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.3390/languages9090292",
+          "children": [
+            {
+              "text": "https://doi.org/10.3390/languages9090292"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.3390/languages9090292",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.3390/languages9090292",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Powell, D. (2025). Sibilants’ Mark on the Genre: Standard Singing Styles, S-Reduction, and Reggaetón. In "
+        },
+        {
+          "text": "Puerto Rican Spanish, Reggaeton Style! The (Socio)Linguistics of Urban Music.",
+          "italic": true
+        },
+        {
+          "text": " Vernon Press.\n  \n"
         }
       ]
     }
@@ -1020,6 +1442,6 @@
   "slug": "alveolar-fricatives-in-coda",
   "created_at": "2026-03-14T00:01:39.983Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T19:15:13.785Z",
+  "updated_at": "2026-05-12T19:56:23.955Z",
   "updated_by": "derrek-powell"
 }
