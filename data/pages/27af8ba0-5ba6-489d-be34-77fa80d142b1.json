@@ -1186,6 +1186,56 @@
       "align": "justify",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Recommended Readings",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Díaz, V. & Rivera-Rideau, P. (2025). "
+        },
+        {
+          "text": "P FKN R: How Bad Bunny Became the Global Voice of Puerto Rican Resistance. ",
+          "italic": true
+        },
+        {
+          "text": "Duke University Press "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
           "text": "\n\n"
         }
       ]
@@ -1200,6 +1250,6 @@
   "slug": "from-reggeaton-to-urbano-latino",
   "created_at": "2026-03-13T23:05:16.653Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T20:14:11.354Z",
+  "updated_at": "2026-05-12T20:17:29.295Z",
   "updated_by": "derrek-powell"
 }
