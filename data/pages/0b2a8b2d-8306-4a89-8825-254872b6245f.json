@@ -554,12 +554,228 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": ""
         }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Recommended Readings",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nAlim, S. H. (2009). Intro. Straight outta Compton, straight aus Munchen: Global linguistic flows, identities, and the politics of language in a Global Hip Hop Nation. In S. H. Alim, A. Ibrahim, & A. Pennycook (Eds.), "
+        },
+        {
+          "text": "Global linguistic flows: Hip hop cultures, youth identities, and the politics of language.",
+          "italic": true
+        },
+        {
+          "text": " Routledge.\n "
+        }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Bell, A., & Gibson, A. (2011). Staging language: An introduction to the sociolinguistics of performance. "
+        },
+        {
+          "text": "Journal of Sociolinguistics",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "15",
+          "italic": true
+        },
+        {
+          "text": "(5), 555–572.\n  \nEberhardt, M., & Freeman, K. (2015). ‘First things first, I’m the realest’: Linguistic appropriation, white privilege, and the hip-hoppersona of Iggy Azalea. "
+        },
+        {
+          "text": "Journal of Sociolinguistics",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "19",
+          "italic": true
+        },
+        {
+          "text": "(3), 303–327. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1111/josl.12128",
+          "children": [
+            {
+              "text": "https://doi.org/10.1111/josl.12128"
+            }
+          ]
+        },
+        {
+          "text": "\n  \nFrith, S. (2016). Pop Music (2001). In "
+        },
+        {
+          "text": "Taking Popular Music Seriously: Selected Essays.",
+          "italic": true
+        },
+        {
+          "text": " (pp. 167–182). Routledge.\n\nGibson, A. (2019). "
+        },
+        {
+          "text": "Sociophonetics of Popular Music: Insights from Corpus Analysis and Speech Perception Experiments.",
+          "italic": true
+        },
+        {
+          "text": " [Doctoral Dissertation]. University of Cantebury.\n  "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Gibson, A. (2023). Pop Song English as a supralocal norm. "
+        },
+        {
+          "text": "Language in Society",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "53",
+          "italic": true
+        },
+        {
+          "text": "(3), 471–498. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1017/S0047404523000131",
+          "children": [
+            {
+              "text": "https://doi.org/10.1017/S0047404523000131"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Gibson, A., & Bell, A. (2012). Popular Music Singing as Referee Design. In J. M. Hernández-Campoy (Ed.), "
+        },
+        {
+          "text": "Style-Shifting in Public: New Perspectives on Stylistic Variation.",
+          "italic": true
+        },
+        {
+          "text": " (pp. 139–164). John Benjamins.\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Picone, M. (2024). Lyrical Code-Switching, Multimodal Intertextuality, and Identity in Popular Music. "
+        },
+        {
+          "text": "Languages",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "9",
+          "italic": true
+        },
+        {
+          "text": "(9), Article 9. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.3390/languages9110349",
+          "children": [
+            {
+              "text": "https://doi.org/10.3390/languages9110349"
+            }
+          ]
+        },
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Trudgill, P. (1983). Acts of Conflicting Identity. The Sociolinguistics of British Pop-song  Pronunciation. In "
+        },
+        {
+          "text": "Dialect: Social and Geographical Perspectives",
+          "italic": true
+        },
+        {
+          "text": " (pp. 141–160). New York University Press.\n  \n"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -588,6 +804,6 @@
   "slug": "singing-style",
   "created_at": "2026-03-13T23:02:07.262Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-03T20:14:47.483Z",
+  "updated_at": "2026-05-12T20:07:09.133Z",
   "updated_by": "derrek-powell"
 }
