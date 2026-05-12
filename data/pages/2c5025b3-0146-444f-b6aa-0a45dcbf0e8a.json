@@ -4,15 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Alveolar Fricatives in Coda",
+          "text": "",
           "textSize": "heading-one"
         }
       ],
@@ -180,9 +172,7 @@
               ]
             },
             {
-              "type": "image",
-              "url": "https://drive.google.com/file/d/1c83P40bRzW2KUQeTXGwMf1ZVmRg319uj/view?usp=drive_link",
-              "caption": "Lipski's s-reduction trajectory ",
+              "type": "paragraph",
               "children": [
                 {
                   "text": ""
@@ -191,13 +181,24 @@
               "align": "center"
             },
             {
-              "type": "paragraph",
+              "type": "image",
+              "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/S-weakening.png?raw=true",
+              "caption": "From Powell (2024) Adapted from Lipski (1999) ",
               "children": [
                 {
                   "text": ""
                 }
               ],
+              "scale": 75,
               "align": "center"
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         },
@@ -214,14 +215,23 @@
               "align": "center"
             },
             {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "image",
-              "url": "https://drive.google.com/file/d/1ZHXFbbnVRNxrzl5D5aTVzhFDoJ1Bo5yL/view?usp=sharing",
-              "caption": "Puerto Rico /s/ Variants",
+              "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/S%20Variants.png?raw=true",
+              "caption": "Adapted from Luis Ortiz (2022) ",
               "children": [
                 {
                   "text": ""
                 }
               ],
+              "scale": 75,
               "align": "center"
             },
             {
@@ -248,10 +258,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Because s-reduction is a gradient feature, analysts often use acoustic measures to determine the extent of reduction and to classify tokens allophonically. This typically involves at least a combined Center of Gravity (COG) and Standard Deviation (SD) Measurement in Hertz (Hz). The COG measurement indicates the average frequency of the sound, whereas the SD indicates dispersion of sound relative to that average. That is, a high COG (~6-10kHz) and a low SD are indicative of a high frequency flow of concentrated air moving through a relatively small airway, which occurs with [s]. Contrastively, a lower COG and a higher SD indicate less-concentrated air moving through a larger opening, which occurs with [h]. These differences can also be confirmed visually using a spectrogram, as [s] presents as a high-frequency dark cluster. Below are spectrograms that showcase this variability, including two forms of deletion: one where the etymological place of /s/ is trace-marked with a pause, and another where the segment is elided entirely. "
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Because s-reduction is a gradient feature, analysts often use acoustic measures to determine the extent of reduction and to classify tokens allophonically. This typically involves at least a combined Center of Gravity (COG) and Standard Deviation (SD) Measurement in Hertz (Hz). The COG measurement indicates the average frequency of the sound, whereas the SD indicates dispersion of sound relative to that average. That is, a high COG (~6-10kHz) and a low SD are indicative of a high frequency flow of concentrated air moving through a relatively small airway, which occurs with [s]. Contrastively, a lower COG and a higher SD indicate less-concentrated air moving through a larger opening, which occurs with [h]. These differences can also be confirmed visually using a spectrogram, as [s] presents as a high-frequency dark cluster. Below are spectrograms that showcase this variability, including two forms of deletion: one where the etymological place of /s/ is trace-marked with a pause, and another where the segment is elided entirely. "
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -280,15 +299,23 @@
               ]
             },
             {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "image",
-              "url": "https://drive.google.com/file/d/1vDgOymJwBtzZfb93j0aA4LDnQ0TgJI0U/view?usp=sharing",
-              "caption": "/s/ Realization",
+              "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/S_sibilance.png?raw=true",
+              "caption": "[s] ",
               "children": [
                 {
                   "text": ""
                 }
               ],
-              "align": "center"
+              "scale": 87
             },
             {
               "type": "paragraph",
@@ -312,9 +339,17 @@
               ]
             },
             {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "image",
-              "url": "https://drive.google.com/file/d/1IxaV-LGZITmAT3FhKYYFZcP4aI4C7vdO/view?usp=sharing",
-              "caption": "/h/ Realization",
+              "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/Anitta_Portugues.png?raw=true",
+              "caption": "[h]",
               "children": [
                 {
                   "text": ""
@@ -361,14 +396,23 @@
               ]
             },
             {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "image",
-              "url": "https://drive.google.com/file/d/1edZpRMDpsFvCUYRl8RnGvawfcVP6DIQs/view?usp=drive_link",
-              "caption": "Trace-marked Deletion",
+              "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/Trace%20marked.png?raw=true",
+              "caption": "Trace-marked [ø]",
               "children": [
                 {
                   "text": ""
                 }
               ],
+              "scale": 75,
               "align": "center"
             },
             {
@@ -393,9 +437,7 @@
               ]
             },
             {
-              "type": "image",
-              "url": "https://drive.google.com/file/d/1SLHu9T0_SOzDux6wL6BzBodY_8TwInEe/view?usp=sharing",
-              "caption": "Unmarked Deletion",
+              "type": "paragraph",
               "children": [
                 {
                   "text": ""
@@ -404,13 +446,23 @@
               "align": "center"
             },
             {
-              "type": "paragraph",
+              "type": "image",
+              "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/Anitta_Unmarked.png?raw=true",
+              "caption": "Unmarked [ø]",
               "children": [
                 {
                   "text": ""
                 }
               ],
-              "align": "center"
+              "scale": 90
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             }
           ]
         }
@@ -429,10 +481,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The alternation between these forms is not random, but conditioned by a combination of language-internal and -external factors, including phonological environment, interactional setting, role alignment, and encoded stance and affect. In Puerto Rico, sibilance [s] is contrasted against both [h] and [∅] along axes of differentation relating to notions of formality, education, and institutional authority. Aspiration is then further distinguished from deletion and sibilance along an axis of locality, being positively evaluated as an authentic marker of Puerto Rican identity. Of these variants, deletion is often reported as the most heavily stigmatized, though such evaluations are shown to be influenced in part by the stance and background of the hearer and their perceptions of the speaker's background. Moreover, some research suggests [s] carries gendered and sexuality-based associations, being heard as a \"feminine\" feature characteristic of the speech of women and gay men. "
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "The alternation between these forms is not random, but conditioned by a combination of language-internal and -external factors, including phonological environment, interactional setting, role alignment, and encoded stance and affect. In Puerto Rico, sibilance [s] is contrasted against both [h] and [∅] along axes of differentation relating to notions of formality, education, and institutional authority. Aspiration is then further distinguished from deletion and sibilance along an axis of locality, being positively evaluated as an authentic marker of Puerto Rican identity. Of these variants, deletion is often reported as the most heavily stigmatized, though such evaluations are shown to be influenced in part by the stance and background of the hearer and their perceptions of the speaker's background. Moreover, some research suggests [s] carries gendered and sexuality-based associations, being heard as a \"feminine\" feature characteristic of the speech of women and gay men. "
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -443,14 +504,23 @@
       ]
     },
     {
-      "type": "image",
-      "url": "https://drive.google.com/file/d/1AzZxTlX98SzLxXRQPwKlhQANKeLMB2hP/view?usp=sharing",
-      "caption": "An Indexical Field of /s/ reduction in Puerto Rico",
+      "type": "paragraph",
       "children": [
         {
           "text": ""
         }
       ],
+      "align": "center"
+    },
+    {
+      "type": "image",
+      "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/S%20Indexical%20Field.png?raw=true",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "scale": 73,
       "align": "center"
     },
     {
@@ -485,6 +555,16 @@
         {
           "textSize": "heading-two",
           "text": "/s/ in Reggaetón "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "text": ""
         }
       ]
     },
@@ -1014,14 +1094,22 @@
               ]
             },
             {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "image",
-              "url": "https://drive.google.com/file/d/1mLchWCQDjpcncvlIcsTJ6MfAJE3L4Npj/view?usp=sharing",
-              "caption": "S-Reduction Patterns by Genre (from Powell, 2025) ",
+              "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/S%20by%20genre.png?raw=true",
               "children": [
                 {
                   "text": ""
                 }
               ],
+              "scale": 65,
               "align": "center"
             },
             {
@@ -1086,15 +1174,21 @@
               "align": "center"
             },
             {
-              "type": "image",
-              "url": "https://drive.google.com/file/d/1mgSbZLQh0McFVdrCPc3cqdebuqaoztBF/view?usp=sharing",
-              "caption": "S-Reduction Convergence (from Hayes, 2023)",
+              "type": "paragraph",
               "children": [
                 {
                   "text": ""
                 }
-              ],
-              "align": "center"
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/Hayes_Sreduction.png?raw=true",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
             },
             {
               "type": "paragraph",
@@ -1156,14 +1250,22 @@
               ]
             },
             {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "image",
-              "url": "https://drive.google.com/file/d/1hhN45Joreu_2axEJZJnWJzKoS0MrEVwN/view?usp=sharing",
-              "caption": "S-Reduction Convergence (from Powell, 2024) ",
+              "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/languages-09-00292-g005.png?raw=true",
               "children": [
                 {
                   "text": ""
                 }
               ],
+              "scale": 66,
               "align": "center"
             },
             {
@@ -1236,7 +1338,25 @@
           "italic": true
         },
         {
-          "text": " (1st ed., pp. 13–34). Routledge.\n  \nHayes, E. N. (2023). Meeting in the Middle: Sociophonetic Convergence of Bad Bunny and J Balvin’s Coda /s/ in Their Artistic Performance Speech. "
+          "text": " (1st ed., pp. 13–34). Routledge."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Hayes, E. N. (2023). Meeting in the Middle: Sociophonetic Convergence of Bad Bunny and J Balvin’s Coda /s/ in Their Artistic Performance Speech. "
         },
         {
           "text": "Languages",
@@ -1262,7 +1382,49 @@
           ]
         },
         {
-          "text": "\n  \nHualde, J. I. (2014). "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.3390/languages8040287",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.3390/languages8040287",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Hualde, J. I. (2014). "
         },
         {
           "text": "Los sonidos del español: Spanish Language edition.",
@@ -1281,14 +1443,74 @@
           ]
         },
         {
-          "text": "\n  \nMack, S. (2011). A sociophonetic analysis of /s/ variation in Puerto Rican Spanish. In L. A. Ortiz-López (Ed.), "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1017/CBO9780511719943",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1017/CBO9780511719943",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Mack, S. (2011). A sociophonetic analysis of /s/ variation in Puerto Rican Spanish. In L. A. Ortiz-López (Ed.), "
         },
         {
           "text": "Selected Proceedings of the 13th Hispanic Linguistics Symposium.",
           "italic": true
         },
         {
-          "text": " (pp. 81–93). Cascadilla Proceedings Project.\n \nMartínez Kane, A., & Papadopoulos, B. (2021). "
+          "text": " (pp. 81–93). Cascadilla Proceedings Project."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Martínez Kane, A., & Papadopoulos, B. (2021). "
         },
         {
           "text": "Catalana, Cantaora, or Reggaetonera? Rosalía and the Linguistic Performance of Persona.",
@@ -1328,7 +1550,28 @@
           ]
         },
         {
-          "text": "\nOrtiz-López, L. A. (2022). El español en Puerto Rico. In F. Moreno-Fernández & R. Caravedo (Eds.), "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://www.youtube.com/watch?v=DbPj1nAZbYc",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Ortiz-López, L. A. (2022). El español en Puerto Rico. In F. Moreno-Fernández & R. Caravedo (Eds.), "
         },
         {
           "text": "Dialectología hispánica / The Routledge Handbook of Spanish Dialectology",
@@ -1387,6 +1630,18 @@
       "type": "paragraph",
       "align": "justify",
       "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.3390/languages9090292",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
         {
           "text": ""
         },
@@ -1486,6 +1741,6 @@
   "slug": "alveolar-fricatives-in-coda",
   "created_at": "2026-03-14T00:01:39.983Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T20:26:59.662Z",
+  "updated_at": "2026-05-12T22:20:41.748Z",
   "updated_by": "derrek-powell"
 }
