@@ -113,30 +113,16 @@
       "align": "justify",
       "children": [
         {
-          "text": "This Atlas is an interactive, multimedia resource designed to explore the linguistic performance of reggaetón. It is designed to act as a guide through empirical findings where analysts examine how artists use sound, pronunciation, rhythm, lexis, and style to create and signify social meaning in musical production. This Atlas aims to contribute to filling a specific gap in the reggaetón literature, because despite ample work on its musical structure, thematic content, and cultural impact, work on reggaetón's voice itself as a site of socail, aesthetic, and political expression is less visible. Thus, the purpose of this project is two-fold: "
+          "text": "This Atlas is an interactive, multimedia resource designed to explore the linguistic performance of reggaetón. It is designed to act as a guide through empirical findings where analysts examine how artists use sound, pronunciation, rhythm, lexis, and style to create and signify social meaning in musical production. This Atlas aims to contribute to filling a specific gap in the reggaetón literature, because despite ample work on its musical structure, thematic content, and cultural impact, work on reggaetón's voice itself as a site of social, aesthetic, and political expression is less visible. Thus, the purpose of this project is two-fold: "
         }
       ]
     },
     {
-      "type": "numbered-list",
+      "type": "paragraph",
+      "align": "justify",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "To make research on the sociolinguistics of reggaetón accessible to broader audiences by translating academic findings into listenable content. "
-            }
-          ],
-          "align": "justify"
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "To invite listeners to engage critically with popular music, not just as entertainment, but as a structured system where social meanings are constantly produced, circulated, negotiated, and challenged. "
-            }
-          ],
-          "align": "justify"
+          "text": ""
         }
       ]
     },
@@ -144,10 +130,46 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "In doing so, the Atlas aims to show that reggaetón is not only something we dance to, but something we can hear critically and analytically."
+          "text": "1. To make research on the sociolinguistics of reggaetón accessible to broader audiences by translating academic findings into listenable content. "
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "2. To invite listeners to engage critically with popular music, not just as entertainment, but as a structured system where social meanings are constantly produced, circulated, negotiated, and challenged. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "In doing so, the Atlas aims to show that reggaetón is not only something we dance to, but something we can hear critically and analytically."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -483,7 +505,7 @@
   "created_at": "2026-02-17T20:07:54.462Z",
   "created_by": "derrek-powell",
   "title": "The Reggaetón Voice ",
-  "updated_at": "2026-05-12T21:37:03.695Z",
+  "updated_at": "2026-05-12T21:38:32.228Z",
   "updated_by": "derrek-powell",
   "autogenerate": {
     "enabled": false,
