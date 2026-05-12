@@ -4,6 +4,70 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Reggaetón ",
+          "textSize": "heading-one"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "Del barrio, a la radio y luego pa'l mundo entero ",
+          "textSize": "heading-two",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://drive.google.com/file/d/1PJQIGIIIP178T9rJFMHmPRmKb1bwdH8W/view?usp=sharing",
+      "caption": "Credit: Rolling Stones",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -17,6 +81,6 @@
   "slug": "reggaeton",
   "created_at": "2026-03-13T23:03:17.116Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-13T23:03:29.747Z",
+  "updated_at": "2026-05-12T20:36:17.901Z",
   "updated_by": "derrek-powell"
 }
