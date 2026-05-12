@@ -4,20 +4,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Singing Style",
+          "text": "",
           "textSize": "heading-one"
         }
       ],
       "align": "center"
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ],
-      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -101,9 +92,7 @@
     {
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "event1": {
         "uuid": "90af35c9-31a1-4054-a587-d8d36d184a9a"
@@ -173,10 +162,8 @@
     {
       "uuid": "1086b5ac-b2ae-401a-a841-2d3d24a6eaa9",
       "includes": [
-        "annotations",
-        "label",
-        "description",
-        "media"
+        "media",
+        "label"
       ],
       "start": 122,
       "end": 217,
@@ -199,9 +186,7 @@
     {
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "event1": {
         "uuid": "e0ed7bf3-bc89-4c8b-92d1-5066813b60d3",
@@ -389,9 +374,7 @@
     {
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "event1": {
         "uuid": "107099c6-f52b-445f-90ce-639e1a0d5ac8",
@@ -444,9 +427,7 @@
     {
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "event1": {
         "uuid": "a8b0d802-27ec-4a42-ba4b-2e2d135f7f54",
@@ -481,9 +462,7 @@
     {
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "event1": {
         "uuid": "b08d6229-9d59-472e-be3d-8986aa460fb4",
@@ -827,6 +806,6 @@
   "slug": "singing-style",
   "created_at": "2026-03-13T23:02:07.262Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T20:20:59.605Z",
+  "updated_at": "2026-05-12T21:41:43.328Z",
   "updated_by": "derrek-powell"
 }
