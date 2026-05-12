@@ -1167,10 +1167,28 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "What makes the “Benito Bowl” especially significant is how the performance—framed as a celebration of Puerto Rican culture, complete with traditional instruments, local iconography, a reggaetón-heavy setlist, and a guest appearance by Ricky Martin—positioned Caribbean expressive culture not as an exotic supplement to American spectacle, but as its organizing center. Moreover, the performance masterfully weaves political critiques of U.S. imperalism and racist models of national belonging into its sets and organization. Even the audience logic shifts here: Bad Bunny not only told the global audience they had \"four months\" to learn Spanish upon announcing his headlining spot, he also explicitly reframed participation around feeling and movement while including moments of double voicing specifically for Latino/Puerto Rican listeners and viewers that would remain otherwise inaccessible to the global Other.  In this sense, the “Benito Bowl” is not just representation—it is infrastructural power. It demonstrates that reggaetón and Puerto Rican popular culture have reached a point where they can dictate the terms of global visibility, rather than adapt to them. The halftime show becomes less a site where Latin music is included and more a site where U.S. mainstream culture temporarily reorganizes itself around Caribbean norms. What was once underground, racialized, and censored now commands the most surveilled stage in American media, not by erasing its linguistic or cultural specificity, but by amplifying it.\n\n"
+          "text": "What makes the “Benito Bowl” especially significant is how the performance—framed as a celebration of Puerto Rican culture, complete with traditional instruments, local iconography, a reggaetón-heavy setlist, and a guest appearance by Ricky Martin—positioned Caribbean expressive culture not as an exotic supplement to American spectacle, but as its organizing center. Moreover, the performance masterfully weaves political critiques of U.S. imperalism and racist models of national belonging into its sets and organization. Even the audience logic shifts here: Bad Bunny not only told the global audience they had \"four months\" to learn Spanish upon announcing his headlining spot, he also explicitly reframed participation around feeling and movement while including moments of double voicing specifically for Latino/Puerto Rican listeners and viewers that would remain otherwise inaccessible to the global Other.  In this sense, the “Benito Bowl” is not just representation—it is infrastructural power. It demonstrates that reggaetón and Puerto Rican popular culture have reached a point where they can dictate the terms of global visibility, rather than adapt to them. The halftime show becomes less a site where Latin music is included and more a site where U.S. mainstream culture temporarily reorganizes itself around Caribbean norms. What was once underground, racialized, and censored now commands the most surveilled stage in American media, not by erasing its linguistic or cultural specificity, but by amplifying it."
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "\n\n"
+        }
+      ]
     }
   ],
   "title": "From Reggeatón to Urbano Latino ",
@@ -1182,6 +1200,6 @@
   "slug": "from-reggeaton-to-urbano-latino",
   "created_at": "2026-03-13T23:05:16.653Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-03T20:14:08.202Z",
+  "updated_at": "2026-05-12T20:14:11.354Z",
   "updated_by": "derrek-powell"
 }
