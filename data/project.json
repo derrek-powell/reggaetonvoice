@@ -1,1 +1,161 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"derrek-powell","avatar_url":"https://avatars.githubusercontent.com/u/262203884?v=4","admin":true}],"project":{"github_org":"derrek-powell","is_private":false,"title":"The Reggaetón Voice ","description":"This project provides a detailed description of some sociolinguistic phenomena and how they manifest in reggaetón vocal performance by mainstream performers. This particular project discusses the reduction of coda sibilants, the lambdacism of coda taps, and the use of lyrical code-switching. While this project dedicates significant space to Ivy Queen, the curated frame serves as a model for a developing project titled \"The Atlas of Hispano-Caribbean Musical Voices\" in which linguists, anthropologists, and ethnomusicologist will be able to share information about the stylistic nuances for performing different genres of Antillean music. ","language":"en","slug":"reggaetonvoice","creator":"derrek-powell","authors":"Derrek Powell ","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"category":"_uncategorized_","tag":"s-reduction"},{"category":"_uncategorized_","tag":"phonology"},{"category":"_uncategorized_","tag":"Ivy Queen"},{"category":"_uncategorized_","tag":"s-retention"},{"category":"_uncategorized_","tag":"riddim"},{"category":"_uncategorized_","tag":"Shabba Ranks"},{"category":"_uncategorized_","tag":"dancehall"},{"category":"_uncategorized_","tag":"dem bow"},{"category":"_uncategorized_","tag":"Daddy Yankee"},{"category":"_uncategorized_","tag":"Gasolina"},{"category":"_uncategorized_","tag":"Luis Fonsi"},{"category":"_uncategorized_","tag":"Despacito"},{"category":"_uncategorized_","tag":"Bad Bunny"},{"category":"_uncategorized_","tag":"DTMF"},{"category":"_uncategorized_","tag":"NA"},{"category":"_uncategorized_","tag":"Wisin y Yandel"},{"category":"_uncategorized_","tag":"Nicky Jam"},{"category":"_uncategorized_","tag":"Chencho Corleone"},{"category":"_uncategorized_","tag":"Romeo Santos"},{"category":"_uncategorized_","tag":"Rosalía"},{"category":"_uncategorized_","tag":"Becky G"},{"category":"_uncategorized_","tag":"Ozuna"},{"category":"_uncategorized_","tag":"J Balvin"},{"category":"_uncategorized_","tag":"Karol G"},{"category":"_uncategorized_","tag":"Anitta"}]},"created_at":"2026-02-17T20:07:54.438Z","updated_at":"2026-05-12T21:09:55.141Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"93083bb8-1550-40ec-8068-95e74fe6f090":{"content":[],"created_at":"2026-02-17T20:07:54.462Z","created_by":"derrek-powell","title":"The Reggaetón Voice ","updated_at":"2026-02-17T20:07:54.462Z","updated_by":"derrek-powell","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["93083bb8-1550-40ec-8068-95e74fe6f090"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "derrek-powell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/262203884?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "derrek-powell",
+    "is_private": false,
+    "title": "The Reggaetón Voice ",
+    "description": "This project provides a detailed description of some sociolinguistic phenomena and how they manifest in reggaetón vocal performance by mainstream performers. This particular project discusses the reduction of coda sibilants, the lambdacism of coda taps, and the use of lyrical code-switching. While this project dedicates significant space to Ivy Queen, the curated frame serves as a model for a developing project titled \"The Atlas of Hispano-Caribbean Musical Voices\" in which linguists, anthropologists, and ethnomusicologist will be able to share information about the stylistic nuances for performing different genres of Antillean music. ",
+    "language": "en",
+    "slug": "reggaetonvoice",
+    "creator": "derrek-powell",
+    "authors": "Derrek Powell ",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-reduction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ivy Queen"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "s-retention"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "riddim"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Shabba Ranks"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dancehall"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "dem bow"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Daddy Yankee"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gasolina"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Luis Fonsi"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Despacito"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Bad Bunny"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "DTMF"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "NA"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Wisin y Yandel"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Nicky Jam"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Chencho Corleone"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Romeo Santos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Rosalía"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Becky G"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ozuna"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "J Balvin"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Karol G"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Anitta"
+        }
+      ]
+    },
+    "created_at": "2026-02-17T20:07:54.438Z",
+    "updated_at": "2026-05-12T21:18:06.959Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "93083bb8-1550-40ec-8068-95e74fe6f090": {
+      "content": [],
+      "created_at": "2026-02-17T20:07:54.462Z",
+      "created_by": "derrek-powell",
+      "title": "The Reggaetón Voice ",
+      "updated_at": "2026-02-17T20:07:54.462Z",
+      "updated_by": "derrek-powell",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "93083bb8-1550-40ec-8068-95e74fe6f090"
+  ]
+}

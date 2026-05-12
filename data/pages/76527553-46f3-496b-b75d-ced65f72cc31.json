@@ -4,11 +4,21 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "What is \"Style\" in Linguistics?",
+          "text": "",
           "textSize": "heading-one"
         }
       ],
       "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": "What is \"Style\" in Linguistics?"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -196,7 +206,7 @@
           "italic": true
         },
         {
-          "text": "(1), 38–59.\n  "
+          "text": "(1), 38–59.\n"
         }
       ]
     },
@@ -226,7 +236,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\nBell, A. (2001). Back in style: Reworking audience design. In P. Eckert & J. R. Rickford (Eds.), "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bell, A. (2001). Back in style: Reworking audience design. In P. Eckert & J. R. Rickford (Eds.), "
         },
         {
           "text": "Style and Sociolinguistic Variation",
@@ -256,7 +274,7 @@
           "italic": true
         },
         {
-          "text": " (pp. 185–210). Cambridge University Press.\n "
+          "text": " (pp. 185–210). Cambridge University Press.\n"
         }
       ]
     },
@@ -279,7 +297,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\nEckert, P. (2008). Variation and the indexical field. "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Eckert, P. (2008). Variation and the indexical field. "
         },
         {
           "text": "Journal of Sociolinguistics",
@@ -305,13 +331,45 @@
           ]
         },
         {
-          "text": "\n"
+          "text": ""
         }
       ]
     },
     {
       "type": "paragraph",
       "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1111/j.1467-9841.2008.00374.x",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1111/j.1467-9841.2008.00374.x",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
         {
           "text": "Gal, S. (2016). Sociolinguistic differentiation. In M. Myerhoff & N. Coupland (Eds.), "
         },
@@ -332,7 +390,7 @@
           ]
         },
         {
-          "text": "\n  "
+          "text": "\n"
         }
       ]
     },
@@ -372,6 +430,6 @@
   "slug": "what-is-style-in-linguistics",
   "created_at": "2026-03-13T23:01:29.718Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T20:02:22.982Z",
+  "updated_at": "2026-05-12T21:18:06.518Z",
   "updated_by": "derrek-powell"
 }
