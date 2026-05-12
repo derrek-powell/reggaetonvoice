@@ -1224,6 +1224,88 @@
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n  Rivera, M. M. (2014). "
+        },
+        {
+          "text": "Hate It or Love It: Global Crossover of Reggaetón Music in the Digital Age.",
+          "italic": true
+        },
+        {
+          "text": " [Doctoral Dissertation]. University of Illinois.\n  \n\n  Rivera-Rideau, P. R. (2019). Reinventing Enrique Igelsias: Constructing Latino Whiteness in the Latin Urban Scene. "
+        },
+        {
+          "text": "Latino Studies",
+          "italic": true
+        },
+        {
+          "text": ", (17), 467–483. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1057/s41276-019-00210-1",
+          "children": [
+            {
+              "text": "https://doi.org/10.1057/s41276-019-00210-1"
+            }
+          ]
+        },
+        {
+          "text": "\n  \n\n  Rivera-Rideau, P. R., & Torres-Leschnik, J. (2019). “The Colors and Flavors of My Puerto Rico”: Mapping “Despacito”’s Crossovers. "
+        },
+        {
+          "text": "Journal of Popular Music",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "31",
+          "italic": true
+        },
+        {
+          "text": "(1), 87–108.\n  \n\n  Rivera, P. T. (2011). Tropical Mix: Afro-Latino Space and Notch’s Reggaeton. "
+        },
+        {
+          "text": "Popular Music & Society",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "34",
+          "italic": true
+        },
+        {
+          "text": "(2), 221–235. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/DOI:10.1080/03007766.2010.510920.",
+          "children": [
+            {
+              "text": "https://doi.org/DOI:10.1080/03007766.2010.510920."
+            }
+          ]
+        },
+        {
+          "text": "\n  \n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "align": "justify",
       "children": [
         {
@@ -1250,6 +1332,6 @@
   "slug": "from-reggeaton-to-urbano-latino",
   "created_at": "2026-03-13T23:05:16.653Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T20:17:29.295Z",
+  "updated_at": "2026-05-12T20:20:22.673Z",
   "updated_by": "derrek-powell"
 }
