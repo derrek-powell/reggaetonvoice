@@ -22,30 +22,11 @@
     },
     {
       "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": "Articulation/Orthographic Representation",
-          "textSize": "heading-three"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "text": "Alveolar taps refer to the tapping of the point of the tongue on the alveolar ridge. This sound is represented orthographically as < r > in Spanish. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
+      "align": "center",
       "children": [
         {
           "textSize": "heading-three",
-          "text": ""
+          "text": "THIS PAGE IS CURRENTLY UNDER CONSTRUCTION"
         }
       ]
     },
@@ -90,7 +71,8 @@
       "align": "left",
       "children": [
         {
-          "text": "The working theory is a combination of rhotacism from Andalusia and the Canary Islands and an approximation of rhotics absent in the African languages of the people captured and enslaved from the west coast of Africa."
+          "text": "The working theory is a combination of rhotacism from Andalusia and the Canary Islands and an approximation of rhotics absent in the African languages of the people captured and enslaved from the west coast of Africa.",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -99,7 +81,8 @@
       "align": "left",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -107,28 +90,35 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "One of the most recognizable phonological features associated with Puerto Rican Spanish is the variable realization of syllable-final /ɾ/, commonly referred to as "
+          "text": "One of the most recognizable phonological features associated with Puerto Rican Spanish is the variable realization of syllable-final /ɾ/, commonly referred to as ",
+          "color": "#f7f3f3"
         },
         {
           "text": "lambdacism",
-          "italic": true
+          "italic": true,
+          "color": "#f7f3f3"
         },
         {
-          "text": " (i.e., the lateralization of /ɾ/ to [l], as in "
+          "text": " (i.e., the lateralization of /ɾ/ to [l], as in ",
+          "color": "#f7f3f3"
         },
         {
           "text": "parte",
-          "italic": true
+          "italic": true,
+          "color": "#f7f3f3"
         },
         {
-          "text": " → [ˈpalte]). Like /s/ weakening, this feature is part of a broader set of consonant neutralizations characteristic of Caribbean Spanish, where contrasts between liquids in coda position are often reduced. While this process is not unique to Puerto Rico, it has become especially salient in popular and metalinguistic discourse, where speakers are stereotypically described as “diciendo "
+          "text": " → [ˈpalte]). Like /s/ weakening, this feature is part of a broader set of consonant neutralizations characteristic of Caribbean Spanish, where contrasts between liquids in coda position are often reduced. While this process is not unique to Puerto Rico, it has become especially salient in popular and metalinguistic discourse, where speakers are stereotypically described as “diciendo ",
+          "color": "#f7f3f3"
         },
         {
           "text": "ele por ere",
-          "italic": true
+          "italic": true,
+          "color": "#f7f3f3"
         },
         {
-          "text": "” ."
+          "text": "” .",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -136,7 +126,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -144,14 +135,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Phonetically, /ɾ/ in Puerto Rican Spanish exhibits a wide range of variation beyond simple lateralization. In addition to the prescriptive tap [ɾ], scholars document lateral variants [l] and [ɭ], rhotic approximants [ɹ]/[ɻ] (similar to English "
+          "text": "Phonetically, /ɾ/ in Puerto Rican Spanish exhibits a wide range of variation beyond simple lateralization. In addition to the prescriptive tap [ɾ], scholars document lateral variants [l] and [ɭ], rhotic approximants [ɹ]/[ɻ] (similar to English ",
+          "color": "#f7f3f3"
         },
         {
           "text": "r",
-          "italic": true
+          "italic": true,
+          "color": "#f7f3f3"
         },
         {
-          "text": "), gemination of following consonants, and occasional deletion. Earlier variationist work often reduced this system to a binary contrast between [ɾ] and [l], mapping it onto a prestige–stigma continuum. More recent research, however, shows that this variation is far more complex, with different variants carrying distinct social meanings depending on context, speaker, and listener perception."
+          "text": "), gemination of following consonants, and occasional deletion. Earlier variationist work often reduced this system to a binary contrast between [ɾ] and [l], mapping it onto a prestige–stigma continuum. More recent research, however, shows that this variation is far more complex, with different variants carrying distinct social meanings depending on context, speaker, and listener perception.",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -159,7 +153,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -167,7 +162,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -176,7 +172,8 @@
       "align": "left",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -186,7 +183,8 @@
       "children": [
         {
           "textSize": "heading-three",
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -202,7 +200,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -212,7 +211,8 @@
       "children": [
         {
           "textSize": "heading-three",
-          "text": "Variation in Puerto Rico "
+          "text": "Variation in Puerto Rico ",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -220,14 +220,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Socially, the prescriptive [ɾ] is typically associated with formality, education, and institutional authority, aligning with broader standard language ideologies. Lateralization [l], by contrast, has historically been stigmatized as nonstandard or vulgar, often linked to working-class, rural, or older male speakers. At the same time, newer studies show shifting evaluations, with younger Puerto Ricans sometimes reevaluating [l] as a marker of authenticity, informality, and local identity. In particular, exaggerated or stylized uses of [l] are associated with "
+          "text": "Socially, the prescriptive [ɾ] is typically associated with formality, education, and institutional authority, aligning with broader standard language ideologies. Lateralization [l], by contrast, has historically been stigmatized as nonstandard or vulgar, often linked to working-class, rural, or older male speakers. At the same time, newer studies show shifting evaluations, with younger Puerto Ricans sometimes reevaluating [l] as a marker of authenticity, informality, and local identity. In particular, exaggerated or stylized uses of [l] are associated with ",
+          "color": "#f7f3f3"
         },
         {
           "text": "caco",
-          "italic": true
+          "italic": true,
+          "color": "#f7f3f3"
         },
         {
-          "text": " personae—urban, working-class masculinities tied to reggaetón culture—illustrating how the feature can be mobilized as a positive stylistic resource in the right context ."
+          "text": " personae—urban, working-class masculinities tied to reggaetón culture—illustrating how the feature can be mobilized as a positive stylistic resource in the right context .",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -235,7 +238,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": "\n",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -243,7 +247,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Crucially, as with /s/, the meanings of lambdacism are not fixed—they are mediated by raciolinguistic perception. Studies show that the same lateralized variant [l] may be evaluated positively when attributed to a Puerto Rican speaker, but negatively when attributed to a Dominican speaker, reflecting broader hierarchies of race, nationality, and belonging on the island . In this sense, lambdacism is not simply a phonological feature; it is part of a larger indexical field through which listeners interpret identity. Its social meaning emerges not from the sound itself, but from how that sound is heard, categorized, and linked to socially recognizable types of speakers."
+          "text": "Crucially, as with /s/, the meanings of lambdacism are not fixed—they are mediated by raciolinguistic perception. Studies show that the same lateralized variant [l] may be evaluated positively when attributed to a Puerto Rican speaker, but negatively when attributed to a Dominican speaker, reflecting broader hierarchies of race, nationality, and belonging on the island . In this sense, lambdacism is not simply a phonological feature; it is part of a larger indexical field through which listeners interpret identity. Its social meaning emerges not from the sound itself, but from how that sound is heard, categorized, and linked to socially recognizable types of speakers.",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -251,7 +256,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n"
+          "text": "\n",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -270,7 +276,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -278,7 +285,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -295,7 +303,8 @@
       "children": [
         {
           "text": "Lambdacism in Reggaetón ",
-          "textSize": "heading-three"
+          "textSize": "heading-three",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -303,7 +312,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Within reggaetón and other forms of Latin urban music, lambdacism functions as a key stylistic resource. Like /s/ reduction, it has become enregistered as part of a recognizable “reggaetón voice,” allowing performers to index Caribbeanness, urbanity, and particular gendered or classed identities through phonological variation. What begins as a local pattern of consonant neutralization thus becomes a globally circulating marker of style—one that artists can adopt, exaggerate, or resist in the construction of their musical personae."
+          "text": "Within reggaetón and other forms of Latin urban music, lambdacism functions as a key stylistic resource. Like /s/ reduction, it has become enregistered as part of a recognizable “reggaetón voice,” allowing performers to index Caribbeanness, urbanity, and particular gendered or classed identities through phonological variation. What begins as a local pattern of consonant neutralization thus becomes a globally circulating marker of style—one that artists can adopt, exaggerate, or resist in the construction of their musical personae.",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -312,7 +322,8 @@
       "children": [
         {
           "textSize": "heading-two",
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -329,7 +340,8 @@
       "children": [
         {
           "text": "Listen Here",
-          "textSize": "heading-three"
+          "textSize": "heading-three",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -338,7 +350,8 @@
       "children": [
         {
           "textSize": "heading-three",
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -346,7 +359,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This feature has been shown to be more frequently used by young men "
+          "text": "This feature has been shown to be more frequently used by young men ",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -354,7 +368,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Bad Bunny "
+          "text": "Bad Bunny ",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -362,7 +377,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -370,7 +386,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Rauw Alejandro "
+          "text": "Rauw Alejandro ",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -378,7 +395,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -386,7 +404,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Omar Courtz "
+          "text": "Omar Courtz ",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -394,7 +413,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -402,7 +422,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Don Omar "
+          "text": "Don Omar ",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -410,7 +431,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -418,7 +440,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Wisin "
+          "text": "Wisin ",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -426,7 +449,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -434,7 +458,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This feature is significantly less present but still present in the music of women, who seem to prefer a rhotic alternate "
+          "text": "This feature is significantly less present but still present in the music of women, who seem to prefer a rhotic alternate ",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -442,7 +467,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Ivy Queen "
+          "text": "Ivy Queen ",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -450,7 +476,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -458,7 +485,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "RaiNao "
+          "text": "RaiNao ",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -466,7 +494,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -474,7 +503,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Young Miko"
+          "text": "Young Miko",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -482,7 +512,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -490,7 +521,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "VF7 "
+          "text": "VF7 ",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -498,7 +530,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -506,7 +539,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Nesi "
+          "text": "Nesi ",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -514,7 +548,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -522,7 +557,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Part of these distributional differences may be related to dialect, as lambdacism is not uniformly present throughout the Island (Piero's findings) "
+          "text": "Part of these distributional differences may be related to dialect, as lambdacism is not uniformly present throughout the Island (Piero's findings) ",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -530,7 +566,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": "",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -538,7 +575,8 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "There is other research that suggests this feature may be thematically conditioned"
+          "text": "There is other research that suggests this feature may be thematically conditioned",
+          "color": "#f7f3f3"
         }
       ]
     },
@@ -577,6 +615,6 @@
   "slug": "alveolar-taps-in-coda",
   "created_at": "2026-03-14T00:15:16.919Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T00:45:36.864Z",
+  "updated_at": "2026-05-12T21:09:54.063Z",
   "updated_by": "derrek-powell"
 }
