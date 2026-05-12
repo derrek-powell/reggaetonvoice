@@ -887,32 +887,26 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "[Karol G  Hello > Bichota "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
+      "includes": [
+        "media",
+        "annotations",
+        "label"
       ],
-      "align": "justify"
-    },
-    {
-      "type": "paragraph",
+      "event1": {
+        "uuid": "6168ec60-c21c-4efa-84c8-4b36cad59b16",
+        "start": 32,
+        "end": 72,
+        "file": "7571706b-535c-4f1b-8d4d-c22d8191bf0d",
+        "type": "Video"
+      },
+      "event2": {
+        "uuid": "cd495435-abe6-4d06-bd97-2cd3ae76f37c",
+        "start": 34,
+        "end": 68,
+        "file": "1ced9e41-b3ed-4834-a286-e126b2dec664",
+        "type": "Video"
+      },
+      "type": "event-comparison",
       "children": [
         {
           "text": ""
@@ -923,7 +917,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[Anitta]"
+          "text": ""
         }
       ]
     },
@@ -1026,6 +1020,6 @@
   "slug": "alveolar-fricatives-in-coda",
   "created_at": "2026-03-14T00:01:39.983Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T19:04:21.547Z",
+  "updated_at": "2026-05-12T19:15:13.785Z",
   "updated_by": "derrek-powell"
 }
