@@ -12,16 +12,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The Reggaetón Voice",
-          "textSize": "heading-one"
-        }
-      ],
-      "align": "center"
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": ""
         }
       ]
@@ -217,6 +207,6 @@
   "slug": "the-reggaeton-voice",
   "created_at": "2026-03-13T23:05:32.862Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T22:08:29.212Z",
+  "updated_at": "2026-05-12T22:09:11.580Z",
   "updated_by": "derrek-powell"
 }
