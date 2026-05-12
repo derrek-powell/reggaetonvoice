@@ -1105,6 +1105,15 @@
       ]
     },
     {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "27b11444-db58-4485-b138-61aa4c6cdaf2",
       "includes": [
         "media",
@@ -1127,27 +1136,6 @@
     },
     {
       "uuid": "18d68186-63ba-4300-8666-b35fb004ea8b",
-      "includes": [
-        "media",
-        "label"
-      ],
-      "type": "event",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "uuid": "b9f70e74-0b1a-4ecf-bfc8-49a28f360c09",
       "includes": [
         "media",
         "label"
@@ -1553,6 +1541,6 @@
   "slug": "from-reggae-to-reggaeton",
   "created_at": "2026-03-13T23:04:10.557Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T21:57:41.395Z",
+  "updated_at": "2026-05-12T21:59:31.566Z",
   "updated_by": "derrek-powell"
 }
