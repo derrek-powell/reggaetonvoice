@@ -2,10 +2,10 @@
   "content": [
     {
       "type": "paragraph",
+      "align": "left",
       "children": [
         {
-          "text": "From Reggae to Reggaetón ",
-          "textSize": "heading-one"
+          "text": ""
         }
       ]
     },
@@ -58,6 +58,16 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
           "text": "Reggaetón is widely recognized as a Puerto Rican musical innovation that emerged from the underground and nightclub scenes of San Juan in the 1990s. At its core, the genre is a fusion of dancehall and rap, often described as hip hop lyricism performed over dancehall-derived rhythmic structures. Yet this formulation only captures part of the story. Reggaetón developed through a broader trans-Caribbean and diasporic musical ecology, shaped by the simultaneous circulation and popularization of Jamaican dancehall, Afro-Panamanian"
         },
         {
@@ -67,8 +77,7 @@
         {
           "text": ", and Latin hip-hop in New York City, as well as the cultural interfaces among these sites. "
         }
-      ],
-      "align": "justify"
+      ]
     },
     {
       "type": "paragraph",
@@ -166,6 +175,15 @@
       "align": "center"
     },
     {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "horizontal-separator",
       "children": [
         {
@@ -180,6 +198,15 @@
         {
           "textSize": "heading-three",
           "text": "Rhythms from Dancehall Reggae "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -261,6 +288,30 @@
               ]
             },
             {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "image",
               "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/Marshall_BoomChBoomChik.png?raw=true",
               "caption": "From Marshall (2009) ",
@@ -298,6 +349,14 @@
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -359,6 +418,16 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
           "text": "While dancehall reggae gave proto-reggaetón its musical structure, the "
         },
         {
@@ -382,8 +451,7 @@
         {
           "text": "While reggaetón drew from dancehall musically, the flow (i.e., scripting and delivery) of the lyrics and performance of artistic personae drew more heavily from rap and hip-hop, so much that the genre is often described as hip-hop flow layered on top of a reggae beat."
         }
-      ],
-      "align": "justify"
+      ]
     },
     {
       "type": "paragraph",
@@ -433,6 +501,14 @@
           "textSize": "heading-three",
           "text": "Reggae en Español ",
           "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -565,6 +641,16 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
           "text": "Following "
         },
         {
@@ -581,8 +667,7 @@
         {
           "text": "(1991), a calculated attempt to develop a Latin pop/rap hybrid by bringing rising Puerto Rican rappers together with established merengue musicians. The track \"Te Ves Buena Remix,\" —a sample-based, hip-hop-inflected remix of El General's dancehall track by the same name— is perhaps the closest track on this project to sound like the productions soon to emerge from the parallel, grassroots development of rap-reggae fusions in San Juan. "
         }
-      ],
-      "align": "justify"
+      ]
     },
     {
       "type": "paragraph",
@@ -765,6 +850,16 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
           "text": "Over the late 1990s and early 2000s, underground became less underground both in terms of aesthetics and economics. Around this time, artists and producers (namely DJ Nelson and Daddy Yankee) began to call the genre \""
         },
         {
@@ -781,8 +876,7 @@
         {
           "text": "\" or an augmentative form of reggae, roughly translating to \"big reggae\". The popularity of these recordings is in part responsible for the conventionalization of this new name with this music, in particular the synthesized, new beats that, aside from the dembow template, did not cleanly switch into sampled hip-hop and reggae beats as cleanly. "
         }
-      ],
-      "align": "justify"
+      ]
     },
     {
       "type": "paragraph",
@@ -895,10 +989,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Thanks to technological developments in tools for producing and distributing recordings, reggaetón was no longer bound by Puerto Rico's shores or even the broader diasporic circuits in New York. Artists began to mix the dancehall inspired riddims like the dembow template with the propulsive sounds of techno/tecno and later the \"tropical\" sounds of bachata and salsa. Established producers such as DJ Playero, DJ Nelson, and DJ Joe, as well as newcomers like DJ Blass, helped move the genre's primary sound sources from samples to synthesizers resonant of trace-style techno anthems. "
+          "text": "Thanks to technological developments in tools for producing and distributing recordings, reggaetón was no longer bound by Puerto Rico's shores or even the broader diasporic circuits in New York. Artists began to mix the dancehall-inspired riddims like the dembow template with the propulsive sounds of techno/tecno and later the \"tropical\" sounds of bachata and salsa. Established producers such as DJ Playero, DJ Nelson, and DJ Joe, as well as newcomers like DJ Blass, helped move the genre's primary sound sources from samples to synthesizers resonant of trace-style techno anthems. "
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -978,10 +1081,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The rise and success of Luny tunes and the definitive role they played in shaping contemporary reggaetón symbolize the central role migration has played in the ongoing formation and reformation of the genre. Luny (Francisco Saldana) and Tunes (Victor Cabrera) were born in the Dominican Republic before moving to Massachusetts as teenagers. The duo set themselves apart from their forebearers by advancing a distinctive, pop-oriented melodic and harmonic language to reggaetón to embody a sonic form of the flashy blin-blineo/bling-bling style borrowed from commercial hip-hop.  "
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "The rise and success of Luny tunes and the definitive role they played in shaping contemporary reggaetón symbolize the central role migration has played in the ongoing formation and reformation of the genre. Luny (Francisco Saldana) and Tunes (Victor Cabrera) were born in the Dominican Republic before moving to Massachusetts as teenagers. The duo set themselves apart from their forebearers by advancing a distinctive, pop-oriented melodic and harmonic language to reggaetón to embody a sonic form of the flashy blin-blineo/bling-bling style borrowed from commercial hip-hop.  "
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -1080,6 +1192,15 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -1148,7 +1269,15 @@
           "italic": true
         },
         {
-          "text": " (pp. ix–xii). Duke University Press.\n"
+          "text": " (pp. ix–xii). Duke University Press."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -1184,12 +1313,36 @@
       "children": [
         {
           "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://open.spotify.com/show/6OB6xOp1sWazXMMa2z53CZ?utm_source=chatgpt.com",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
         }
       ]
     },
     {
       "type": "paragraph",
       "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://open.spotify.com/show/6OB6xOp1sWazXMMa2z53CZ?utm_source=chatgpt.com",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
         {
           "text": "Marshall, W. (2006). "
         },
@@ -1219,12 +1372,36 @@
       "children": [
         {
           "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://thephoenix.com/Boston/Music/1595-rise-of-reggaeton/",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
         }
       ]
     },
     {
       "type": "paragraph",
       "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://thephoenix.com/Boston/Music/1595-rise-of-reggaeton/",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
         {
           "text": "Marshall, W. (2008). Dem Bow, Dembow, Dembo: Translation and transnation in reggaeton. "
         },
@@ -1240,14 +1417,46 @@
           "italic": true
         },
         {
-          "text": "(53), 131–151.\n  \nMarshall, W. (2009). From Música Negra to Reggaeton Latino: The Cultural Politics of Nation, Migration, and Commercialization. In R. Z. Rivera, W. Marshall, & D. Pacini Hernández (Eds.), "
+          "text": "(53), 131–151."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Marshall, W. (2009). From Música Negra to Reggaeton Latino: The Cultural Politics of Nation, Migration, and Commercialization. In R. Z. Rivera, W. Marshall, & D. Pacini Hernández (Eds.), "
         },
         {
           "text": "Reggaeton",
           "italic": true
         },
         {
-          "text": " (pp. 19–76). Duke University Press.\n  \nNegrón-Muntaner, F., & Rivera, R. Z. (2007). Reggaeton Nation. "
+          "text": " (pp. 19–76). Duke University Press."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Negrón-Muntaner, F., & Rivera, R. Z. (2007). Reggaeton Nation. "
         },
         {
           "text": "NACLA Report on the Americas",
@@ -1261,7 +1470,23 @@
           "italic": true
         },
         {
-          "text": "(6), 35–39.\n  \nRivera, R. Z. (2009). Policing Morality; Mano Dura Style. In R. Z. Rivera, W. Marshall, & D. Pacini Hernández (Eds.), "
+          "text": "(6), 35–39."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rivera, R. Z. (2009). Policing Morality; Mano Dura Style. In R. Z. Rivera, W. Marshall, & D. Pacini Hernández (Eds.), "
         },
         {
           "text": "Reggaetón",
@@ -1291,7 +1516,15 @@
           "italic": true
         },
         {
-          "text": ". Duke University Press.\n  "
+          "text": ". Duke University Press."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -1320,6 +1553,6 @@
   "slug": "from-reggae-to-reggaeton",
   "created_at": "2026-03-13T23:04:10.557Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T21:45:52.776Z",
+  "updated_at": "2026-05-12T21:57:41.395Z",
   "updated_by": "derrek-powell"
 }
