@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "From Reggaetón to Urbano Latino ",
+          "text": "",
           "textSize": "heading-one"
         }
       ],
@@ -15,7 +15,8 @@
       "align": "left",
       "children": [
         {
-          "text": ""
+          "text": "Latinizing Reggaetón ",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -24,8 +25,8 @@
       "align": "left",
       "children": [
         {
-          "text": "Latinizing Reggaetón ",
-          "textSize": "heading-three"
+          "textSize": "heading-three",
+          "text": ""
         }
       ]
     },
@@ -58,16 +59,6 @@
     },
     {
       "type": "paragraph",
-      "align": "justify",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "center",
       "children": [
         {
           "text": ""
@@ -76,21 +67,15 @@
     },
     {
       "type": "image",
-      "url": "https://drive.google.com/file/d/1Wyq3fPkNCLnjdlkQFX9zwKaO02Ql5UhD/view?usp=sharing",
-      "caption": "Early reggaetón artists on top (from L to R, El General, Tego Calderón, Don Omar) and newer reggaetón headliners (L to R, J Balvin, Maluma, Bad Bunny) ",
+      "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/Latinization.png?raw=true",
+      "caption": "From Solis Miranda (2022) ",
       "children": [
         {
           "text": ""
         }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
+      ],
+      "scale": 50,
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -136,6 +121,15 @@
       ]
     },
     {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "horizontal-separator",
       "children": [
         {
@@ -147,8 +141,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Danza Kuduro and Zumba ",
+          "text": "\"Danza Kuduro\" and Zumba ",
           "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
         }
       ]
     },
@@ -171,12 +174,19 @@
       ]
     },
     {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "ad173160-4543-4aa0-a022-b6d9ca8a09ce",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "type": "event",
       "children": [
@@ -206,9 +216,7 @@
     {
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "event1": {
         "uuid": "12f42cb2-9d18-4136-981b-a70601c9a5c7"
@@ -244,8 +252,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Bailando",
+          "text": "\"Bailando\"",
           "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
         }
       ]
     },
@@ -271,9 +288,7 @@
       "uuid": "926413a6-fda1-4a02-bdcc-e5f9158aea6e",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "type": "event",
       "children": [
@@ -286,10 +301,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Its global success demonstrated that reggaetón no longer needed to be framed as underground, illicit, or oppositional to circulate widely. Instead, “Bailando” presented a smoother, more romanticized and mainstream-friendly iteration of the genre’s sonic and visual language, foregrounding dance, intimacy, and pan-Latin appeal. In doing so, it helped prepare the conditions for the late-2010s urbano boom by showcasing how reggaetón could function as a central  and highly profitable infrastructure for Latin pop. "
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Its global success demonstrated that reggaetón no longer needed to be framed as underground, illicit, or oppositional to circulate widely. Instead, “Bailando” presented a smoother, more romanticized and mainstream-friendly iteration of the genre’s sonic and visual language, foregrounding dance, intimacy, and pan-Latin appeal. In doing so, it helped prepare the conditions for the late-2010s urbano boom by showcasing how reggaetón could function as a central  and highly profitable infrastructure for Latin pop. "
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -321,10 +345,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "By the mid-2010s, Medellín emerged as a major center of reggaetón production, shifting the genre’s geography beyond Puerto Rico, Panama, and New York. Artists such as J Balvin, Maluma, and Karol G helped consolidate a Colombian urbano sound that was more explicitly pop-facing than earlier underground iterations. Their rise redistributed the genre’s authority, positioning Medellín as a site where reggaetón could be commercialized and exported globally."
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "By the mid-2010s, Medellín emerged as a major center of reggaetón production, shifting the genre’s geography beyond Puerto Rico, Panama, and New York. Artists such as J Balvin, Maluma, and Karol G helped consolidate a Colombian urbano sound that was more explicitly pop-facing than earlier underground iterations. Their rise redistributed the genre’s authority, positioning Medellín as a site where reggaetón could be commercialized and exported globally."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -339,9 +372,7 @@
       "uuid": "1bdf7f8e-6ed9-4fca-a50e-469de22d037c",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "type": "event",
       "children": [
@@ -362,9 +393,7 @@
       "uuid": "87fbea7e-a3f5-4560-baae-3ececfe6aaf1",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "type": "event",
       "children": [
@@ -385,9 +414,7 @@
       "uuid": "4e8f3c29-b836-44e2-b68e-c7352d8e1876",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "type": "event",
       "children": [
@@ -400,10 +427,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Each of these artists showcased the artistic range of a reggaetón-based-pop music in innovative ways. J Balvin framed reggaetón as cosmopolitan, Maluma pushed the genre further into romantic pop and celebrity culture, and Karol G expanded the visibility and sonic range of women within the urban market with unapologetic performances of agentive femininity.  Together, they demonstrate how reggaetón’s templates could be revoiced through Colombian aesthetics and industry infrastructures. Medellín’s emergence thus marks a key moment in the genre’s transnationalization, where reggaetón becomes less tied to a single national origin and more recognizable as a flexible, global pop language."
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Each of these artists showcased the artistic range of reggaetón-based pop music in innovative ways. J Balvin framed reggaetón as cosmopolitan, Maluma pushed the genre further into romantic pop and celebrity culture, and Karol G expanded the visibility and sonic range of women within the urban market with unapologetic performances of agentive femininity.  Together, they demonstrate how reggaetón’s templates could be revoiced through Colombian aesthetics and industry infrastructures. Medellín’s emergence thus marks a key moment in the genre’s transnationalization, where reggaetón becomes less tied to a single national origin and more recognizable as a flexible, global pop language."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -435,10 +471,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Around the same time as the popification and Colombianification of reggaetón, a new countercultural subgenre of reggaetón began to emerge as a countercurrent to the increasingly polished, Latinized reggaetón circulating the global pop markets. Rooted in the sonic aesthetics of U.S. trap (e.g., slower tempos, heavy bass, emphasis on rap flow), Puerto Rican artists began to reactivate the underground sensibilities stripped from reggaetón during its crossover. Artist such as Anuel AA, Bryant Myers, Ozuna, and Bad Bunny used trap to foreground street-coded and localized authenticity amidst an increasingly globalized and culturally flattened industry. These productions helped re-center Puerto Rico within the urbano landscape while also expanding what urbano could sound and feel like by restoring rawness and lyrical confrontation to the market. Moreover, these tracks opened the doors for more fluid experimentation between trap, reggaetón, and broader Caribbean/Latin musical templates. While Latin Trap was met with similar cultural critiques as the Underground decades earlier, technological advancements in music streaming/distribution catapulted Trap to mainstream popularity at speeds that significantly outpaced its predecessor. "
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Around the same time as the popification and Colombianification of reggaetón, a new countercultural subgenre of reggaetón began to emerge as a countercurrent to the increasingly polished, Latinized reggaetón circulating the global pop markets. Rooted in the sonic aesthetics of U.S. trap (e.g., slower tempos, heavy bass, emphasis on rap flow), Puerto Rican artists began to reactivate the underground sensibilities stripped from reggaetón during its crossover. Artist such as Anuel AA, Bryant Myers, Ozuna, and Bad Bunny used trap to foreground street-coded and localized authenticity amidst an increasingly globalized and culturally flattened industry. These productions helped re-center Puerto Rico within the urbano landscape while also expanding what urbano could sound and feel like by restoring rawness and lyrical confrontation to the market. Moreover, these tracks opened the doors for more fluid experimentation between trap, reggaetón, and broader Caribbean/Latin musical templates. While Latin Trap was met with similar cultural critiques as the Underground decades earlier, technological advancements in music streaming/distribution catapulted Trap to mainstream popularity at speeds that significantly outpaced its predecessor. "
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -452,9 +497,7 @@
     {
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "event1": {
         "uuid": "c1a9e736-9fef-4c9e-a197-e47f69ad4dae"
@@ -491,12 +534,22 @@
       "children": [
         {
           "textSize": "heading-three",
-          "text": "The Despacito Effect "
+          "text": "The \"Despacito\" Effect "
         }
       ]
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": "The first half of the 2010s was scored by a mixture of the Latinized, pop-infused mainstream reggaetón tracks produced by the Puerto Rican vocalists who pioneered the genre's underground origins, the pop-facing, Medellín-based iteration quickly gaining traction, and the Trap productions carving out new spaces and models of what reggaetón could do and sound like. This period saw the release of some of the decade's most popular songs, including \"Hasta el Amancer\" by Nicky Jam (which included an English translation), \"Criminal\" by Ozuna and Dominican pop artist Natti Natasha, \"Mayores\" by Mexican-American singer Becky G and Bad Bunny, and \"Felices los 4\" by Maluma. By 2017, the ranks of reggaetón hitmakers had drastically shifted in terms of sound and demographics.  At this point, \"reggaetón\" and \"urbano\" had become synonymous, particularly amongst newer fans, for denoting a musical category ranging from pop music with the dembow inflection to trp songs with artists known to "
@@ -508,8 +561,7 @@
         {
           "text": " sing reggaetón. "
         }
-      ],
-      "align": "justify"
+      ]
     },
     {
       "type": "paragraph",
@@ -526,6 +578,15 @@
       "children": [
         {
           "text": "It was in this era of blurred genre lines that \"Despacito\" was released. This song—performed by Puerto Rican balladist Luis Fonsi and Daddy Yankee—marks a decisive inflection point in reggaetón's global consolidation. Since its release, the song has broken over seven World Records, including: "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -603,6 +664,15 @@
       "align": "justify",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
           "text": "The song—which has gained over 9 Billion views as of April 2026—demonstrated that a Spanish-language track grounded in reggaetón’s rhythmic sensibilities and general Caribbean social semiotics (contextualized in San Juan's La Perla Neighborhood) could dominate global pop charts without translation. Its viral spread, further amplified by the remix featuring Justin Bieber, completely shattered industry assumptions about the limits of non-English music."
         }
       ]
@@ -638,9 +708,7 @@
       "uuid": "490b78b9-3aee-4361-9098-b6f1e59a7118",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "type": "event",
       "children": [
@@ -679,10 +747,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\"Despacito\" ushered in a new wave of popularity for Latin Urban music. “Mi Gente” by J Balvin and French DJ Willy William represents a parallel trajectory, foregrounding rhythm and collective participation over melodic crossover. Blending reggaetón with electronic and global club production, the track operates through repetition, chant, and embodied engagement rather than narrative or lyrical complexity."
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "\"Despacito\" ushered in a new wave of popularity for Latin Urban music. “Mi Gente” by J Balvin and French DJ Willy William represents a parallel trajectory, foregrounding rhythm and collective participation over melodic crossover. Blending reggaetón with electronic and global club production, the track operates through repetition, chant, and embodied engagement rather than narrative or lyrical complexity."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -697,9 +774,7 @@
       "uuid": "85f48f62-bab8-4670-9e09-f71f4efb4d73",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "type": "event",
       "children": [
@@ -716,6 +791,15 @@
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -747,10 +831,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The Super Bowl LIV Halftime Show headlined by Shakira and Jennifer Lopez stands as a landmark moment for reggaetón and Latin music’s visibility within the U.S. mainstream, even though the performance itself was not centered on reggaetón as a genre. Framed primarily through pop, dance, and Latin crossover hits, the show nevertheless strategically incorporated urbano through guest appearances by Bad Bunny and J Balvin who performed tracks like \"Mi Gente\" and \"I Like It,\" alongside reggaetón-inflected moments in Shakira and J-Lo's own catalogs (e.g., a Salsa remix of Shakira's reggaetón hit \"Chantaje\" with Maluma, a dancebreak set to JLo's reggaetón song \"El Anillo\" remixed with Dominican artist NFasis' hit \"Lento\"). "
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "The Super Bowl LIV Halftime Show headlined by Shakira and Jennifer Lopez stands as a landmark moment for reggaetón and Latin music’s visibility within the U.S. mainstream, even though the performance itself was not centered on reggaetón as a genre. Framed primarily through pop, dance, and Latin crossover hits, the show nevertheless strategically incorporated urbano through guest appearances by Bad Bunny and J Balvin who performed tracks like \"Mi Gente\" and \"I Like It,\" alongside reggaetón-inflected moments in Shakira and J-Lo's own catalogs (e.g., a Salsa remix of Shakira's reggaetón hit \"Chantaje\" with Maluma, a dancebreak set to JLo's reggaetón song \"El Anillo\" remixed with Dominican artist NFasis' hit \"Lento\"). "
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -782,9 +875,7 @@
       "uuid": "8657b574-a9df-48f8-8a1d-680b7e194010",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "type": "event",
       "children": [
@@ -815,7 +906,7 @@
       "children": [
         {
           "textSize": "heading-three",
-          "text": "Bichota and On Sounding Caribbean "
+          "text": "\"Bichota\" and On Sounding Caribbean "
         }
       ]
     },
@@ -823,10 +914,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Reggaetón came into the 2020s with more demand and global popularity than had been historically thought impossible for non-English language musics. The 2020s only continued to build on these foundations, particularly the words released by Bad Bunny and Karol G. In fact, “Bichota” by Karol G marks a pivotal moment in the consolidation of reggaetón’s global economy because it makes undeniably explicit what earlier successes like “Despacito” and “Mi Gente” had already begun to capitalize and strategize: Caribbeanness is not a liability in global markets—it is profitable. "
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Reggaetón came into the 2020s with more demand and global popularity than had been historically thought impossible for non-English language musics. The 2020s only continued to build on these foundations, particularly the words released by Bad Bunny and Karol G. In fact, “Bichota” by Karol G marks a pivotal moment in the consolidation of reggaetón’s global economy because it makes undeniably explicit what earlier successes like “Despacito” and “Mi Gente” had already begun to capitalize and strategize: Caribbeanness is not a liability in global markets—it is profitable. "
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -865,9 +965,7 @@
       "uuid": "22dddac5-b426-4ac3-a9d8-4ee7faf18217",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "type": "event",
       "children": [
@@ -894,6 +992,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "horizontal-separator",
       "children": [
         {
@@ -907,6 +1013,15 @@
         {
           "text": "Bad Bunny ",
           "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
         }
       ]
     },
@@ -947,9 +1062,7 @@
     {
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "event1": {
         "uuid": "8e3b4f28-8ae8-413a-9d3e-16c65cec9bc2"
@@ -999,12 +1112,19 @@
       ]
     },
     {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "cd31cd76-a4a8-41f3-af15-49e339d92307",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "type": "event",
       "children": [
@@ -1017,10 +1137,28 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "By the end of 2020, Bad Bunny had risen to superstar status in Spanish-language music markets. In 2022, he expanded his project of using reggateón to recenter Puerto Rico by releasing \"Un Verano Sin Ti\", an album that scales Caribbeanness itself as a global, organizing aesthetic. The album moves fluidly across reggaetón, dembow, mambo, reggae, house, and indie pop, but remains anchored in a distinctly Caribbean sensibility—sonically, linguistically, and affectively. Rather than presenting reggaetón as a single genre, it positions the Caribbean as a dynamic, internally diverse soundscape whose musical forms can circulate globally without losing their regional grounding. This is not crossover in the earlier sense of adaptation to Anglo pop norms; it is a re-centering of Caribbean expressive culture as the norm to which global audiences attune."
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "By the end of 2020, Bad Bunny had risen to superstar status in Spanish-language music markets. In 2022, he expanded his project of using reggateón to recenter Puerto Rico by releasing \"Un Verano Sin Ti\", an album that scales Caribbeanness itself as a global, organizing aesthetic. The album moves fluidly across reggaetón, dembow, mambo, reggae, house, and indie pop, but remains anchored in a distinctly Caribbean sensibility—sonically, linguistically, and affectively. Rather than presenting reggaetón as a single genre, it positions the Caribbean as a dynamic, internally diverse soundscape whose musical forms can circulate globally without losing their regional grounding. This is not crossover in the earlier sense of adaptation to Anglo pop norms; it is a re-centering of Caribbean expressive culture as the norm to which global audiences attune."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -1034,9 +1172,7 @@
     {
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "event1": {
         "uuid": "95736c17-4914-4714-b55d-52bb62728882"
@@ -1055,10 +1191,28 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Recent work such as “DTMF” continues this trajectory, further consolidating the idea that Puerto Rican urbano can function simultaneously as local expression and global infrastructure. Across these projects, Bad Bunny demonstrates that reggaetón’s commercial dominance need not rely on the erasure or sanitization of its roots. Instead, his work shows that linguistic specificity, rhythmic intensity, and Caribbean cultural references can themselves drive mass appeal. In this sense, Bad Bunny does not simply participate in reggaetón’s globalization—he redefines its terms, establishing Caribbeanness, rather than its dilution, as the genre’s most powerful and profitable organizing principle."
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Recent work such as “DTMF” continues this trajectory, further consolidating the idea that Puerto Rican urbano can function simultaneously as local expression and global infrastructure. Across these projects, Bad Bunny demonstrates that reggaetón’s commercial dominance need not rely on the erasure or sanitization of its roots. Instead, his work shows that linguistic specificity, rhythmic intensity, and Caribbean cultural references can themselves drive mass appeal. In this sense, Bad Bunny does not simply participate in reggaetón’s globalization—he redefines its terms, establishing Caribbeanness, rather than its dilution, as the genre’s most powerful and profitable organizing principle."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -1072,9 +1226,7 @@
     {
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "event1": {
         "uuid": "38a032fd-d572-46bb-a919-28347a867141"
@@ -1118,6 +1270,15 @@
       "type": "paragraph",
       "children": [
         {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "The most recent instance of global reggaetón achievements has been "
         },
         {
@@ -1143,9 +1304,7 @@
       "uuid": "07593341-dc7d-46fa-930c-332dd4eb71b6",
       "includes": [
         "media",
-        "annotations",
-        "label",
-        "description"
+        "label"
       ],
       "type": "event",
       "children": [
@@ -1165,12 +1324,12 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": "What makes the “Benito Bowl” especially significant is how the performance—framed as a celebration of Puerto Rican culture, complete with traditional instruments, local iconography, a reggaetón-heavy setlist, and a guest appearance by Ricky Martin—positioned Caribbean expressive culture not as an exotic supplement to American spectacle, but as its organizing center. Moreover, the performance masterfully weaves political critiques of U.S. imperalism and racist models of national belonging into its sets and organization. Even the audience logic shifts here: Bad Bunny not only told the global audience they had \"four months\" to learn Spanish upon announcing his headlining spot, he also explicitly reframed participation around feeling and movement while including moments of double voicing specifically for Latino/Puerto Rican listeners and viewers that would remain otherwise inaccessible to the global Other.  In this sense, the “Benito Bowl” is not just representation—it is infrastructural power. It demonstrates that reggaetón and Puerto Rican popular culture have reached a point where they can dictate the terms of global visibility, rather than adapt to them. The halftime show becomes less a site where Latin music is included and more a site where U.S. mainstream culture temporarily reorganizes itself around Caribbean norms. What was once underground, racialized, and censored now commands the most surveilled stage in American media, not by erasing its linguistic or cultural specificity, but by amplifying it."
         }
-      ],
-      "align": "justify"
+      ]
     },
     {
       "type": "paragraph",
@@ -1262,12 +1421,36 @@
       "children": [
         {
           "text": ""
+        },
+        {
+          "type": "link",
+          "url": "http://remezcla.com/features/music/tu-pum-pum-l/. Accessed 15 Nov 2022.",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
         }
       ]
     },
     {
       "type": "paragraph",
       "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "http://remezcla.com/features/music/tu-pum-pum-l/. Accessed 15 Nov 2022.",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
         {
           "text": "Cepeda, E. (2010). "
         },
@@ -1299,21 +1482,76 @@
           "italic": true
         },
         {
-          "text": " (pp. 39–50). NYU Press.\n  \nRivera, M. M. (2014). "
+          "text": " (pp. 39–50). NYU Press."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nS. R. Madera, N. Varas-Díaz, & D. Nevárez Araújo (Eds.) (2024). "
+        },
+        {
+          "text": "The Bad Bunny Enigma: Culture, Resistance, and Uncertainty. ",
+          "italic": true
+        },
+        {
+          "text": "Lexington Books."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rivera, M. M. (2014). "
         },
         {
           "text": "Hate It or Love It: Global Crossover of Reggaetón Music in the Digital Age.",
           "italic": true
         },
         {
-          "text": " [Doctoral Dissertation]. University of Illinois.\n  \nRivera-Rideau, P. R. (2015). "
+          "text": " [Doctoral Dissertation]. University of Illinois. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Rivera-Rideau, P. R. (2015). "
         },
         {
           "text": "Remixing Reggaetón: The Cultural Politics of Race in Puerto Rico.",
           "italic": true
         },
         {
-          "text": " Durham and London Duke University Press."
+          "text": " Durham and London Duke University Press. "
         }
       ]
     },
@@ -1348,7 +1586,59 @@
           ]
         },
         {
-          "text": "\n  \nRivera-Rideau, P. R., & Torres-Leschnik, J. (2019). “The Colors and Flavors of My Puerto Rico”: Mapping “Despacito”’s Crossovers. "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1057/s41276-019-00210-1",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1057/s41276-019-00210-1",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1057/s41276-019-00210-1",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Rivera-Rideau, P. R., & Torres-Leschnik, J. (2019). “The Colors and Flavors of My Puerto Rico”: Mapping “Despacito”’s Crossovers. "
         },
         {
           "text": "Journal of Popular Music",
@@ -1404,13 +1694,57 @@
           ]
         },
         {
-          "text": "\n "
+          "text": ""
         }
       ]
     },
     {
       "type": "paragraph",
       "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/DOI:10.1080/03007766.2010.510920.",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/DOI:10.1080/03007766.2010.510920.",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/DOI:10.1080/03007766.2010.510920.",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
         {
           "text": "Sola-Santiago, F. (2023). "
         },
@@ -1431,13 +1765,57 @@
           ]
         },
         {
-          "text": "\n"
+          "text": ""
         }
       ]
     },
     {
       "type": "paragraph",
       "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://www.rollingstone.com/music/music-features/women-puerto-rico-urbano-reggaeton-1234676538/",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://www.rollingstone.com/music/music-features/women-puerto-rico-urbano-reggaeton-1234676538/",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://www.rollingstone.com/music/music-features/women-puerto-rico-urbano-reggaeton-1234676538/",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
         {
           "text": "Solis Miranda, R. (2022). “Bienaventurado el que escuche este liriqueo\": Negotiating Latinidad through Reggaeton. "
         },
@@ -1465,7 +1843,30 @@
           ]
         },
         {
-          "text": "\n  "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Vega Cedeño, J. E., & Villanueva Vega, M. (2025). From Cafe to Bichota: How the Projection of a Performative Identity by Karol G Reinscribes the Silencing of Race & Gender Stereotypes in Reggaeton. In W. Valentín Márquez, C. I. Maymí, & D. Powell (Eds.), "
+        },
+        {
+          "text": "Puerto Rican Spanish, Reggaeton Style! The (Socio)Linguistics of Urban Music.",
+          "italic": true
+        },
+        {
+          "text": " Vernon Press.\n  \n\n  "
         }
       ]
     }
@@ -1479,6 +1880,6 @@
   "slug": "from-reggeaton-to-urbano-latino",
   "created_at": "2026-03-13T23:05:16.653Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T20:25:05.171Z",
+  "updated_at": "2026-05-12T22:07:31.452Z",
   "updated_by": "derrek-powell"
 }
