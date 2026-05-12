@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "2ba6e16d-cb9a-4ba9-9423-62ab8cb490a3": {
+      "label": "Yo x Ti Tú x Mi ",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=2j3x0VYnehg",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Rosalía Yo x Ti Tú x Mi ",
+  "av_file_order": [
+    "2ba6e16d-cb9a-4ba9-9423-62ab8cb490a3"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-NC/1.0/",
+  "created_at": "2026-05-12T17:29:57.101Z",
+  "created_by": "derrek-powell",
+  "updated_at": "2026-05-12T17:29:57.101Z",
+  "updated_by": "derrek-powell"
+}
