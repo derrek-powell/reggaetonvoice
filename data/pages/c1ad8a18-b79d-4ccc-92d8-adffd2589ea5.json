@@ -323,9 +323,119 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
       "children": [
         {
-          "textSize": "heading-two",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Syllables",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "A "
+        },
+        {
+          "text": "syllable",
+          "bold": true
+        },
+        {
+          "text": " is a basic rhythmic unit of speech. Rather than indexing contrast like phonemes, syllables organize how sounds are grouped and timed in an utterance. Most syllables consist of three possible parts: an "
+        },
+        {
+          "text": "onset",
+          "bold": true
+        },
+        {
+          "text": ", a "
+        },
+        {
+          "text": "nucleus",
+          "bold": true
+        },
+        {
+          "text": ", and a "
+        },
+        {
+          "text": "coda",
+          "bold": true
+        },
+        {
+          "text": ". The nucleus is the core of the syllable—typically a vowel—while the onset refers to any consonant(s) that come before it, and the coda refers to any consonant(s) that come after it. For example, in the word "
+        },
+        {
+          "text": "“más”",
+          "italic": true
+        },
+        {
+          "text": ", the /m/ is the onset, the /a/ is the nucleus, and the /s/ is the coda."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This distinction is especially important because not all parts of the syllable behave the same way. In many languages, sounds in syllable-final position (the coda) are more prone to variation than those in the onset. For instance, the /s/ in the onset of "
+        },
+        {
+          "text": "“sapo”",
+          "italic": true
+        },
+        {
+          "text": " is almost always realized as [s], but the /s/ in the coda of "
+        },
+        {
+          "text": "“más”",
+          "italic": true
+        },
+        {
+          "text": " may be pronounced as [s], [h], or deleted entirely [∅], depending on the dialect and context. In contrast, sounds in the onset tend to be more stable and resistant to change (though there are dialects and languages where it is onset phonemes that experience change).  Understanding the difference between onset and coda, then, allows us to identify where variation happens. "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -340,6 +450,6 @@
   "slug": "phonology",
   "created_at": "2026-03-13T23:05:55.197Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-03T20:41:40.802Z",
+  "updated_at": "2026-05-12T20:31:01.479Z",
   "updated_by": "derrek-powell"
 }
