@@ -1,5 +1,393 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 32,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No me determinaba[s] ni siquiera"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-retention"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Karol G"
+        }
+      ],
+      "uuid": "e288d67d-cecd-447b-93be-afb4512c14c0"
+    },
+    {
+      "start_time": 34,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Siempre me trata[s]te como una cualquiera"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-retention"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Karol G"
+        }
+      ],
+      "uuid": "f0f31b8d-9b17-48aa-bf19-bd038de96b57"
+    },
+    {
+      "start_time": 37,
+      "end_time": 38,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Me cansé"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "NA"
+        }
+      ],
+      "uuid": "a9ecc10d-963f-4769-b89b-0ff8a5ac8c97"
+    },
+    {
+      "start_time": 38,
+      "end_time": 39,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y para la mierda te mandé"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "NA"
+        }
+      ],
+      "uuid": "7276b8e2-3a3e-4381-809b-20acca1db7b2"
+    },
+    {
+      "start_time": 39,
+      "end_time": 42,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Tú te queda[s], yo me voy sin u[s]ted"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-retention"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Karol G"
+        }
+      ],
+      "uuid": "3da68b86-394a-4d9f-8d86-e5b8fa96d88e"
+    },
+    {
+      "start_time": 42,
+      "end_time": 45,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "E[s] que tú no tenía[s] lo que yo quiero"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-retention"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Karol G"
+        }
+      ],
+      "uuid": "e8ecc205-4c37-409b-8663-6f9f92f1bb68"
+    },
+    {
+      "start_time": 45,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Parecía pero, pero pero no"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "NA"
+        }
+      ],
+      "uuid": "32d47c19-7fe3-4c70-8cca-7305bc3e9fff"
+    },
+    {
+      "start_time": 47,
+      "end_time": 49,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ey, tú a mí me cansa[s]te"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-retention"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Karol G"
+        }
+      ],
+      "uuid": "67801360-0751-4854-87b7-c1667f0f9756"
+    },
+    {
+      "start_time": 49,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yo te olvidé, y hoy viene[s] a bu[s]carme"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-retention"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Karol G"
+        }
+      ],
+      "uuid": "c56a0116-cea7-4e91-8c4b-b57a720634c4"
+    },
+    {
+      "start_time": 52,
+      "end_time": 55,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y si amor ya no hay"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "NA"
+        }
+      ],
+      "uuid": "5b11ece3-1a03-4e38-9ee3-47158856768f"
+    },
+    {
+      "start_time": 55,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La culpa la tiene[s] tú"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-retention"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Karol G"
+        }
+      ],
+      "uuid": "07c9fa04-1109-467d-ba38-a1e4ae7329cc"
+    },
+    {
+      "start_time": 58,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ya no me da ni rabia jajaja"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "NA"
+        }
+      ],
+      "uuid": "eb57e06c-1845-4cbc-9d24-dbc123c13a97"
+    },
+    {
+      "start_time": 62,
+      "end_time": 65,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Y si amor ya no hay"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "NA"
+        }
+      ],
+      "uuid": "daacc4b7-0fce-495c-a6dc-8caf7645ec58"
+    },
+    {
+      "start_time": 65,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "La culpa la tiene[s] tú"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-retention"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Karol G"
+        }
+      ],
+      "uuid": "ab5cec01-3c1d-4f98-8c7c-a56a6b131b8e"
+    },
+    {
+      "start_time": 67,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No me venga[s] con tu labia no te creo nada"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "s-retention"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "phonology"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Karol G"
+        }
+      ],
+      "uuid": "172b892a-df99-4a15-8e64-1197e6f148e2"
+    }
+  ],
   "set": "Default",
   "event_id": "6168ec60-c21c-4efa-84c8-4b36cad59b16",
   "source_id": "7571706b-535c-4f1b-8d4d-c22d8191bf0d"
