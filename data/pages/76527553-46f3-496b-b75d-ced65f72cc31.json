@@ -142,6 +142,184 @@
           "text": "So overall, when we study speech styles, we are not just studying situated speech production in a descriptive sense. We are examining how the strategic and creative use of linguistic variation in real-life contexts actively shapes the way we use language to navigate social life. "
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Recommended Readings",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nAgha, A. (2005). Voice, footing, enregisterment. "
+        },
+        {
+          "text": "Journal of Linguistic Anthropology",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "15",
+          "italic": true
+        },
+        {
+          "text": "(1), 38–59.\n  "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Bell, A. (1984). Style as audience design. "
+        },
+        {
+          "text": "Language in Society",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "13",
+          "italic": true
+        },
+        {
+          "text": "(2), 145–204."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nBell, A. (2001). Back in style: Reworking audience design. . In P. Eckert & J. R. Rickford (Eds.), "
+        },
+        {
+          "text": "Style and Sociolinguistic Variation",
+          "italic": true
+        },
+        {
+          "text": " (pp. 139–169). Cambridge University Press. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Coupland, N. (2007). "
+        },
+        {
+          "text": "Style: Language variation and identity.",
+          "italic": true
+        },
+        {
+          "text": " Cambridge University Press."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nEckert, P. (2008). Variation and the indexical field. "
+        },
+        {
+          "text": "Journal of Sociolinguistics",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "12",
+          "italic": true
+        },
+        {
+          "text": "(4), 453–476. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1111/j.1467-9841.2008.00374.x",
+          "children": [
+            {
+              "text": "https://doi.org/10.1111/j.1467-9841.2008.00374.x"
+            }
+          ]
+        },
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": " Irvine, J. T. (2001). “Style” as distinctiveness: The culture and ideology of linguistic diﬀerentiation. In P. Eckert & J. R. Rickford (Eds.), "
+        },
+        {
+          "text": "Style and Sociolinguistic Variation",
+          "italic": true
+        },
+        {
+          "text": " (pp. 21–43). Cambridge University Press.\n  "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1111/j.1467-9841.2008.00374.x",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "What is \"Style\" in Linguistics? ",
@@ -152,6 +330,6 @@
   "slug": "what-is-style-in-linguistics",
   "created_at": "2026-03-13T23:01:29.718Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-03T20:14:29.762Z",
+  "updated_at": "2026-05-12T20:00:42.564Z",
   "updated_by": "derrek-powell"
 }
