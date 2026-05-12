@@ -2,29 +2,10 @@
   "content": [
     {
       "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "textSize": "heading-one"
-        }
-      ],
-      "align": "center"
-    },
-    {
-      "type": "paragraph",
       "align": "center",
       "children": [
         {
           "textSize": "heading-one",
-          "text": "What is \"Style\" in Linguistics?"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
           "text": ""
         }
       ]
@@ -107,9 +88,28 @@
       ]
     },
     {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "image",
-      "url": "https://drive.google.com/file/d/1EPpQj4P_TSlzTSy7Ea1rA0ayu6sTl7ZK/view?usp=sharing",
-      "caption": "A Model of Styles",
+      "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/StyleClusters.png?raw=true",
+      "caption": "Diagram of Style as Clustering",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "scale": 70,
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -430,6 +430,6 @@
   "slug": "what-is-style-in-linguistics",
   "created_at": "2026-03-13T23:01:29.718Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T21:18:06.518Z",
+  "updated_at": "2026-05-12T21:40:18.565Z",
   "updated_by": "derrek-powell"
 }
