@@ -7,8 +7,7 @@
           "text": "From Reggae to Reggaetón ",
           "textSize": "heading-one"
         }
-      ],
-      "align": "center"
+      ]
     },
     {
       "type": "paragraph",
@@ -263,8 +262,8 @@
             },
             {
               "type": "image",
-              "url": "https://drive.google.com/file/d/1LUvOamgX0yt2c6bLF39o-M6gYAsSu-2P/view?usp=sharing",
-              "caption": "Skeleton of the Dem Bow Riddim from Marshall (2009) ",
+              "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/Marshall_BoomChBoomChik.png?raw=true",
+              "caption": "From Marshall (2009) ",
               "children": [
                 {
                   "text": ""
@@ -682,6 +681,7 @@
     },
     {
       "type": "paragraph",
+      "align": "center",
       "children": [
         {
           "text": ""
@@ -690,18 +690,18 @@
     },
     {
       "type": "image",
-      "url": "https://drive.google.com/file/d/1afCXcLyvLHi2kD3dOps1G7Yc6uArWSTI/view?usp=sharing",
-      "caption": "Basic Elements of Puerto Rico's localized Dem Bow",
+      "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/Marshall_PRDembow.png?raw=true",
+      "caption": "From Marshall (2009) ",
       "children": [
         {
           "text": ""
         }
       ],
+      "scale": 65,
       "align": "center"
     },
     {
       "type": "paragraph",
-      "align": "left",
       "children": [
         {
           "text": ""
@@ -811,13 +811,24 @@
               ]
             },
             {
-              "type": "image",
-              "url": "https://drive.google.com/file/d/1Y5Ypnyupm4yrMtM4sNzO2s3rTo4BDFfj/view?usp=sharing",
+              "type": "paragraph",
               "children": [
                 {
                   "text": ""
                 }
               ]
+            },
+            {
+              "type": "image",
+              "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/DJNelson_reggaeton.jpg?raw=true",
+              "caption": "Credit DJ Nelson",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "scale": 50,
+              "align": "center"
             },
             {
               "type": "paragraph",
@@ -841,13 +852,24 @@
               ]
             },
             {
-              "type": "image",
-              "url": "https://drive.google.com/file/d/1dddF1BMznjFSunM-WTWZ1UPDfN9CFTFI/view?usp=sharing",
+              "type": "paragraph",
               "children": [
                 {
                   "text": ""
                 }
               ]
+            },
+            {
+              "type": "image",
+              "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/DJBlass_reggaetonsex.jpeg?raw=true",
+              "caption": "Credit DJ Blass",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "scale": 65,
+              "align": "center"
             },
             {
               "type": "paragraph",
@@ -1298,6 +1320,6 @@
   "slug": "from-reggae-to-reggaeton",
   "created_at": "2026-03-13T23:04:10.557Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T21:25:37.641Z",
+  "updated_at": "2026-05-12T21:45:52.776Z",
   "updated_by": "derrek-powell"
 }
