@@ -4,6 +4,460 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "",
+          "textSize": "heading-one",
+          "italic": true
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "italic": true,
+          "text": "¡VAMO' AL CALENTÓN!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "ATLAS OF THE REGGAETÓN VOICE",
+          "textSize": "heading-one"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "",
+          "textSize": "small"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "small",
+          "text": "Derrek Powell, "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "small",
+          "text": "PhD Candidate, Department of Spanish & Portuguese"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "small",
+          "text": "University of Texas at Austin "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "small",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "¡Dale Play! ",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This Atlas is an interactive, multimedia resource designed to explore the linguistic performance of reggaetón. It is designed to act as a guide through empirical findings where analysts examine how artists use sound, pronunciation, rhythm, lexis, and style to create and signify social meaning in musical production. This Atlas aims to contribute to filling a specific gap in the reggaetón literature, because despite ample work on its musical structure, thematic content, and cultural impact, work on reggaetón's voice itself as a site of socail, aesthetic, and political expression is less visible. Thus, the purpose of this project is two-fold: "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "To make research on the sociolinguistics of reggaetón accessible to broader audiences by translating academic findings into listenable content. "
+            }
+          ],
+          "align": "justify"
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "To invite listeners to engage critically with popular music, not just as entertainment, but as a structured system where social meanings are constantly produced, circulated, negotiated, and challenged. "
+            }
+          ],
+          "align": "justify"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "In doing so, the Atlas aims to show that reggaetón is not only something we dance to, but something we can hear critically and analytically."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "¡Dale Riwain! ",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Before diving into the Atlas itself, this project offers two foundational sections designed to help you hear reggaetón differently. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The first introduces the concept of "
+        },
+        {
+          "text": "linguistic style",
+          "bold": true
+        },
+        {
+          "text": ", framing it as the intersection of structure and agency in language use. Within this section, a dedicated focus on "
+        },
+        {
+          "text": "singing styles",
+          "bold": true
+        },
+        {
+          "text": " explores how voices in music operate within genre-specific expectations, or what we call "
+        },
+        {
+          "text": "genre-worlds",
+          "italic": true
+        },
+        {
+          "text": ". Here, listeners are encouraged to think of the voice not as a fixed property of a speaker, but as a flexible stylistic resource that artists use to construct personae, align with musical traditions, and engage audiences."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The second section provides a "
+        },
+        {
+          "text": "sonic history of reggaetón",
+          "bold": true
+        },
+        {
+          "text": ", tracing its development from its Black diasporic roots to its current global dominance. The first half focuses on the "
+        },
+        {
+          "text": "creation of reggaetón",
+          "bold": true
+        },
+        {
+          "text": ", following its emergence from "
+        },
+        {
+          "text": "reggae en español",
+          "italic": true
+        },
+        {
+          "text": ", dancehall, and hip-hop through New York City, the underground scene of San Juan, and the emergent success of the production duo Luny Tunes. The second half examines the "
+        },
+        {
+          "text": "globalization of reggaetón",
+          "bold": true
+        },
+        {
+          "text": ", from the dance-floor circulation of the 2010s Zumba craze to landmark moments like the release of\"Despacito\" and Bad Bunny’s 2026 Super Bowl halftime performance."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Together, these sections are designed to tune your ear. Rather than immediately dissecting the reggaetón voice, they provide the conceptual and historical grounding needed to hear its development as a musical style. That way, our ears will be primed to listen analytically to how the voice within reggaetón is stylized to situate artists within these musical legacies. "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "¡Escúchalo bien!",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The Atlas itself is organized by levels of linguistic organization, moving from broader structural patterns to more fine-grained features. Each section contains a series of entries, with each entry focusing on a specific linguistic feature that has been identified and studied by experts specifically working on reggaetón vocal performance. "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "These entries synthesize empirical research and pair it with annotated musical examples, allowing listeners to hear the patterns described in real time. Rather than presenting abstract descriptions alone, the Atlas uses transcribed and analyzed clips of reggaetón songs to make linguistic features both visible and audible. In this way, the Atlas transforms listening into analysis, showing how the reggaetón voice is constructed through systematic variation that listeners can learn to recognize, interpret, and appreciate."
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is the Remix",
+          "bold": true,
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This Atlas is an ongoing project in development, meaning that as new research/findings are released, more sections and details about the voice will be added. Be sure to check back and see how the project expands! "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "If you are a scholar of reggaetón and would like to contribute a page, example, or update to the Atlas, please see the \"Contribute to the Atlas\" page for instructions about how to contact the curator and submit your contribution for inclusion. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "textSize": "heading-one"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-one",
+          "text": "¡ESTO E' PA' QUE LO GOZEN!"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://drive.google.com/file/d/1ttvugfDSQjMYzvVhh7Sc53Qk--qMTogz/view?usp=sharing",
+      "caption": "Reggaetón Nation (credit NY Times) ",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -12,7 +466,7 @@
   "created_at": "2026-02-17T20:07:54.462Z",
   "created_by": "derrek-powell",
   "title": "The Reggaetón Voice ",
-  "updated_at": "2026-05-12T20:36:46.029Z",
+  "updated_at": "2026-05-12T20:59:17.416Z",
   "updated_by": "derrek-powell",
   "autogenerate": {
     "enabled": false,
