@@ -3,7 +3,7 @@
     "d3a1a05d-8893-47d5-8d9c-d7830181f09a": {
       "label": "Son Bow (1991) ",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://www.youtube.com/watch?v=TZkDJqRduw8",
       "duration": 0,
       "caption_set": [],
@@ -29,6 +29,6 @@
   "rights_statement": "https://rightsstatements.org/vocab/InC-EDU/1.0/",
   "created_at": "2026-03-21T19:49:51.109Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-03-21T19:49:51.109Z",
+  "updated_at": "2026-05-12T21:25:53.020Z",
   "updated_by": "derrek-powell"
 }
