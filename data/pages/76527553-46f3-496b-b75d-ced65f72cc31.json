@@ -226,7 +226,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\nBell, A. (2001). Back in style: Reworking audience design. . In P. Eckert & J. R. Rickford (Eds.), "
+          "text": "\nBell, A. (2001). Back in style: Reworking audience design. In P. Eckert & J. R. Rickford (Eds.), "
         },
         {
           "text": "Style and Sociolinguistic Variation",
@@ -242,6 +242,21 @@
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Coupland, N. (2001). Language, situation, and the relational self: Theorizing dialect-style in sociolinguistics. In P. Eckert & J. R. Rickford (Eds.), "
+        },
+        {
+          "text": "Style and Sociolinguistic Variation.",
+          "italic": true
+        },
+        {
+          "text": " (pp. 185–210). Cambridge University Press.\n "
         }
       ]
     },
@@ -298,7 +313,34 @@
       "type": "paragraph",
       "children": [
         {
-          "text": " Irvine, J. T. (2001). “Style” as distinctiveness: The culture and ideology of linguistic diﬀerentiation. In P. Eckert & J. R. Rickford (Eds.), "
+          "text": "Gal, S. (2016). Sociolinguistic differentiation. In M. Myerhoff & N. Coupland (Eds.), "
+        },
+        {
+          "text": "Sociolinguistics: Theoretical debates.",
+          "italic": true
+        },
+        {
+          "text": " (pp. 113–135). Cambridge University Press. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/doi:10.1017/S0047404516000907",
+          "children": [
+            {
+              "text": "doi:10.1017/S0047404516000907"
+            }
+          ]
+        },
+        {
+          "text": "\n  "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Irvine, J. T. (2001). “Style” as distinctiveness: The culture and ideology of linguistic diﬀerentiation. In P. Eckert & J. R. Rickford (Eds.), "
         },
         {
           "text": "Style and Sociolinguistic Variation",
@@ -330,6 +372,6 @@
   "slug": "what-is-style-in-linguistics",
   "created_at": "2026-03-13T23:01:29.718Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T20:00:42.564Z",
+  "updated_at": "2026-05-12T20:02:22.982Z",
   "updated_by": "derrek-powell"
 }
