@@ -1,0 +1,34 @@
+{
+  "audiovisual_files": {
+    "570604f7-95af-4610-8c45-cfa9a8c26b69": {
+      "label": "Rosalía Interview Sample ",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://www.youtube.com/watch?v=EorjR_aer4E",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Rosalía Interview",
+  "av_file_order": [
+    "570604f7-95af-4610-8c45-cfa9a8c26b69"
+  ],
+  "rights_statement": "https://rightsstatements.org/vocab/InC-NC/1.0/",
+  "created_at": "2026-05-12T17:05:18.258Z",
+  "created_by": "derrek-powell",
+  "updated_at": "2026-05-12T17:05:18.258Z",
+  "updated_by": "derrek-powell"
+}
