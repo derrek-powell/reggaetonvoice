@@ -105,7 +105,7 @@
           "bold": true
         },
         {
-          "text": "that occurs in all dialects of spoken Spanish to differing degrees. That is, a fully articulated sibilant [s] may be realized as such (e.g., [los 'mismos]), an aspirated [h] ([loh 'mihmoh]), or, in some cases, deleted altogether ([lo 'mimo]). In Puerto Rico, /s/ reduction falls within Stage 3 of Lipski's weakening pathway, canonically occurring in most cases of pre-consonantal coda and some pre-vocalic codas, but it does not occur in the onset position. In addition to these three allophones, /s/ can also be realized as a voiced fricative [z] and aspiration [ɦ], as well as a glottal stop [ʔ]  ([loʔ ˈmihmoʔ]) that is unique to Puerto Rico. Importantly, the lack of /s/ does not create confusion between words that without /s/ are homophonous (e.g., "
+          "text": "that occurs in all dialects of spoken Spanish to differing degrees. That is, a fully articulated sibilant [s] may be realized as such (e.g., [los 'mismos]), an aspirated [h] ([loh 'mihmoh]), or, in some cases, deleted altogether ([lo 'mimo]). In Puerto Rico, /s/ reduction falls within Stage 3 of Lipski's weakening pathway, canonically occurring in most cases of pre-consonantal and some pre-vocalic codas, but it does not occur in the onset position. In addition to these three allophones, /s/ can also be realized as a voiced fricative [z] and aspiration [ɦ], as well as a glottal stop [ʔ]  ([loʔ ˈmihmoʔ]). Moreover, speakers use several strategies to distinguish forms rendered homophonous from the lack of /s/ (e.g., "
         },
         {
           "text": "mismo",
@@ -119,7 +119,7 @@
           "italic": true
         },
         {
-          "text": "), as speakers utilize several phonetic strategies to distinguish forms, including vocalic and consonantal lengthening (e.g., "
+          "text": "), including segmental lengthening (e.g., "
         },
         {
           "text": "mismo",
@@ -133,7 +133,7 @@
           "italic": true
         },
         {
-          "text": " ['mimo]) and consonantal strengthening (e.g., "
+          "text": " ['mimo]) and strengthening (e.g., "
         },
         {
           "text": "la vaca",
@@ -248,7 +248,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Because s-reduction is a gradient feature, analysts often use acoustic measures to determine the extent of reduction and to classify tokens allophonically. This typically involves a combined Center of Gravity (COG) and Standard Deviation (SD) Measurement in Hertz (Hz). The COG measurement tells us the average frequency of the sound, whereas the SD tells us the dispersion of sound relative to that average. That is, a high COG (~6-10kHz) and a low SD indicate a very high frequency flow of concentrated air moving through a relatively small airway, which is characteristic [s], whereas lower COG and higher SD indicate less-concentrated air moving through a larger opening as occurs with [h]. Below are spectrograms showcasing [s] and [h], as well as two forms of deletion: one where the etymological place of /s/ is trace-marked with a pause, and another where the segment is elided entirely. "
+          "text": "Because s-reduction is a gradient feature, analysts often use acoustic measures to determine the extent of reduction and to classify tokens allophonically. This typically involves at least a combined Center of Gravity (COG) and Standard Deviation (SD) Measurement in Hertz (Hz). The COG measurement indicates the average frequency of the sound, whereas the SD indicates dispersion of sound relative to that average. That is, a high COG (~6-10kHz) and a low SD are indicative of a high frequency flow of concentrated air moving through a relatively small airway, which occurs with [s]. Contrastively, a lower COG and a higher SD indicate less-concentrated air moving through a larger opening, which occurs with [h]. These differences can also be confirmed visually using a spectrogram, as [s] presents as a high-frequency dark cluster. Below are spectrograms that showcase this variability, including two forms of deletion: one where the etymological place of /s/ is trace-marked with a pause, and another where the segment is elided entirely. "
         }
       ],
       "align": "justify"
@@ -429,7 +429,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The alternation between these forms is not random, but conditioned by a combination of language-internal and -external factors, including phonological environment, interactional setting, role alignment, and encoded stance and affect. In Puerto Rico, [s] is recognized as having a historic connection to notions of formality, education, and institutional authority, while aspiration [h] and deletion [∅] are linked to informal settings and everyday speech. However, these associations are not stable or uniform. Aspirated [h], for example, is often positively evaluated as an authentic marker of Puerto Rican identity, particularly in casual contexts. Deletion [∅], by contrast, is more heavily stigmatized. While evaluations depend on the stance and background of the hearer and their perceptions of the speaker's background, there is research suggesting that full deletion is contrasted against [s] as indexing a lack of education or a lower socioeconomic status. There is also research to suggest that [s] carries gendered and sexuality-based associations, being heard as a \"feminine\" feature characteristic of the speech of women and gay men. "
+          "text": "The alternation between these forms is not random, but conditioned by a combination of language-internal and -external factors, including phonological environment, interactional setting, role alignment, and encoded stance and affect. In Puerto Rico, sibilance [s] is contrasted against both [h] and [∅] along axes of differentation relating to notions of formality, education, and institutional authority. Aspiration is then further distinguished from deletion and sibilance along an axis of locality, being positively evaluated as an authentic marker of Puerto Rican identity. Of these variants, deletion is often reported as the most heavily stigmatized, though such evaluations are shown to be influenced in part by the stance and background of the hearer and their perceptions of the speaker's background. Moreover, some research suggests [s] carries gendered and sexuality-based associations, being heard as a \"feminine\" feature characteristic of the speech of women and gay men. "
         }
       ],
       "align": "justify"
@@ -465,7 +465,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "s-Reduction illustrates how regional phonological features become reinterpreted as markers of social alignments. In musical performance, these variants are not inherited from the spoken registers of the performers, but strategically deployed as part of the stylization of the musical product. s-Reduction in reggaetón, in particular, plays a central role in constructing the voice of the genre, and is adopted by both speakers from within and without Puerto Rico. \n"
+          "text": ""
         }
       ],
       "align": "justify"
@@ -492,14 +492,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "S-Reduction carries high salience in reggaetón production and is even visible in online lyric transcriptions through the use of apostrophes (e.g., \""
+          "text": "In musical performance, these variants are not only inherited from the spoken registers of the performers but strategically deployed as part of the stylization of the musical product. s-Reduction in reggaetón, in particular, plays a central role in constructing the voice of the genre, and is adopted by both speakers from within and without Puerto Rico. Its salience is so high that the feature is even visibly marked in online lyric transcriptions through the use of apostrophes (e.g., \""
         },
         {
           "text": "no me mire' así",
           "italic": true
         },
         {
-          "text": "\"). This feature is by far the most thoroughly researched phonological variable in the Hispanic Linguistics literature, which could explain why most research on reggaetón singing styles has used it as the locus of analysis. The following examples showcase how findings from contemporary research frame lenited /s/ as an enregistered resource for constructing and performing artistic alignment with the broader reggaetón soundscape. Throughout these examples, AVAnnotate's annotation feature provides transcriptions of the lyrics to highlight cases of reduction. For accessibility, this variability is presented binarily as \"retention [s] or reduction [h ʔ ø]\" marked in brackets as [s] or [-]. "
+          "text": "\"). The following examples showcase how findings from contemporary research frame lenited /s/ as an enregistered resource for constructing and performing artistic alignment with the broader reggaetón soundscape. Throughout these examples, AVAnnotate's annotation feature provides transcriptions of the lyrics to highlight cases of reduction. For accessibility, this variability is presented binarily as \"retention [s] or reduction [h ʔ ø]\" marked in brackets as [s] or [-]. "
         }
       ],
       "align": "justify"
@@ -518,25 +518,7 @@
       "align": "justify",
       "children": [
         {
-          "text": "as curated from research comparing reggaetón's vocal style to other genres and the speech of Puerto Rican and non-Puerto Rican performers. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "justify",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "align": "justify",
-      "children": [
-        {
-          "text": "Throughout reggaetón's history, globalization, and various artistic developments, s-reduction has remained an audible aspect of the tracks. Below are examples ranging from 1996 to 2022 showcasing the Underground, Luny Tunes, Latin-Pop, and Contemporary eras of reggaetón production. "
+          "text": "S-Reduction is consistently present in reggaetón throughout the genre's history, withstanding globalization and artistic innovation over the years. Listen below to hear how coda /s/ is highly absent in each of the songs, save for some prevocalic tokens. Reductions appear to be the norm in each case, whose release dates range from 1996 to 2022 to showcase the Underground, Luny Tunes, Latin-Pop, and Contemporary eras of reggaetón production. "
         }
       ]
     },
@@ -612,6 +594,7 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": ""
@@ -623,7 +606,7 @@
       "align": "justify",
       "children": [
         {
-          "text": "Ivy Queen illustrates how this is fundamentally a strategy for differentiating voices across genres. "
+          "text": "Some scholars assert that this variable is enregistered as an artistic marker of reggaetón production. That is, it is a central component for distinguishing and situating the reggaetón voice amidst broader popular music soundscapes Consider the following examples from Ivy Queen: Both were released in 2023, though \"Quién Dijo\" is written with heavy bachata and (to use the industry term) \"Tropical\" stylistics, whereas \"Bye Bye\" is encoded as a pop-infused reggaetón track. Alongside phonation differences in terms of tempo, pitch, and staccato, the rate at which /s/ is retained or reduced also drastically changes. "
         }
       ]
     },
@@ -675,12 +658,191 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "These voice contrasts are maintained even in songs where they collaborate. They signal different sonic lineages. "
+          "text": "This is a productive contrast that is identifiable in the music of other performers, including collaborations where the two voices sing together. That is, even within the same composition, reduced /s/ variants have the capacity to delineate sonic, thematic, and poetic space through their association with distinct musical lineages. "
         }
       ]
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[Bella y Sensual] "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "The enregistered vernacularity of /s/ reduction and its general restriction to reggaetón/urbano music facilitate its use as a way of embodying the reggaetón voice, even if the singer themselves does not reduce /s/ to the same extent outside of reggaetón production. The use of reduced /s/ by artists of stereotypically non-s-reducing backgrounds in reggaetón has been a particular site of investigative interest, wherein researchers continuously find that singers, regardless of background, tend to use significantly more reduced variants when performing reggaetón specifically. This pattern is identified in the music of Medellinense singers J Balvin, Maluma, and Karol G, the Mexican-American Becky G, Brazilian Anitta, and Catalonian Rosalía. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "[J Balvin"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "[Maluma"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "[Karol G  Hello > Bichota "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "[Becky G > "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "[Anitta "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "[Rosalía "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "The research on these singers presents evidence that /s/ reduction the preferred variant in reggaetón independent of artists' sociolinguistic backgrounds, and that the rate of reduction across performances converges towards a range upwards of 50%. Moreover, this is identified as a relatively novel and emergent pattern, first gaining widespread recognizability in the late 2010s and early 2020s around the success of Despacito and the rise of "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": " at converging rates and distributions , but that this is a relatively novel and emergent pattern "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": ""
@@ -693,6 +855,15 @@
       "children": [
         {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Consider the case of Anitta, a Brazilian pop and funk singer who learned Spanish specifically to cross over to the Spanish-language sector of the Latin music industry in 2016. Below compares her first Spanish track \"Si o no\", to the 2022 reggaetón track \"Envolver\", written and produced by Puerto Rican reggaetón artists Justin Quiles. T"
         }
       ]
     },
@@ -1217,6 +1388,6 @@
   "slug": "alveolar-fricatives-in-coda",
   "created_at": "2026-03-14T00:01:39.983Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-11T23:02:08.894Z",
+  "updated_at": "2026-05-12T00:06:27.703Z",
   "updated_by": "derrek-powell"
 }
