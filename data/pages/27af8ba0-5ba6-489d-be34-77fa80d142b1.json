@@ -68,7 +68,7 @@
     {
       "type": "image",
       "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/Latinization.png?raw=true",
-      "caption": "From Solis Miranda (2022) ",
+      "caption": "From Solis Miranda (2022) Shifts in Reggaetón Demographics after Mainstream Commercialization (Top L-R: El General, Tego Calderón, Don Omar / Bottom L-R: J Balvin, Maluma, Bad Bunny) ",
       "children": [
         {
           "text": ""
@@ -106,8 +106,22 @@
       "align": "center",
       "children": [
         {
-          "text": "\nBelow are some of the most pivotal moments of reggaetón's continued transformation and globalization over the past two decades. ",
+          "text": "",
           "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": "\n"
+        },
+        {
+          "text": "Below are some of the most pivotal moments of reggaetón's continued transformation and globalization over the past two decades. ",
+          "textSize": "heading-four"
         }
       ]
     },
@@ -199,10 +213,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This was amplified by the rise of Zumba, which moved Latin urban rhythms into gyms, dance studios, cruise ships, and community centers. Through Zumba, reggaetón’s dembow-derived rhythmic sensibility became newly legible as “Latin dance” for global audiences, often detached from the genre’s underground history and racial politics. In this moment, reggaetón entered a new circuit of circulation: not only radio and clubs, but choreographed wellness economies where Afro-diasporic rhythmic templates were repackaged as accessible, high-energy, multicultural fun."
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "This was amplified by the rise of Zumba, which moved Latin urban rhythms into gyms, dance studios, cruise ships, and community centers. Through Zumba, reggaetón’s dembow-derived rhythmic sensibility became newly legible as “Latin dance” for global audiences, often detached from the genre’s underground history and racial politics. In this moment, reggaetón entered a new circuit of circulation: not only radio and clubs, but choreographed wellness economies where Afro-diasporic rhythmic templates were repackaged as accessible, high-energy, multicultural fun."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -787,10 +810,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Its minimal, chant-like structure made it highly scalable across linguistic boundaries, circulating through dance challenges, DJ culture, and social media virality. The remix featuring Beyoncé further amplified its reach while preserving its Spanish-language core, signaling a shift in which global pop artists increasingly adapt to reggaetón’s sonic and linguistic frameworks. That is, “Mi Gente” demonstrated that reggaetón’s global success does not depend solely on pop softening or romantic framing. Instead, it affirms the power of rhythmic intensity, repetition, and collective address, positioning reggaetón as a shared, transnational dance language grounded in Afro-diasporic and Caribbean musical traditions."
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Its minimal, chant-like structure made it highly scalable across linguistic boundaries, circulating through dance challenges, DJ culture, and social media virality. The remix featuring Beyoncé further amplified its reach while preserving its Spanish-language core, signaling a shift in which global pop artists increasingly adapt to reggaetón’s sonic and linguistic frameworks. That is, “Mi Gente” demonstrated that reggaetón’s global success does not depend solely on pop softening or romantic framing. Instead, it affirms the power of rhythmic intensity, repetition, and collective address, positioning reggaetón as a shared, transnational dance language grounded in Afro-diasporic and Caribbean musical traditions."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -1093,11 +1125,11 @@
           "text": "This intervention becomes especially visible in “Yo perreo sola,” a track that simultaneously returns to the sonic template of classic perreo and radically reconfigures its gender politics. By performing in drag and centering the autonomy of women within the dance space, Bad Bunny disrupts reggaetón’s historically masculinist performance norms while preserving the embodied, rhythmic intensity that defines the genre. This move came at a particularly salient moment in Puerto Rico's broader cultural debates surrounding gender and sexuality norms, as his choice to perform in drag and to include broader feminist messaging—including the motto \""
         },
         {
-          "text": "ni una más",
+          "text": "ni una menos",
           "italic": true
         },
         {
-          "text": "\" (lit. not even one more)—was widely received as a response to the killing of Alexa Negrón Luciano, a homeless trans youth. In doing so, Bad Bunny showcased how the musical contours of reggaetón could remain intact, all the while reclaiming reggaetón as a site of cultural critic and political discourse and challenging ideologies about the performance of gender and agency in reggaetón. "
+          "text": "\" (lit. not even one less)—was widely received as a response to the killing of Alexa Negrón Luciano, a homeless trans youth. In doing so, Bad Bunny showcased how the musical contours of reggaetón could remain intact, all the while reclaiming reggaetón as a site of cultural critique and political discourse and challenging ideologies about the performance of gender and agency in reggaetón. "
         }
       ],
       "align": "justify"
@@ -1201,7 +1233,7 @@
       "align": "justify",
       "children": [
         {
-          "text": "Recent work such as “DTMF” continues this trajectory, further consolidating the idea that Puerto Rican urbano can function simultaneously as local expression and global infrastructure. Across these projects, Bad Bunny demonstrates that reggaetón’s commercial dominance need not rely on the erasure or sanitization of its roots. Instead, his work shows that linguistic specificity, rhythmic intensity, and Caribbean cultural references can themselves drive mass appeal. In this sense, Bad Bunny does not simply participate in reggaetón’s globalization—he redefines its terms, establishing Caribbeanness, rather than its dilution, as the genre’s most powerful and profitable organizing principle."
+          "text": "Recent work such as “DTMF” continues this trajectory, coming to break Despacito's record for the longest run at No. 1 of the Hot Latin Songs chart in April of 2026. This song, album, tour, and all accompanying materials have further consolidated the idea that Puerto Rican urbano can function simultaneously as local expression and global infrastructure. Across these projects, Bad Bunny demonstrates that reggaetón’s commercial dominance need not rely on the erasure or sanitization of its roots. Instead, his work shows that linguistic specificity, rhythmic intensity, and Caribbean cultural references can themselves drive mass appeal. In this sense, Bad Bunny does not simply participate in reggaetón’s globalization—he redefines its terms, establishing Caribbeanness, rather than its dilution, as the genre’s most powerful and profitable organizing principle."
         }
       ]
     },
@@ -1321,6 +1353,15 @@
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -1880,6 +1921,6 @@
   "slug": "from-reggeaton-to-urbano-latino",
   "created_at": "2026-03-13T23:05:16.653Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T22:07:31.452Z",
+  "updated_at": "2026-05-13T21:06:04.050Z",
   "updated_by": "derrek-powell"
 }
