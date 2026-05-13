@@ -1,5 +1,57 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 29,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "CL exhibits a pattern similar to Snow Tha Product's regarding copula use. Like Snow, CL is not wrapping her entire verse in English, but within the lyrical code-switches from Korean into English, you can hear traces of the language used to first create and perform hip-hop in Harlem. CL, despite being from South Korea, also uses "
+            },
+            {
+              "text": "habitual be",
+              "italic": true
+            },
+            {
+              "text": " (e.g., \"I "
+            },
+            {
+              "text": "be",
+              "italic": true
+            },
+            {
+              "text": " that wave boy\") and "
+            },
+            {
+              "text": "copula deletion",
+              "italic": true
+            },
+            {
+              "text": " (e.g., bare gerunds \"flowing,\" and \"looking,\") alongside standardized copula productions (e.g., \"that "
+            },
+            {
+              "text": "is",
+              "italic": true
+            },
+            {
+              "text": " my name, who I "
+            },
+            {
+              "text": "am",
+              "italic": true
+            },
+            {
+              "text": "\"). This is another example of how mixing artistically marked English structures into the lyrics does not necessarily index place or dialect so much as it situates the artistic identity of the performer in a specific genre-world via the connections specific speech forms have to different communities and practices. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4ab1802e-7d61-4695-9dc0-41851b719023"
+    }
+  ],
   "set": "Default",
   "event_id": "65c0578a-b071-4ca6-b25e-c79a0733b054",
   "source_id": "076752cb-4763-47ad-beb0-f853df12ddb7"
