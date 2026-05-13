@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Contribute to the Atlas!",
+          "text": "",
           "textSize": "heading-one"
         }
       ],
@@ -15,7 +15,8 @@
       "align": "center",
       "children": [
         {
-          "text": "A letter from the author, Derrek Powell "
+          "text": "A letter from the curator",
+          "italic": true
         }
       ]
     },
@@ -44,6 +45,16 @@
       "align": "left",
       "children": [
         {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
           "text": "Over the last seven years, I have been one of several researchers working hard to carve out a space for the sociolinguistics of reggaetón. This Atlas is an extension and culmination of this research, set in a frame that aims to foster collaboration from other researchers. "
         }
       ]
@@ -62,7 +73,7 @@
       "align": "left",
       "children": [
         {
-          "text": "If you are a scholar of reggaetón—whether that be in history, anthropology, political science, linguistics, musicology, or a similar field— and you are looking for a place to share your research, this is the space for you. Collectively, I hope we can develop a holistic outline of not only what reggaetón is, but what it sounds like to its listeners and how those sounds resonate so deeply with us. "
+          "text": "If you are a scholar of reggaetón—whether that be in history, anthropology, political science, linguistics, musicology, or a similar field— and you are looking for a place to share your research, this may be the space for you. Collectively, I hope we can develop a holistic outline of not only what reggaetón is, but what it sounds like to its listeners and how those sounds resonate so deeply with us. "
         }
       ]
     },
@@ -80,7 +91,14 @@
       "align": "left",
       "children": [
         {
-          "text": "If you would like to contribute and entry or addition to the Atlas, please reach out to me at powellderrek@gmail.com with the following: "
+          "text": "If you would like to contribute an entry or addition to the Atlas, please reach out to me at "
+        },
+        {
+          "text": "powellderrek@gmail.com",
+          "bold": true
+        },
+        {
+          "text": " with the following: "
         }
       ]
     },
@@ -177,7 +195,7 @@
       "align": "left",
       "children": [
         {
-          "text": "1. A brief introduction to the feature, including its linguistic structure and an overview of its sociolinguistic history/meaning. "
+          "text": "1. A brief introduction to the feature, including its linguistic structure and an overview of its sociolinguistic history/meaning and any information you have about the feature's use in Puerto Rico. "
         }
       ]
     },
@@ -195,7 +213,7 @@
       "align": "left",
       "children": [
         {
-          "text": "2. Any information you have about the feature's use in Puerto Rico or from whichever localized speech community the artist originates. "
+          "text": "2. A review of current research about the feature's occurrence and function in reggaetón production, complete with a list of song example recommendations. I will contact you directly with instructions of how to generate an annotation file for the videos so we can include them in your entry. "
         }
       ]
     },
@@ -213,7 +231,7 @@
       "align": "left",
       "children": [
         {
-          "text": "3. A review of current research about the feature's occurrence and function in reggaetón production, complete with a list of song example recommendations. I will contact you directly with instructions of how to generate an annotation file for the videos so we can include them in your entry. "
+          "text": "3. A short bibliography of recommended readings for readers to engage with materials on a deeper level. "
         }
       ]
     },
@@ -240,7 +258,18 @@
       "align": "left",
       "children": [
         {
-          "text": "Then that's it! "
+          "text": "Then that's it! ",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "text": ""
         }
       ]
     },
@@ -370,6 +399,6 @@
   "slug": "contribute-to-the-atlas",
   "created_at": "2026-03-14T00:25:50.447Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-03T22:00:53.818Z",
+  "updated_at": "2026-05-13T21:36:35.304Z",
   "updated_by": "derrek-powell"
 }
