@@ -231,7 +231,7 @@
           "text": ""
         }
       ],
-      "scale": 50,
+      "scale": 80,
       "align": "center"
     },
     {
@@ -520,6 +520,6 @@
   "slug": "phonology",
   "created_at": "2026-03-13T23:05:55.197Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T22:11:43.085Z",
+  "updated_at": "2026-05-13T21:28:06.076Z",
   "updated_by": "derrek-powell"
 }
