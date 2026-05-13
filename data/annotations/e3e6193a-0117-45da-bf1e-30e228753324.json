@@ -57,22 +57,6 @@
         }
       ],
       "uuid": "8b69f962-18e4-4d75-b04f-dea70246d46b"
-    },
-    {
-      "start_time": 168,
-      "end_time": 170,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "no puede ser asÃ­"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "71963f7b-4d3b-4c33-a7f0-be49fb2761ba"
     }
   ],
   "set": "Default",
