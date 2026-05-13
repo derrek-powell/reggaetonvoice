@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 147,
-      "end_time": 149,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "que no me importa lo tuyo [es] aparte"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "s-retention"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "phonology"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Ivy Queen"
-        }
-      ],
-      "uuid": "3a218688-eb9e-4f76-a0a7-16da7a1f0cc3"
-    },
-    {
       "start_time": 149,
       "end_time": 152,
       "annotation": [
