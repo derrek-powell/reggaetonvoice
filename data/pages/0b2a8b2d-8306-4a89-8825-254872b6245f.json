@@ -58,7 +58,8 @@
       "type": "heading-two",
       "children": [
         {
-          "text": "The Question of Dialect and Place"
+          "text": "The Question of Dialect and Place",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -226,21 +227,21 @@
         },
         {
           "text": "but only in singing",
-          "bold": true
+          "italic": true
         },
         {
           "text": ". Moreover, the participants themselves reported that singing in their local accents required "
         },
         {
-          "text": "conscious effort",
-          "bold": true
+          "text": "conscious effort ",
+          "italic": true
         },
         {
-          "text": " and felt "
+          "text": "and felt "
         },
         {
           "text": "unnatural",
-          "bold": true
+          "italic": true
         },
         {
           "text": ". Across subsequent studies, Gibson has demonstrated that these features are not acts of appropriation, but rather emergent properties of singing within particular genre conventions."
@@ -287,7 +288,8 @@
       "type": "heading-two",
       "children": [
         {
-          "text": "Singing as Learned Stylistic Behavior"
+          "text": "Singing as Learned Stylistic Behavior",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -577,10 +579,19 @@
           "italic": true
         },
         {
-          "text": " Routledge.\n "
+          "text": " Routledge."
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -601,7 +612,16 @@
           "italic": true
         },
         {
-          "text": "(5), 555–572.\n "
+          "text": "(5), 555–572."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -624,7 +644,25 @@
           "italic": true
         },
         {
-          "text": "(5), 573–602.\n  \nEberhardt, M., & Freeman, K. (2015). ‘First things first, I’m the realest’: Linguistic appropriation, white privilege, and the hip-hoppersona of Iggy Azalea. "
+          "text": "(5), 573–602."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Eberhardt, M., & Freeman, K. (2015). ‘First things first, I’m the realest’: Linguistic appropriation, white privilege, and the hip-hoppersona of Iggy Azalea. "
         },
         {
           "text": "Journal of Sociolinguistics",
@@ -650,21 +688,90 @@
           ]
         },
         {
-          "text": "\n  \nFrith, S. (2016). Pop Music (2001). In "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1111/josl.12128",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1111/josl.12128",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Frith, S. (2016). Pop Music (2001). In "
         },
         {
           "text": "Taking Popular Music Seriously: Selected Essays.",
           "italic": true
         },
         {
-          "text": " (pp. 167–182). Routledge.\n\nGibson, A. (2019). "
+          "text": " (pp. 167–182). Routledge."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Gibson, A. (2019). "
         },
         {
           "text": "Sociophonetics of Popular Music: Insights from Corpus Analysis and Speech Perception Experiments.",
           "italic": true
         },
         {
-          "text": " [Doctoral Dissertation]. University of Cantebury.\n  "
+          "text": " [Doctoral Dissertation]. University of Cantebury."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -709,6 +816,18 @@
       "children": [
         {
           "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1017/S0047404523000131",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
         }
       ]
     },
@@ -717,6 +836,18 @@
       "align": "justify",
       "children": [
         {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1017/S0047404523000131",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
           "text": "Gibson, A., & Bell, A. (2012). Popular Music Singing as Referee Design. In J. M. Hernández-Campoy (Ed.), "
         },
         {
@@ -724,7 +855,16 @@
           "italic": true
         },
         {
-          "text": " (pp. 139–164). John Benjamins.\n"
+          "text": " (pp. 139–164). John Benjamins."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -759,7 +899,7 @@
           ]
         },
         {
-          "text": "\n"
+          "text": ""
         }
       ]
     },
@@ -767,6 +907,39 @@
       "type": "paragraph",
       "align": "justify",
       "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.3390/languages9110349",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.3390/languages9110349",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
         {
           "text": "Trudgill, P. (1983). Acts of Conflicting Identity. The Sociolinguistics of British Pop-song  Pronunciation. In "
         },
@@ -806,6 +979,6 @@
   "slug": "singing-style",
   "created_at": "2026-03-13T23:02:07.262Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T21:41:43.328Z",
+  "updated_at": "2026-05-13T19:31:00.010Z",
   "updated_by": "derrek-powell"
 }
