@@ -31,6 +31,155 @@
       ],
       "tags": [],
       "uuid": "07a60aad-2bc0-495d-afcd-4c9e631fb589"
+    },
+    {
+      "start_time": 7,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lyrics:",
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "First thing's first, I'm the realest"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drop this and let the whole world feel it "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I'm still in the Murda Bizness "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can hold you down like I'm giving lessons in physics "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You should want a bad bitch like this"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Drop it low and pick it up just like this "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cup of Ace, cup of Goose, cup of Cris"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "High heels, something worth a half a ticket on my wrist "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Taking all the liquor straight, never chase that"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rooftop like we bringing '88 back "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bring the hooks in, where the bass at? "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Champagne spilling, you should taste that"
+            },
+            {
+              "type": "link",
+              "url": "https://genius.com/2968986/Iggy-azalea-fancy/High-heels-something-worth-a-half-a-ticket-on-my-wrist-on-my-wrist",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "text": ""
+            },
+            {
+              "type": "link",
+              "url": "https://genius.com/2969103/Iggy-azalea-fancy/Taking-all-the-liquor-straight-never-chase-that-never",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "text": ""
+            },
+            {
+              "type": "link",
+              "url": "https://genius.com/2969109/Iggy-azalea-fancy/Champagne-spilling-you-should-taste-that",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "text": "\n"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "742a70e7-5874-4ed8-b336-1ef421796c01"
     }
   ],
   "set": "Default",
