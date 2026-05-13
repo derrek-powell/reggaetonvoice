@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 149,
-      "end_time": 152,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Y el sÃ³lo pensarte da [gana'] de devorarte"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "s-reduction"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "phonology"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Ivy Queen"
-        }
-      ],
-      "uuid": "22e3b520-e2f6-44f9-8539-30c924e6170f"
-    },
-    {
       "start_time": 152,
       "end_time": 154,
       "annotation": [
