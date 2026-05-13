@@ -639,14 +639,14 @@
       "event1": {
         "uuid": "cfbc0cfd-3893-4f88-8cd2-13c07bfe54a2",
         "start": 122,
-        "end": 168,
+        "end": 170,
         "file": "8eb985e9-475e-49bc-8d80-2693ca9ba879",
         "type": "Video"
       },
       "event2": {
         "uuid": "95736c17-4914-4714-b55d-52bb62728882",
         "start": 62,
-        "end": 106,
+        "end": 110,
         "file": "7474ad99-8974-4f55-bf2a-1d213944f056",
         "type": "Video"
       },
@@ -845,7 +845,7 @@
       },
       "event2": {
         "uuid": "b1ec6f22-2179-4848-a195-8cb5209c3ba0",
-        "start": 11,
+        "start": 9,
         "end": 64,
         "file": "2ba6e16d-cb9a-4ba9-9423-62ab8cb490a3",
         "type": "Video"
@@ -880,7 +880,7 @@
       },
       "event2": {
         "uuid": "769a5931-a631-4eca-a656-7ddefbc02aa5",
-        "start": 110,
+        "start": 105,
         "end": 164,
         "file": "11c52f6b-eb3d-4714-8944-1fe3fad3de38",
         "type": "Video"
@@ -925,7 +925,7 @@
       ],
       "event1": {
         "uuid": "fdade8c7-2589-4847-bda7-223d5ea9584f",
-        "start": 58,
+        "start": 55,
         "end": 99,
         "file": "e902c5bb-3473-41d6-8a31-eaa4cd28b646",
         "type": "Video"
@@ -960,15 +960,15 @@
       ],
       "event1": {
         "uuid": "6168ec60-c21c-4efa-84c8-4b36cad59b16",
-        "start": 32,
-        "end": 72,
+        "start": 30,
+        "end": 75,
         "file": "7571706b-535c-4f1b-8d4d-c22d8191bf0d",
         "type": "Video"
       },
       "event2": {
         "uuid": "cd495435-abe6-4d06-bd97-2cd3ae76f37c",
-        "start": 34,
-        "end": 68,
+        "start": 32,
+        "end": 70,
         "file": "1ced9e41-b3ed-4834-a286-e126b2dec664",
         "type": "Video"
       },
@@ -995,15 +995,15 @@
       ],
       "event1": {
         "uuid": "2f54b0f0-788b-46da-95b8-520e1380cb36",
-        "start": 69,
-        "end": 119,
+        "start": 66,
+        "end": 121,
         "file": "b6f63e98-a3dc-4248-be33-994af94f13e8",
         "type": "Video"
       },
       "event2": {
         "uuid": "827af6d7-cf18-43af-a1d1-a11c6e55f36c",
-        "start": 9,
-        "end": 75,
+        "start": 6,
+        "end": 79,
         "file": "dc0b0f05-3ed7-4e48-a885-e2660eb7aa66",
         "type": "Video"
       },
@@ -1727,6 +1727,6 @@
   "slug": "alveolar-fricatives-in-coda",
   "created_at": "2026-03-14T00:01:39.983Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-13T21:32:54.269Z",
+  "updated_at": "2026-05-13T21:59:43.340Z",
   "updated_by": "derrek-powell"
 }
