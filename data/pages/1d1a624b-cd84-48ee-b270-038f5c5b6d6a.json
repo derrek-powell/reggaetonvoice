@@ -949,7 +949,7 @@
                   "text": ""
                 }
               ],
-              "scale": 80,
+              "scale": 95,
               "align": "center"
             },
             {
@@ -1528,6 +1528,6 @@
   "slug": "from-reggae-to-reggaeton",
   "created_at": "2026-03-13T23:04:10.557Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-13T20:49:07.678Z",
+  "updated_at": "2026-05-13T22:03:25.342Z",
   "updated_by": "derrek-powell"
 }
