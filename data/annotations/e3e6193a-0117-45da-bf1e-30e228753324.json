@@ -1,22 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 152,
-      "end_time": 154,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "parte por parte saborearte"
-            }
-          ]
-        }
-      ],
-      "tags": [],
-      "uuid": "15c63850-9cb7-457e-af05-3415305fc925"
-    },
-    {
       "start_time": 154,
       "end_time": 156,
       "annotation": [
