@@ -28,35 +28,6 @@
         }
       ],
       "uuid": "9e2d1c8f-d1e6-45f3-b319-872ab7bf88f6"
-    },
-    {
-      "start_time": 164,
-      "end_time": 168,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "nadie me calienta como tÃº lo [haces] pero eso"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "s-retention"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "phonology"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Ivy Queen"
-        }
-      ],
-      "uuid": "8b69f962-18e4-4d75-b04f-dea70246d46b"
     }
   ],
   "set": "Default",
