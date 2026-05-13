@@ -73,35 +73,6 @@
       ],
       "tags": [],
       "uuid": "71963f7b-4d3b-4c33-a7f0-be49fb2761ba"
-    },
-    {
-      "start_time": 170,
-      "end_time": 175,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "de pana lo siento hay que decir[no'] bye bye bye"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "s-reduction"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "phonology"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Ivy Queen"
-        }
-      ],
-      "uuid": "4fd4d823-5af8-4d9c-addf-ad3f62aebd03"
     }
   ],
   "set": "Default",
