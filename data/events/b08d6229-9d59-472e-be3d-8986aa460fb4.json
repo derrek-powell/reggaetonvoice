@@ -1,9 +1,9 @@
 {
   "audiovisual_files": {
     "bed1fabd-3577-424e-8ed7-b8a9974d2325": {
-      "label": "",
+      "label": "Eminem Interview",
       "is_offline": false,
-      "file_type": "Audio",
+      "file_type": "Video",
       "file_url": "https://www.youtube.com/watch?v=WgQI655FqtM",
       "duration": 0,
       "caption_set": [],
@@ -28,6 +28,6 @@
   ],
   "created_at": "2026-05-03T20:04:42.687Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-03T20:04:42.687Z",
+  "updated_at": "2026-05-13T20:28:01.380Z",
   "updated_by": "derrek-powell"
 }
