@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 224,
+      "end_time": 315,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Listen to how Iggy Azalea speaks about her moving to LA. Can you hear how her accent sounds unmistakably Australian? "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "08324d3f-eb4e-41ef-8999-b7e53f75642a"
+    }
+  ],
   "set": "Default",
   "event_id": "a8b0d802-27ec-4a42-ba4b-2e2d135f7f54",
   "source_id": "5bf2df4e-d65d-44a4-b6b8-7df818d56f7c"
