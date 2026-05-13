@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 144,
-      "end_time": 147,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "no quiero que [piense'] que [e'to] [e'] una tÃ¡ctica"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "s-reduction"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "phonology"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Ivy Queen"
-        }
-      ],
-      "uuid": "a4e374ac-3ed6-4451-9262-2d8107255814"
-    },
-    {
       "start_time": 147,
       "end_time": 149,
       "annotation": [
