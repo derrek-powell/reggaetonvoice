@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 154,
-      "end_time": 156,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "yo sÃ© lo que [quiere'] voy a hacer que [brinque'] y [salte']"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "s-reduction"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "phonology"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Ivy Queen"
-        }
-      ],
-      "uuid": "b39ca868-6c5f-49c1-9542-fefea544b311"
-    },
-    {
       "start_time": 156,
       "end_time": 159,
       "annotation": [
