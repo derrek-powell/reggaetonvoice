@@ -384,8 +384,18 @@
       ]
     },
     {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "includes": [
         "media",
+        "annotations",
         "label"
       ],
       "event1": {
@@ -411,7 +421,6 @@
     },
     {
       "type": "paragraph",
-      "align": "center",
       "children": [
         {
           "text": ""
@@ -422,10 +431,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "However, they also expose tensions around appropriation and commodification. When artists adopt raciolinguistically enregistered styles without maintaining the authenticity expected by the genre—particularly when there is a clear disconnect between performed and everyday speech—these practices are frequently criticized as exploitative. The case of Iggy Azalea is especially instructive: her use of African American English features in performance contrasts sharply with her spoken speech, leading scholars to frame her style as linguistic minstrelsy. While Azalea's singing style may be classifiable as appropriation, it nevertheless highlights the constraints genre conventions can place on creative and artistic production. "
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "However, they also expose tensions around appropriation and commodification. When artists adopt raciolinguistically enregistered styles without maintaining the authenticity expected by the genre—particularly when there is a clear disconnect between performed and everyday speech—these practices are frequently criticized as exploitative. The case of Iggy Azalea is especially instructive: her use of African American English features in performance contrasts sharply with her spoken speech, leading scholars to frame her style as linguistic minstrelsy. While Azalea's singing style may be classifiable as appropriation, it nevertheless highlights the constraints genre conventions can place on creative and artistic production. "
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -512,7 +530,8 @@
       "type": "heading-two",
       "children": [
         {
-          "text": "Why Study Singing Voices?"
+          "text": "Why Study Singing Voices?",
+          "textSize": "heading-three"
         }
       ]
     },
@@ -989,6 +1008,6 @@
   "slug": "singing-style",
   "created_at": "2026-03-13T23:02:07.262Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-13T20:16:10.423Z",
+  "updated_at": "2026-05-13T20:34:50.045Z",
   "updated_by": "derrek-powell"
 }
