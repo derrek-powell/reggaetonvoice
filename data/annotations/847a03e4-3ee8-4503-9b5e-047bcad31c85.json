@@ -1,5 +1,79 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 108,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Compare how Jade sings the same verse as Leigh-Anne. Does she still sound Geordie? Or does she sound different? How different or similar does she sound to Leigh-Anne's version of the verse? "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lyrics:",
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For tonight, I'm going to get my mind off it "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Don't care that someone has got his hands all over my body "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stay out all night "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Go where the music is loud so I don't have to think about it "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm begging, please don't play no more sad songs "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1e4c95a6-1770-4185-9ca7-6e74a6543aa0"
+    }
+  ],
   "set": "Default",
   "event_id": "d9c88202-7e98-4acc-92e4-4a3f53ca396e",
   "source_id": "2595db44-0fb2-455e-bc6c-5bae29d9c0c5"
