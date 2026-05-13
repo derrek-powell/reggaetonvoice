@@ -160,35 +160,6 @@
         }
       ],
       "uuid": "568d944b-d2b9-4856-9066-bae660a0395f"
-    },
-    {
-      "start_time": 184,
-      "end_time": 189,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "baby si tÃº [ronca'] y [dice'] que me [aguanta'] [sabe'] que me tiro y voy pa'llÃ¡"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "s-reduction"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "phonology"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Ivy Queen"
-        }
-      ],
-      "uuid": "16420835-fb7b-45a0-acce-03973173b962"
     }
   ],
   "set": "Default",
