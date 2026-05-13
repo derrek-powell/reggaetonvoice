@@ -50,6 +50,39 @@
       ],
       "tags": [],
       "uuid": "4ab1802e-7d61-4695-9dc0-41851b719023"
+    },
+    {
+      "start_time": 30,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Lyrics:",
+              "underline": true
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah\n난 답답하게 뛸 바엔 걸어\n고여 썩긴 싫어 flowing like water\n꾸밈없이 꾸민 패션\n넌 따라 못하지 시작은 내가\nI'm the realest, yeah, I bet, 늘 확실한 색깔\nCherries on my back, lookin' spicy red, hot\n채린 that's my name who I am, I can't lie\n쟤넨 그냥 척할 때 난 하지 맨날\nTrend는 trend 그냥 I be the wave boy"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "그냥 척\n척하면 다 알아, that's that lie\n짭들이 판 친다, that ain't fly\nLie, liе, lie, lie, 거짓말 thing\n야 그냥 척"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9a9edad8-393c-4dc9-9245-36132dfab19f"
     }
   ],
   "set": "Default",
