@@ -1,5 +1,64 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 79,
+      "end_time": 107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this example, Snow seamlessly transitions from rapping in Spanish into wrapping in English. In her English bars, she uses certain structures that are common amongst global rappers and whose origins can be traced back to the African American Vernacular English used to originally script hip-hop and rap in Harlem. These are the elements Alim says comprise the Hip-Hop Nation Language. The most commonly analyzed aspect of this artistic style is copula variation. In Standard English, copulas are not only always present, but they also show subject-verb agreement in terms of number (e.g., \"he "
+            },
+            {
+              "text": "is",
+              "italic": true
+            },
+            {
+              "text": " growing up fast,\" \"these rappers "
+            },
+            {
+              "text": "are",
+              "italic": true
+            },
+            {
+              "text": " trash\"). But in AAVE, it is common for speakers to delete copular verbs (e.g., \"he ø growing up fast\") or to singularize copulas with plural subjects (e.g., \"these rappers "
+            },
+            {
+              "text": "is ",
+              "italic": true
+            },
+            {
+              "text": "trash\"). Snow's verse includes both standard and AAVE-adjacent copula structures. Additionally, she makes use of the "
+            },
+            {
+              "text": "\"be\"",
+              "italic": true
+            },
+            {
+              "text": ", a structure originated in African American communities to mark habitual aspect, creating a contrast where \"he "
+            },
+            {
+              "text": "is",
+              "italic": true
+            },
+            {
+              "text": " having a crisis,\" indicates the crisis is isolated to the present moment and \"he "
+            },
+            {
+              "text": "be",
+              "italic": true
+            },
+            {
+              "text": " having a crisis,\" indicates the crisis is repeated and ongoing. The tandem use of these racially and artistically marked structures alongside unmarked English and (un)marked Spanish lyrics not only help Snow negotiate her identity through her artistic style as a rapper; they also help locate that style in the broader musical lineage of hip-hop. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "b5512011-583d-417d-bf6c-4edb42870b3a"
+    }
+  ],
   "set": "Default",
   "event_id": "107099c6-f52b-445f-90ce-639e1a0d5ac8",
   "source_id": "3db28e2f-82f6-471c-82d3-39a16a032632"
