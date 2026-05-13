@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 122,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Listen here as Jade Thirlwall (yellow subtitles) and Leigh-Anne Pinnock (white subtitles) discuss their experiences as racialized women in the international pop music industry. You will hear that Jade has a distinctly Geordie accent that sounds different from Leigh-Anne's accent.  "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a8b84623-acb0-44f4-b9d0-9d5f7367d422"
+    }
+  ],
   "set": "Default",
   "event_id": "1086b5ac-b2ae-401a-a841-2d3d24a6eaa9",
   "source_id": "0b392038-9959-436c-ad29-783989012226"
