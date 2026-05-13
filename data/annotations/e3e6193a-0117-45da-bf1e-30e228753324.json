@@ -1,35 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 159,
-      "end_time": 164,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "[sabe'] que me tienta papacito yo sÃ­ tengo el arte pa' seducir"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "s-reduction"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "phonology"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Ivy Queen"
-        }
-      ],
-      "uuid": "9e2d1c8f-d1e6-45f3-b319-872ab7bf88f6"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "cb8196ae-b0c9-449c-9066-a31cbfd78c1b",
   "source_id": "b9158ed2-282e-4e81-a0a2-f8c6e8da861c"
