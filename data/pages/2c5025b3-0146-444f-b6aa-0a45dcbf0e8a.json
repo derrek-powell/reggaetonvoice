@@ -638,7 +638,7 @@
       ],
       "event1": {
         "uuid": "cfbc0cfd-3893-4f88-8cd2-13c07bfe54a2",
-        "start": 122,
+        "start": 120,
         "end": 170,
         "file": "8eb985e9-475e-49bc-8d80-2693ca9ba879",
         "type": "Video"
@@ -1727,6 +1727,6 @@
   "slug": "alveolar-fricatives-in-coda",
   "created_at": "2026-03-14T00:01:39.983Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-13T21:59:43.340Z",
+  "updated_at": "2026-05-13T22:17:46.185Z",
   "updated_by": "derrek-powell"
 }
