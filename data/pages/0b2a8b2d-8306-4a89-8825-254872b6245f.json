@@ -164,7 +164,8 @@
       "uuid": "1086b5ac-b2ae-401a-a841-2d3d24a6eaa9",
       "includes": [
         "media",
-        "label"
+        "label",
+        "annotations"
       ],
       "start": 122,
       "end": 217,
@@ -187,7 +188,8 @@
     {
       "includes": [
         "media",
-        "label"
+        "label",
+        "annotations"
       ],
       "event1": {
         "uuid": "e0ed7bf3-bc89-4c8b-92d1-5066813b60d3",
@@ -223,6 +225,16 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
           "text": "More recent empirical work frames this phenomenon as one of artistic alignment rather than dialectal imitation. In 2019, sociolinguist Andy Gibson tested whether these \"American-sounding” features in singing were intentional or responsive shifts triggered by singing in the music of popular New Zealand vocalists. By comparing artists’ speaking with spoken and sung recitations of lyrics, he found that vowel qualities consistently shifted toward those associated with U.S. English "
         },
         {
@@ -246,8 +258,7 @@
         {
           "text": ". Across subsequent studies, Gibson has demonstrated that these features are not acts of appropriation, but rather emergent properties of singing within particular genre conventions."
         }
-      ],
-      "align": "justify"
+      ]
     },
     {
       "type": "paragraph",
@@ -979,6 +990,6 @@
   "slug": "singing-style",
   "created_at": "2026-03-13T23:02:07.262Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-13T19:31:00.010Z",
+  "updated_at": "2026-05-13T19:42:34.651Z",
   "updated_by": "derrek-powell"
 }
