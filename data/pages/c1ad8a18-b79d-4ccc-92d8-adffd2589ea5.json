@@ -221,7 +221,8 @@
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "image",
@@ -521,6 +522,6 @@
   "slug": "phonology",
   "created_at": "2026-03-13T23:05:55.197Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-13T21:55:47.727Z",
+  "updated_at": "2026-05-14T18:55:45.704Z",
   "updated_by": "derrek-powell"
 }
