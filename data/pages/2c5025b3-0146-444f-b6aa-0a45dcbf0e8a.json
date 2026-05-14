@@ -752,6 +752,15 @@
       "align": "justify",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
           "text": "Consistently, all coda /s/ are susceptible to reduction, though it is consistently preconsonantal /s/ that favors reduction over prevocalic tokens. Additionally, in some studies, etymological /s/ appears more likely to be reduced than when the sibilant marks 2nd-person verb forms or pluralizes nouns (e.g., ¿"
         },
         {
@@ -836,10 +845,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This is a productive contrast that is identifiable across the music of different artists. It also remains present in collaborations where multiple voices associated with different genres and styles sing together. That is, even within the same composition, reduced /s/ variants delineate sonic, thematic, and poetic space through their association with distinct musical lineages. For example, in \"Bella y Sensual\", Daddy Yankee remains almost categorically s-less in contrast to the bachata singer Romeo Santos, who is near categorically s-full, despite both vocalists being of Hispano-Caribbean origins. "
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "This is a productive contrast that is identifiable across the music of different artists. It also remains present in collaborations where multiple voices associated with different genres and styles sing together. That is, even within the same composition, reduced /s/ variants delineate sonic, thematic, and poetic space through their association with distinct musical lineages. For example, in \"Bella y Sensual\", Daddy Yankee remains almost categorically s-less in contrast to the bachata singer Romeo Santos, who is near categorically s-full, despite both vocalists being of Hispano-Caribbean origins. "
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -887,6 +905,24 @@
     },
     {
       "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": ""
@@ -1010,10 +1046,28 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This tendency to use more reduction, but restricted to reggaetón, has also been documented in the music of both native and non-native speakers of Spanish, such as Medellinense singers J Balvin and Karol G and the Brazilian crossover artist Anitta. Moreover, the current research on /s/ production suggests that not only is reduction the preferred variant independent of artists' unique sociolinguistic backgrounds, but also that the rate of reduction across performances converges towards a range upwards of 50%. This is highly suggestive that reduced /s/ is now enregistered as a standard phonological element of the reggaetón voice. Importantly, this has been identified as a relatively novel and emergent pattern, first gaining widespread recognizability and conformity in the late 2010s and 2020s. "
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "This tendency to use more reduction, but restricted to reggaetón, has also been documented in the music of both native and non-native speakers of Spanish, such as Medellinense singers J Balvin and Karol G and the Brazilian crossover artist Anitta. Moreover, the current research on /s/ production suggests that not only is reduction the preferred variant independent of artists' unique sociolinguistic backgrounds, but also that the rate of reduction across performances converges towards a range upwards of 50%. This is highly suggestive that reduced /s/ is now enregistered as a standard phonological element of the reggaetón voice. Importantly, this has been identified as a relatively novel and emergent pattern, first gaining widespread recognizability and conformity in the late 2010s and 2020s. "
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -1878,6 +1932,6 @@
   "slug": "alveolar-fricatives-in-coda",
   "created_at": "2026-03-14T00:01:39.983Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-14T18:39:05.486Z",
+  "updated_at": "2026-05-14T20:31:19.520Z",
   "updated_by": "derrek-powell"
 }
