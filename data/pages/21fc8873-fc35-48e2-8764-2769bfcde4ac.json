@@ -202,16 +202,100 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
       "children": [
         {
+          "italic": true,
           "text": ""
         }
-      ],
-      "align": "center"
+      ]
     },
     {
       "type": "paragraph",
-      "align": "center",
+      "align": "justify",
+      "children": [
+        {
+          "italic": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "image",
+              "url": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/90BB/production/_99315073_puelto-rico.jpg.webp",
+              "caption": "Credit BBC",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "scale": 84
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "align": "center"
+            },
+            {
+              "type": "image",
+              "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/Screenshot%202026-05-14%20at%2016.23.52.png?raw=true",
+              "caption": "Coda Liquid Allophones (based on Ortiz López 2022) ",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -219,36 +303,13 @@
       ]
     },
     {
-      "type": "image",
-      "url": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/90BB/production/_99315073_puelto-rico.jpg.webp",
-      "caption": "Credit BBC",
+      "type": "paragraph",
       "children": [
         {
           "text": ""
         }
       ],
-      "scale": 74,
       "align": "center"
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "color": "#050505",
-          "text": ""
-        }
-      ],
-      "align": "center"
-    },
-    {
-      "type": "paragraph",
-      "align": "center",
-      "children": [
-        {
-          "color": "#050505",
-          "text": ""
-        }
-      ]
     },
     {
       "type": "paragraph",
@@ -578,6 +639,15 @@
       "children": [
         {
           "text": "Crucially, the meanings associated with lambdacism are not fixed, but mediated by raciolinguistic ideologies and politics of perception. Studies show that the same [l] may be evaluated positively when attributed to a Puerto Rican speaker, but negatively when attributed to a Dominican speaker. In this sense, lambdacism reflects how the meanings associated with phonological features emerge not from the sounds themselves, but from how those sounds are heard/evaluated within the broader semiotic ecology of speakers. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -1013,6 +1083,6 @@
   "slug": "alveolar-taps-in-coda",
   "created_at": "2026-03-14T00:15:16.919Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-14T20:13:50.841Z",
+  "updated_at": "2026-05-14T20:26:43.924Z",
   "updated_by": "derrek-powell"
 }
