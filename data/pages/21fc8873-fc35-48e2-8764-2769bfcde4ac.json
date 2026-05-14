@@ -2,16 +2,6 @@
   "content": [
     {
       "type": "paragraph",
-      "children": [
-        {
-          "text": "Alveolar Taps in Coda",
-          "textSize": "heading-one"
-        }
-      ],
-      "align": "center"
-    },
-    {
-      "type": "paragraph",
       "align": "left",
       "children": [
         {
@@ -62,7 +52,7 @@
       "children": [
         {
           "textSize": "heading-three",
-          "text": "A Brief History "
+          "text": "Lambdacism of /ɾ/ in Puerto Rico "
         }
       ]
     },
@@ -71,99 +61,48 @@
       "align": "left",
       "children": [
         {
-          "text": "The working theory is a combination of rhotacism from Andalusia and the Canary Islands and an approximation of rhotics absent in the African languages of the people captured and enslaved from the west coast of Africa.",
-          "color": "#f7f3f3"
+          "textSize": "heading-three",
+          "text": ""
         }
       ]
     },
     {
       "type": "paragraph",
-      "align": "left",
+      "align": "justify",
       "children": [
         {
-          "text": "",
-          "color": "#f7f3f3"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "One of the most recognizable phonological features associated with Puerto Rican Spanish is the variable realization of syllable-final /ɾ/, commonly referred to as ",
-          "color": "#f7f3f3"
+          "text": "Perhaps the most iconic phonological variation of Puerto Rican Spanish is the lambdacism of coda alveolar taps ",
+          "color": "#050505"
         },
         {
-          "text": "lambdacism",
-          "italic": true,
-          "color": "#f7f3f3"
+          "text": "/ɾ/. This is a process of "
         },
         {
-          "text": " (i.e., the lateralization of /ɾ/ to [l], as in ",
-          "color": "#f7f3f3"
+          "text": "rephonologization",
+          "bold": true
         },
         {
-          "text": "parte",
-          "italic": true,
-          "color": "#f7f3f3"
+          "text": ", a sociolinguistic development whereby the production of one sound gradually changes in terms of articulation. With lambdacism, the tip and blade of the tongue do not extend to tap the alveolar ridge as is done with a canonical /ɾ/, but instead extend to touch and linger on the side of the ridge to produce a sound more akin to /l/ (e.g., \""
         },
         {
-          "text": " → [ˈpalte]). Like /s/ weakening, this feature is part of a broader set of consonant neutralizations characteristic of Caribbean Spanish, where contrasts between liquids in coda position are often reduced. While this process is not unique to Puerto Rico, it has become especially salient in popular and metalinguistic discourse, where speakers are stereotypically described as “diciendo ",
-          "color": "#f7f3f3"
-        },
-        {
-          "text": "ele por ere",
-          "italic": true,
-          "color": "#f7f3f3"
-        },
-        {
-          "text": "” .",
-          "color": "#f7f3f3"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "color": "#f7f3f3"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Phonetically, /ɾ/ in Puerto Rican Spanish exhibits a wide range of variation beyond simple lateralization. In addition to the prescriptive tap [ɾ], scholars document lateral variants [l] and [ɭ], rhotic approximants [ɹ]/[ɻ] (similar to English ",
-          "color": "#f7f3f3"
+          "text": "amo",
+          "italic": true
         },
         {
           "text": "r",
           "italic": true,
-          "color": "#f7f3f3"
+          "underline": true,
+          "bold": true
         },
         {
-          "text": "), gemination of following consonants, and occasional deletion. Earlier variationist work often reduced this system to a binary contrast between [ɾ] and [l], mapping it onto a prestige–stigma continuum. More recent research, however, shows that this variation is far more complex, with different variants carrying distinct social meanings depending on context, speaker, and listener perception.",
-          "color": "#f7f3f3"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "\" [a'moɾ] > [a'mol]). Another term for this phenomenon is "
+        },
         {
-          "text": "",
-          "color": "#f7f3f3"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "lateralization",
+          "bold": true
+        },
         {
-          "text": "",
-          "color": "#f7f3f3"
+          "text": ", because a sound that is not lateral-like (i.e., like an < l >) is acquiring the gestural properties of /l/. "
         }
       ]
     },
@@ -172,8 +111,92 @@
       "align": "left",
       "children": [
         {
-          "text": "",
-          "color": "#f7f3f3"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Lambdacism has been a site of interest in Puerto Rican linguistics since as early as the late 1940s. The origins of this feature are debated, though most scholars today accept a theory of language contact between Spaniards and the enslaved West Africans brought to the Island during colonization. Accordingly, the Spaniards who majorly populated Puerto Rico—being from Andalusia and the Canary Islands—brought with them their "
+        },
+        {
+          "text": "rhotacism",
+          "italic": true
+        },
+        {
+          "text": " and "
+        },
+        {
+          "text": "consonantal gemination",
+          "italic": true
+        },
+        {
+          "text": ", wherein coda /l/ is pronounced as /ɾ/ or /ɹ/ (e.g., \""
+        },
+        {
+          "text": "ca",
+          "italic": true
+        },
+        {
+          "text": "l",
+          "italic": true,
+          "underline": true,
+          "bold": true
+        },
+        {
+          "text": "do",
+          "italic": true
+        },
+        {
+          "text": "\" ['ka"
+        },
+        {
+          "text": "ɹ",
+          "bold": true,
+          "underline": true
+        },
+        {
+          "text": "∂o]) or co-articulated with the following sound (e.g., ['ka"
+        },
+        {
+          "text": "dd",
+          "bold": true,
+          "underline": true
+        },
+        {
+          "text": "o]). Given the lack of alveolar rhotics, taps, and trills in West African languages, upon learning Spanish, the captured and enslaved persons brought to the Island had to approximate these sounds with those already present in their native phonological systems. This was largely accomplished with an alveolar lateral /l/ or a lateral approximant (e.g., \""
+        },
+        {
+          "text": "pue",
+          "italic": true
+        },
+        {
+          "text": "r",
+          "italic": true,
+          "bold": true,
+          "underline": true
+        },
+        {
+          "text": "to",
+          "italic": true
+        },
+        {
+          "text": "\" ['pwe"
+        },
+        {
+          "text": "l",
+          "bold": true,
+          "underline": true
+        },
+        {
+          "text": "to]). Over time, the constant contact between rhotacism, gemination, and lambdacism gave way to the sounds that have become emblematic of the speech of \""
+        },
+        {
+          "text": "PueLto Rico\".  ",
+          "italic": true
         }
       ]
     },
@@ -182,14 +205,69 @@
       "align": "left",
       "children": [
         {
-          "textSize": "heading-three",
-          "text": "",
-          "color": "#f7f3f3"
+          "text": ""
         }
       ]
     },
     {
-      "type": "horizontal-separator",
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "color": "#050505",
+          "text": "[Image of PueLto Rico sign BBC] [Image of r variants] "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "color": "#050505",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "color": "#050505",
+          "text": "For many years, scholars treated lambdacism as a case of "
+        },
+        {
+          "text": "neutralization",
+          "color": "#050505",
+          "bold": true
+        },
+        {
+          "text": " whereby ",
+          "color": "#050505"
+        },
+        {
+          "text": "/ɾ/ was slowly being replaced by /l/. However, technological advancements in acoustic analysis have helped to empirically challenge this assertion. While it is true that individual speakers use lambdacism at varying rates—some of which could be considered a complete neutralization—generally speaking, speakers use a combination of sounds ranging from the prescriptive tap to canonical laterals. These can include an alveolar lateral [l] and an approximant [ɭ], an alveolar rhotic approximant [ɹ] sounding similar to English < "
+        },
+        {
+          "text": "r ",
+          "italic": true
+        },
+        {
+          "text": ">, gemination to the following consonant, occasional deletion, and an intermediary rhotic-lateral hybrid, sometimes termed a retroflex rhotic approximant [ɻ]. Notably, it is attested that most speakers favor approximant laterals and rhotics in spontaneous speech, and that this constitutes a continuum wherein sounds are realized as either more-or-less lateral-like rather than a full canonical lateral. This is to say that in cases like \""
+        },
+        {
+          "text": "olvidar",
+          "italic": true
+        },
+        {
+          "text": ",\" while the coda tap may lateralize toward /l/, the  < l > and < r > will showcase acute phonetic differences. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": ""
@@ -200,8 +278,51 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "color": "#f7f3f3"
+          "text": "While the distinction between these sounds is readily audible to many Puerto Rican listeners, some studies find that listeners from other backgrounds are less successful at identifying when a sound approximates a rhotic rather than a lateral. In other words, non-Puerto Rican listeners may perceive an /l/ even when no canonical [l] was produced. For this reason, and because the feature is often highly gradient, most scholars rely on acoustic cues to identify and classify liquid production. This is typically done by tracking "
+        },
+        {
+          "text": "formants",
+          "bold": true
+        },
+        {
+          "text": ", which are concentrations of acoustic energy at particular frequency ranges. In adult speakers, the third and fourth formants (F3 and F4) are especially useful for distinguishing rhotic and lateral realizations, with F3 often falling roughly between 1,500–3,000 Hz and F4 commonly appearing in the 3,000–4,500 Hz range (though these values vary depending on speaker anatomy and vocal tract size).  "
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "In rhotic sounds such as [ɹ], F3 is characteristically lowered, creating a relatively large separation between F3 and F4 that gives the sound its distinctive “r-colored” quality. By contrast, lateral sounds such as [l] tend to show a higher F3, and the distance between F3 and F4 narrows as the two formants converge when the tongue makes contact and redirects the airflow around the sides of the mouth. When data are collected in controlled recording environments, these differences are often clearly visible in a spectrogram, especially when automatic formant tracking is applied. In noisier recordings—such as music or speech collected in public settings—researchers may use a band-pass filter to isolate the frequency ranges where formants are most visible and thereby facilitate measurement. Another useful metric is segment duration: rhotic approximants often have longer durations than lateral realizations, providing an additional acoustic cue for distinguishing between the two."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "[Insert Spectrograms] "
         }
       ]
     },
@@ -210,27 +331,52 @@
       "align": "left",
       "children": [
         {
-          "textSize": "heading-three",
-          "text": "Variation in Puerto Rico ",
-          "color": "#f7f3f3"
+          "color": "#050505",
+          "text": ""
         }
       ]
     },
     {
       "type": "paragraph",
+      "align": "left",
       "children": [
         {
-          "text": "Socially, the prescriptive [ɾ] is typically associated with formality, education, and institutional authority, aligning with broader standard language ideologies. Lateralization [l], by contrast, has historically been stigmatized as nonstandard or vulgar, often linked to working-class, rural, or older male speakers. At the same time, newer studies show shifting evaluations, with younger Puerto Ricans sometimes reevaluating [l] as a marker of authenticity, informality, and local identity. In particular, exaggerated or stylized uses of [l] are associated with ",
-          "color": "#f7f3f3"
+          "text": "",
+          "color": "#050505"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "color": "#050505",
+          "text": "Some earlier work on lambdacism mapped this feature binarily onto a prestige-stigma continuum, wherein the prescriptive tap /"
+        },
+        {
+          "text": "ɾ/ was depicted as the standard, \"full,\" form associated with notions of education and formality. However, more recent research shows that the perception of lambdacism is far more complex. There is evidence showing speakers associate [ɾ] with formality, education, and institutional authority in alignment with broader standard language ideologies. However, some speakers associate these qualities with lambdacism, with the exception of its standardization. Regardless, [l] seems to carry associations relating to notions of ethnocultural authenticity, informality, locality, a casual demeanor, and, in certain contexts, humor and exaggeration. There are even some studies suggesting the feature is more commonly associated with working-class, rural, or elderly male speakers, though this has been contested by work finding no gendered connection made by the participants in their sample. There is also work examining how the use of [l] is associated with the young, urban masculinities, underscoring what is known locally as a "
         },
         {
           "text": "caco",
-          "italic": true,
-          "color": "#f7f3f3"
+          "italic": true
         },
         {
-          "text": " personae—urban, working-class masculinities tied to reggaetón culture—illustrating how the feature can be mobilized as a positive stylistic resource in the right context .",
-          "color": "#f7f3f3"
+          "text": " persona. Contrastively, the rhotic approximant [ɹ] is associated with images of bilingualism and, in particular, of wealthy, educated, and white femininity localized to the areas of Miramar and Guaynabo. Rhotics are also heard at times as the speech of "
+        },
+        {
+          "text": "yales",
+          "italic": true
+        },
+        {
+          "text": ", or the feminine counterpart to the "
+        },
+        {
+          "text": "caco",
+          "italic": true
+        },
+        {
+          "text": " persona. "
         }
       ]
     },
@@ -238,36 +384,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n",
-          "color": "#f7f3f3"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Crucially, as with /s/, the meanings of lambdacism are not fixed—they are mediated by raciolinguistic perception. Studies show that the same lateralized variant [l] may be evaluated positively when attributed to a Puerto Rican speaker, but negatively when attributed to a Dominican speaker, reflecting broader hierarchies of race, nationality, and belonging on the island . In this sense, lambdacism is not simply a phonological feature; it is part of a larger indexical field through which listeners interpret identity. Its social meaning emerges not from the sound itself, but from how that sound is heard, categorized, and linked to socially recognizable types of speakers.",
-          "color": "#f7f3f3"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n",
-          "color": "#f7f3f3"
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://drive.google.com/file/d/1Ja6E2oDldee4Djq1y59ttPVW5SuSgMQR/view?usp=sharing",
-      "caption": "Indexical Field of Lambdacism ",
-      "children": [
-        {
+          "color": "#050505",
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[Insert indexical field] ",
+          "color": "#0d0c0c"
         }
       ],
       "align": "center"
@@ -277,9 +404,58 @@
       "children": [
         {
           "text": "",
+          "color": "#0d0c0c"
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "color": "#0d0c0c",
+          "text": "\nCrucially, the meanings associated with lambdacism are not fixed, but mediated by raciolinguistic ideologies and politics of perception. Studies show that the same [l] may be evaluated positively when attributed to a Puerto Rican speaker, but negatively when attributed to a Dominican speaker. In this sense, lambdacism reflects how the meanings associated with phonological features emerge not from the sounds themselves, but from how those sounds are heard/evaluated within the broader semiotic ecology of speakers. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "color": "#0d0c0c"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "color": "#0d0c0c",
+          "text": "[Insert indexical Field] "
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n",
           "color": "#f7f3f3"
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "color": "#f7f3f3"
+        }
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -615,6 +791,6 @@
   "slug": "alveolar-taps-in-coda",
   "created_at": "2026-03-14T00:15:16.919Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-12T21:09:54.063Z",
+  "updated_at": "2026-05-14T19:54:27.259Z",
   "updated_by": "derrek-powell"
 }
