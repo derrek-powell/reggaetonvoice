@@ -1055,11 +1055,355 @@
       ]
     },
     {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
-          "textSize": "heading-two",
+          "text": "Recommended Readings",
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Beaton, M. E. (2015). "
+        },
+        {
+          "text": "Coda Liquid Production and Perception in Puerto Rican Spanish.",
+          "italic": true
+        },
+        {
+          "text": " [Doctoral Dissertation]. Ohio State University."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Beaton, M. E., Chappell, W., & Dauphinais Civitello, A. (2024). Puerto Rican welfare queens and the semiotics of respectability: The language of race, class, and gender. "
+        },
+        {
+          "text": "Journal of Sociolinguistics",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "28",
+          "italic": true
+        },
+        {
+          "text": "(3). "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1111/josl.12655",
+          "children": [
+            {
+              "text": "https://doi.org/10.1111/josl.12655"
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1111/josl.12655",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1111/josl.12655",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "text": "Delgado Díaz, G., Galarza, I., & Díaz-Campos, M. (2021). Complex attitudes towards two sociolinguistic variables and their social meanings: Providing evidence from production and perception data in a speech community. "
+        },
+        {
+          "text": "Aspects of Latin American Spanish Dialectology",
+          "italic": true
+        },
+        {
+          "text": ", 125–153. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Emmanuelli, M. (2000). Valoración social y actuación lingüística hacia algunas variantes fonológicas del español puertorriqueño. "
+        },
+        {
+          "text": "Revista de Estudios Hispánicos, Universidad de Puerto Rico",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "27",
+          "italic": true
+        },
+        {
+          "text": "(1), 209–219."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Medina-Rivera, A. (2014). Lateralization of syllable final /ɾ/: Phonological consciousness and  its manifestations in oral and written Puerto Rican Spanish. In "
+        },
+        {
+          "text": "Perspectives in the study of Spanish Language Variation",
+          "italic": true
+        },
+        {
+          "text": " (pp. 321–340). Universidade de santiago de Compostela."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ortiz-López, L. A. (2022). El español en Puerto Rico. In F. Moreno-Fernández & R. Caravedo (Eds.), "
+        },
+        {
+          "text": "Dialectología hispánica / The routlidge Handbook of Spanish Dialectology",
+          "italic": true
+        },
+        {
+          "text": " (pp. 344–358). Routledge. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Powell, D. (2022). Yo soy de P FKN R: Mainstream Reggaeton artists’ use of coda [l] as a raciolinguistic marker. "
+        },
+        {
+          "text": "Borealis: An International Journal of Hispanic Linguistics",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "11",
+          "italic": true
+        },
+        {
+          "text": "(2), 7–40."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Powell, D., & Toribio, A. J. (2025). “Yo te digo si tú me puede’ provocaL\" Ivy Queen and the Indexical Value of Lambdacism. In W. Valentín Márquez, C. I. Maymí, & D. Powell (Eds.), "
+        },
+        {
+          "text": "Puerto Rican Spanish, Reggaeton Style! The (Socio)Linguistics of Urban Music.",
+          "italic": true
+        },
+        {
+          "text": " Vernon Press."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ramos, J. E., & Shea, C. (2023). Speaking Race or Racialized Speaking: Evidence from Perceptions of Lateral Variants by Puerto Rican Listeners. "
+        },
+        {
+          "text": "Hispania",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "106",
+          "italic": true
+        },
+        {
+          "text": "(3), 473–494. "
+        },
+        {
+          "type": "link",
+          "url": "https://doi.org/10.1353/hpn.2023.a906575",
+          "children": [
+            {
+              "text": "https://doi.org/10.1353/hpn.2023.a906575 "
+            }
+          ]
+        },
+        {
+          "text": "  "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Shenk, E. M. (2021). Eso es puertorriqueño: The Enregisterment of Lateralization Among Puerto Ricans in the United States. "
+        },
+        {
+          "text": "Centro Journal",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "33",
+          "italic": true
+        },
+        {
+          "text": "(2), 126–165. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Valentín Márquez, W. (2015). Doing being Boricua on the island in the U.S. Midwest: Perceptions of national identity and lateralization of /r/ in Puerto Rican Spanish. In M. Gonzáles-Rivera & S. Sessarego (Eds.), "
+        },
+        {
+          "text": "New Perspectives on Hispanic Contact Linguistics in the Americas.",
+          "italic": true
+        },
+        {
+          "text": " Iberoamericana."
         }
       ]
     }
@@ -1073,6 +1417,6 @@
   "slug": "alveolar-taps-in-coda",
   "created_at": "2026-03-14T00:15:16.919Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-14T20:44:38.953Z",
+  "updated_at": "2026-05-14T21:03:29.113Z",
   "updated_by": "derrek-powell"
 }
