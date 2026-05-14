@@ -661,6 +661,15 @@
       ]
     },
     {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "includes": [
         "media",
         "annotations",
@@ -680,6 +689,14 @@
         "type": "Video"
       },
       "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -895,6 +912,15 @@
       ]
     },
     {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "includes": [
         "media",
         "annotations",
@@ -915,6 +941,22 @@
         "type": "Video"
       },
       "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -1017,6 +1059,22 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "includes": [
         "media",
         "annotations",
@@ -1037,6 +1095,22 @@
         "type": "Video"
       },
       "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -1090,9 +1164,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Below are some figures that trace patterns of s-reduction distributions between singers, genres, and over time to further showcase this convergence toward a standardized singing style. "
+          "text": ""
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Below are some figures that trace patterns of s-reduction distributions between singers, genres, and over time to further showcase this convergence toward a standardized singing style. ",
+          "textSize": "heading-three"
+        }
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -1794,6 +1878,6 @@
   "slug": "alveolar-fricatives-in-coda",
   "created_at": "2026-03-14T00:01:39.983Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-14T17:51:33.961Z",
+  "updated_at": "2026-05-14T18:39:05.486Z",
   "updated_by": "derrek-powell"
 }
