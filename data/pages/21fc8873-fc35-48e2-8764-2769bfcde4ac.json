@@ -491,16 +491,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "align": "left",
-      "children": [
-        {
-          "color": "#050505",
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "grid",
       "layout": [
         3,
@@ -644,12 +634,12 @@
     },
     {
       "type": "paragraph",
-      "align": "justify",
       "children": [
         {
           "text": ""
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -670,7 +660,7 @@
           "text": ""
         }
       ],
-      "scale": 85,
+      "scale": 92,
       "align": "center"
     },
     {
@@ -1083,6 +1073,6 @@
   "slug": "alveolar-taps-in-coda",
   "created_at": "2026-03-14T00:15:16.919Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-14T20:26:43.924Z",
+  "updated_at": "2026-05-14T20:28:22.359Z",
   "updated_by": "derrek-powell"
 }
