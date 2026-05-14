@@ -66,6 +66,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "image",
       "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/Latinization.png?raw=true",
       "caption": "From Solis Miranda (2022) Shifts in Reggaetón Demographics after Mainstream Commercialization (Top L-R: El General, Tego Calderón, Don Omar / Bottom L-R: J Balvin, Maluma, Bad Bunny) ",
@@ -89,6 +97,16 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
           "text": "As reggaetón became a dominant force in global popular music, these dynamics intensified. The genre’s sonic templates for embodied performance rooted in Black-diasporic traditions remained central to its appeal, yet their circulation was increasingly mediated by artists and industry structures positioned closer to whiteness, economic privilege, and transnational mobility. The result is a political economy in which Afro-, Afro-Caribbean, and Caribbean expressive forms more broadly are widely consumed as markers of a generalized, non-threatening "
         },
         {
@@ -98,8 +116,7 @@
         {
           "text": " Latinidad, while the communities and identities most directly tied to their emergence are rendered less visible within mainstream representations. Reggaetón’s Latinization, then, is not simply a story of expansion, but of transformation: a reconfiguration of the genre’s indexical field in which Blackness, language, and marketability are continuously negotiated."
         }
-      ],
-      "align": "justify"
+      ]
     },
     {
       "type": "paragraph",
@@ -237,6 +254,15 @@
       ]
     },
     {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "includes": [
         "media",
         "label"
@@ -248,6 +274,15 @@
         "uuid": "2fc23706-4381-4a9a-8e1c-e85f539f6cec"
       },
       "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": ""
@@ -297,6 +332,15 @@
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -392,6 +436,15 @@
       ]
     },
     {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "1bdf7f8e-6ed9-4fca-a50e-469de22d037c",
       "includes": [
         "media",
@@ -413,12 +466,44 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "87fbea7e-a3f5-4560-baae-3ececfe6aaf1",
       "includes": [
         "media",
         "label"
       ],
       "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -505,6 +590,15 @@
       "children": [
         {
           "text": "Around the same time as the popification and Colombianification of reggaetón, a new countercultural subgenre of reggaetón began to emerge as a countercurrent to the increasingly polished, Latinized reggaetón circulating the global pop markets. Rooted in the sonic aesthetics of U.S. trap (e.g., slower tempos, heavy bass, emphasis on rap flow), Puerto Rican artists began to reactivate the underground sensibilities stripped from reggaetón during its crossover. Artist such as Anuel AA, Bryant Myers, Ozuna, and Bad Bunny used trap to foreground street-coded and localized authenticity amidst an increasingly globalized and culturally flattened industry. These productions helped re-center Puerto Rico within the urbano landscape while also expanding what urbano could sound and feel like by restoring rawness and lyrical confrontation to the market. Moreover, these tracks opened the doors for more fluid experimentation between trap, reggaetón, and broader Caribbean/Latin musical templates. While Latin Trap was met with similar cultural critiques as the Underground decades earlier, technological advancements in music streaming/distribution catapulted Trap to mainstream popularity at speeds that significantly outpaced its predecessor. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -728,6 +822,15 @@
       ]
     },
     {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "490b78b9-3aee-4361-9098-b6f1e59a7118",
       "includes": [
         "media",
@@ -781,6 +884,15 @@
       "children": [
         {
           "text": "\"Despacito\" ushered in a new wave of popularity for Latin Urban music. “Mi Gente” by J Balvin and French DJ Willy William represents a parallel trajectory, foregrounding rhythm and collective participation over melodic crossover. Blending reggaetón with electronic and global club production, the track operates through repetition, chant, and embodied engagement rather than narrative or lyrical complexity."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -897,6 +1009,15 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -987,6 +1108,15 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -1010,10 +1140,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "At the same time, this moment reveals the continued asymmetries within reggaetón’s political economy. The ability to strategically adopt Caribbean features as a resource underscores how Caribbeanness circulates as a commodifiable aesthetic, one that can be mobilized by artists positioned within different national and racial formations. “Bichota” thus encapsulates a key transformation in the genre’s indexical field: where earlier industry logics often required a distancing from Blackness and Afro-Caribbean specificity to achieve crossover success, the late 2010s demonstrate that these very features can be revalued as desirable markers of authenticity, edge, and marketability."
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "At the same time, this moment reveals the continued asymmetries within reggaetón’s political economy. The ability to strategically adopt Caribbean features as a resource underscores how Caribbeanness circulates as a commodifiable aesthetic, one that can be mobilized by artists positioned within different national and racial formations. “Bichota” thus encapsulates a key transformation in the genre’s indexical field: where earlier industry logics often required a distancing from Blackness and Afro-Caribbean specificity to achieve crossover success, the late 2010s demonstrate that these very features can be revalued as desirable markers of authenticity, edge, and marketability."
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -1322,6 +1461,15 @@
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -1921,6 +2069,6 @@
   "slug": "from-reggeaton-to-urbano-latino",
   "created_at": "2026-03-13T23:05:16.653Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-13T21:06:04.050Z",
+  "updated_at": "2026-05-14T18:38:05.339Z",
   "updated_by": "derrek-powell"
 }
