@@ -2,7 +2,7 @@
   "content": [
     {
       "type": "paragraph",
-      "align": "left",
+      "align": "center",
       "children": [
         {
           "textSize": "heading-one",
@@ -15,8 +15,8 @@
       "align": "center",
       "children": [
         {
-          "textSize": "heading-three",
-          "text": "THIS PAGE IS CURRENTLY UNDER CONSTRUCTION"
+          "text": "THIS PAGE IS CURRENTLY UNDER CONSTRUCTION",
+          "textSize": "heading-two"
         }
       ]
     },
@@ -202,7 +202,16 @@
     },
     {
       "type": "paragraph",
-      "align": "left",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
       "children": [
         {
           "text": ""
@@ -210,14 +219,26 @@
       ]
     },
     {
+      "type": "image",
+      "url": "https://ichef.bbci.co.uk/ace/ws/640/cpsprodpb/90BB/production/_99315073_puelto-rico.jpg.webp",
+      "caption": "Credit BBC",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "scale": 74,
+      "align": "center"
+    },
+    {
       "type": "paragraph",
-      "align": "center",
       "children": [
         {
           "color": "#050505",
-          "text": "[Image of PueLto Rico sign BBC] [Image of r variants] "
+          "text": ""
         }
-      ]
+      ],
+      "align": "center"
     },
     {
       "type": "paragraph",
@@ -247,14 +268,7 @@
           "color": "#050505"
         },
         {
-          "text": "/ɾ/ was slowly being replaced by /l/. However, technological advancements in acoustic analysis have helped to empirically challenge this assertion. While it is true that individual speakers use lambdacism at varying rates—some of which could be considered a complete neutralization—generally speaking, speakers use a combination of sounds ranging from the prescriptive tap to canonical laterals. These can include an alveolar lateral [l] and an approximant [ɭ], an alveolar rhotic approximant [ɹ] sounding similar to English < "
-        },
-        {
-          "text": "r ",
-          "italic": true
-        },
-        {
-          "text": ">, gemination to the following consonant, occasional deletion, and an intermediary rhotic-lateral hybrid, sometimes termed a retroflex rhotic approximant [ɻ]. Notably, it is attested that most speakers favor approximant laterals and rhotics in spontaneous speech, and that this constitutes a continuum wherein sounds are realized as either more-or-less lateral-like rather than a full canonical lateral. This is to say that in cases like \""
+          "text": "/ɾ/ was slowly being replaced by /l/. However, technological advancements in acoustic analysis have helped to empirically challenge this assertion. While it is true that individual speakers use lambdacism at varying rates—some of which could be considered a complete neutralization—generally speaking, speakers use a combination of sounds ranging from the prescriptive tap to canonical laterals. These can include an alveolar lateral [l] and an approximant [ɭ], an alveolar rhotic approximant [ɹ] sounding similar to English < r >, gemination to the following consonant, occasional deletion, and an intermediary rhotic-lateral hybrid, sometimes termed a retroflex rhotic approximant [ɻ]. Notably, it is attested that most speakers favor approximant laterals and rhotics in spontaneous speech, and that this constitutes a continuum wherein sounds are realized as either more-or-less lateral-like rather than a full canonical lateral. This is to say that in cases like \""
         },
         {
           "text": "olvidar",
@@ -278,14 +292,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "While the distinction between these sounds is readily audible to many Puerto Rican listeners, some studies find that listeners from other backgrounds are less successful at identifying when a sound approximates a rhotic rather than a lateral. In other words, non-Puerto Rican listeners may perceive an /l/ even when no canonical [l] was produced. For this reason, and because the feature is often highly gradient, most scholars rely on acoustic cues to identify and classify liquid production. This is typically done by tracking "
+          "text": "While the distinction between these sounds is readily audible to many Puerto Rican listeners, some studies find that listeners from other backgrounds are less successful at identifying when a sound approximates a rhotic rather than a lateral. In other words, non-Puerto Rican listeners may perceive an /l/ even when no canonical [l] was produced. For this reason, and because the feature is highly gradient, most scholars rely on acoustic cues to identify and classify liquid production. This is typically done by tracking "
         },
         {
           "text": "formants",
           "bold": true
         },
         {
-          "text": ", which are concentrations of acoustic energy at particular frequency ranges. In adult speakers, the third and fourth formants (F3 and F4) are especially useful for distinguishing rhotic and lateral realizations, with F3 often falling roughly between 1,500–3,000 Hz and F4 commonly appearing in the 3,000–4,500 Hz range (though these values vary depending on speaker anatomy and vocal tract size).  "
+          "text": ", which are concentrations of acoustic energy at particular frequency ranges. In adult speakers, the third and fourth formants (F3 and F4) are especially useful for distinguishing rhotic and lateral realizations, with F3 often falling roughly between 1,500–3,000 Hz and F4 commonly appearing in the 3,000–4,500 Hz range (though these values vary depending on speaker anatomy and vocal tract size). Formants aren't needed to identify instances of [ɾ], as this sound evinces a visible stop of air in the spectrogram. "
         }
       ],
       "align": "justify"
@@ -304,7 +318,7 @@
       "align": "justify",
       "children": [
         {
-          "text": "In rhotic sounds such as [ɹ], F3 is characteristically lowered, creating a relatively large separation between F3 and F4 that gives the sound its distinctive “r-colored” quality. By contrast, lateral sounds such as [l] tend to show a higher F3, and the distance between F3 and F4 narrows as the two formants converge when the tongue makes contact and redirects the airflow around the sides of the mouth. When data are collected in controlled recording environments, these differences are often clearly visible in a spectrogram, especially when automatic formant tracking is applied. In noisier recordings—such as music or speech collected in public settings—researchers may use a band-pass filter to isolate the frequency ranges where formants are most visible and thereby facilitate measurement. Another useful metric is segment duration: rhotic approximants often have longer durations than lateral realizations, providing an additional acoustic cue for distinguishing between the two."
+          "text": "But in rhotic sounds such as [ɹ], F3 is characteristically lowered, creating a relatively large separation between F3 and F4 that gives the sound its distinctive “r-colored” quality. By contrast, lateral sounds such as [l] tend to show a higher F3, and the distance between F3 and F4 narrows as the two formants converge when the tongue makes contact and redirects the airflow around the sides of the mouth. When data are collected in controlled recording environments, these differences are often clearly visible in a spectrogram, especially when automatic formant tracking is applied. In noisier recordings—such as music or speech collected in public settings—researchers may use a band-pass filter to isolate the frequency ranges where formants are most visible and thereby facilitate measurement. Another useful metric is segment duration: rhotic approximants often have longer durations than lateral realizations, providing an additional acoustic cue for distinguishing between the two."
         }
       ]
     },
@@ -322,7 +336,86 @@
       "align": "center",
       "children": [
         {
-          "text": "[Insert Spectrograms] "
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/DD_L.png?raw=true",
+              "caption": "[ɹ] (no formant tracking, from Delgado-Díaz et al. (2021))",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/DD_L2.png?raw=true",
+              "caption": "[l] (no formant tracking, from Delgado-Díaz et al. (2021))",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -332,6 +425,95 @@
       "children": [
         {
           "color": "#050505",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "color": "#050505",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/IvyQueen_AlveolarApproximate.png?raw=true",
+              "caption": "[ɹ] with formant tracking (produced by Ivy Queen) ",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/BadBunny_Lateral(Formants).png?raw=true",
+              "caption": "[l] with formant tracking (produced by Bad Bunny) ",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -382,6 +564,7 @@
     },
     {
       "type": "paragraph",
+      "align": "center",
       "children": [
         {
           "color": "#050505",
@@ -391,10 +574,40 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
       "children": [
         {
-          "text": "[Insert indexical field] ",
+          "text": "Crucially, the meanings associated with lambdacism are not fixed, but mediated by raciolinguistic ideologies and politics of perception. Studies show that the same [l] may be evaluated positively when attributed to a Puerto Rican speaker, but negatively when attributed to a Dominican speaker. In this sense, lambdacism reflects how the meanings associated with phonological features emerge not from the sounds themselves, but from how those sounds are heard/evaluated within the broader semiotic ecology of speakers. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
           "color": "#0d0c0c"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "image",
+      "url": "https://github.com/derrek-powell/reggaetonvoice/blob/main/images/L%20Indexical%20Field.png?raw=true",
+      "caption": "Indexical Field of Perceptions of Liquid Production",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "scale": 85,
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ],
       "align": "center"
@@ -411,51 +624,57 @@
     },
     {
       "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "Inspired by [CITE]. Stances are marked with "
+        },
+        {
+          "text": "italics",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "traits/qualities",
+          "bold": true
+        },
+        {
+          "text": " in bold, and speaker categories/voices in boxes. "
+        },
+        {
+          "text": "Blue",
+          "color": "#5c9bd6"
+        },
+        {
+          "text": " are indexical associations linked to taps /ɾ/, "
+        },
+        {
+          "text": "red",
+          "color": "#ce1c1c"
+        },
+        {
+          "text": " represents rhotic approximants /ɹ/, "
+        },
+        {
+          "text": "green",
+          "color": "#1cce52"
+        },
+        {
+          "text": " laterals /l/, and black full deletions."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "align": "justify",
       "children": [
         {
           "color": "#0d0c0c",
-          "text": "\nCrucially, the meanings associated with lambdacism are not fixed, but mediated by raciolinguistic ideologies and politics of perception. Studies show that the same [l] may be evaluated positively when attributed to a Puerto Rican speaker, but negatively when attributed to a Dominican speaker. In this sense, lambdacism reflects how the meanings associated with phonological features emerge not from the sounds themselves, but from how those sounds are heard/evaluated within the broader semiotic ecology of speakers. "
+          "text": "\n"
         }
       ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "color": "#0d0c0c"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "color": "#0d0c0c",
-          "text": "[Insert indexical Field] "
-        }
-      ],
-      "align": "center"
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "\n",
-          "color": "#f7f3f3"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "",
-          "color": "#f7f3f3"
-        }
-      ],
-      "align": "center"
     },
     {
       "type": "paragraph",
@@ -478,9 +697,31 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Lambdacism in Reggaetón ",
+          "text": "THIS PAGE IS CURRENTLY UNDER CONSTRUCTION",
+          "textSize": "heading-two"
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "textSize": "heading-three",
-          "color": "#f7f3f3"
+          "color": "#070807",
+          "text": ""
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-three",
+          "color": "#070807",
+          "text": "Lambdacism in Reggaetón "
         }
       ]
     },
@@ -488,36 +729,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Within reggaetón and other forms of Latin urban music, lambdacism functions as a key stylistic resource. Like /s/ reduction, it has become enregistered as part of a recognizable “reggaetón voice,” allowing performers to index Caribbeanness, urbanity, and particular gendered or classed identities through phonological variation. What begins as a local pattern of consonant neutralization thus becomes a globally circulating marker of style—one that artists can adopt, exaggerate, or resist in the construction of their musical personae.",
-          "color": "#f7f3f3"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "textSize": "heading-two",
           "text": "",
           "color": "#f7f3f3"
         }
       ]
     },
     {
-      "type": "horizontal-separator",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "type": "paragraph",
       "children": [
         {
-          "text": "Listen Here",
-          "textSize": "heading-three",
-          "color": "#f7f3f3"
+          "color": "#f7f3f3",
+          "text": "Within reggaetón and other forms of Latin urban music, lambdacism functions as a key stylistic resource. Like /s/ reduction, it has become enregistered as part of a recognizable “reggaetón voice,” allowing performers to index Caribbeanness, urbanity, and particular gendered or classed identities through phonological variation. What begins as a local pattern of consonant neutralization thus becomes a globally circulating marker of style—one that artists can adopt, exaggerate, or resist in the construction of their musical personae.v"
         }
       ]
     },
@@ -791,6 +1013,6 @@
   "slug": "alveolar-taps-in-coda",
   "created_at": "2026-03-14T00:15:16.919Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-14T19:54:27.259Z",
+  "updated_at": "2026-05-14T20:13:50.841Z",
   "updated_by": "derrek-powell"
 }
