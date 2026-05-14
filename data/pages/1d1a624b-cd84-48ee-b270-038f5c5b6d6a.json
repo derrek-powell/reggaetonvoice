@@ -236,6 +236,15 @@
       ]
     },
     {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "grid",
       "layout": [
         3,
@@ -345,10 +354,27 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "With the growth and influence of New York's Jamaican community in the 1980s, by the 1990s dancehall had worked its way into the sets of hip-hop DJs and became a culturally charged feature of the New York soundscape. These riddims, such as the examples below, would later be incorporated into the underground recordings that laid the musical foundations for reggaetón in San Juan.  "
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "With the growth and influence of New York's Jamaican community in the 1980s, by the 1990s dancehall had worked its way into the sets of hip-hop DJs and became a culturally charged feature of the New York soundscape. These riddims, such as the examples below, would later be incorporated into the underground recordings that laid the musical foundations for reggaetón in San Juan.  "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -455,6 +481,15 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -523,7 +558,15 @@
           "italic": true
         },
         {
-          "text": ". "
+          "text": "."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": " "
         }
       ]
     },
@@ -569,6 +612,14 @@
         },
         {
           "text": " (1991, prod. Karl Miller), which provided a template for layering Spanish-language lyrics over Jamaican riddims. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -653,6 +704,15 @@
         },
         {
           "text": "(1991), a calculated attempt to develop a Latin pop/rap hybrid by bringing rising Puerto Rican rappers together with established merengue musicians. The track \"Te Ves Buena Remix,\" —a sample-based, hip-hop-inflected remix of El General's dancehall track by the same name— is perhaps the closest track on this project to sound like the productions soon to emerge from the parallel, grassroots development of rap-reggae fusions in San Juan. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -769,8 +829,16 @@
           "text": ""
         }
       ],
-      "scale": 80,
+      "scale": 92,
       "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -792,6 +860,15 @@
         "uuid": "911a9c9c-3a54-4d37-9aa1-eae8947232d7"
       },
       "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": ""
@@ -908,7 +985,7 @@
                   "text": ""
                 }
               ],
-              "scale": 60,
+              "scale": 55,
               "align": "center"
             },
             {
@@ -949,7 +1026,7 @@
                   "text": ""
                 }
               ],
-              "scale": 95,
+              "scale": 100,
               "align": "center"
             },
             {
@@ -976,10 +1053,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Thanks to technological developments in tools for producing and distributing recordings, reggaetón was no longer bound by Puerto Rico's shores or even the broader diasporic circuits in New York. Artists began to mix the dancehall-inspired riddims like the dembow template with the propulsive sounds of techno/tecno and later the \"tropical\" sounds of bachata and salsa. Established producers such as DJ Playero, DJ Nelson, and DJ Joe, as well as newcomers like DJ Blass, helped move the genre's primary sound sources from samples to synthesizers resonant of trace-style techno anthems. "
+          "text": ""
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "Thanks to technological developments in tools for producing and distributing recordings, reggaetón was no longer bound by Puerto Rico's shores or even the broader diasporic circuits in New York. Artists began to mix the dancehall-inspired riddims like the dembow template with the propulsive sounds of techno/tecno and later the \"tropical\" sounds of bachata and salsa. Established producers such as DJ Playero, DJ Nelson, and DJ Joe, as well as newcomers like DJ Blass, helped move the genre's primary sound sources from samples to synthesizers resonant of trance-style techno anthems. "
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -1012,6 +1098,14 @@
         "uuid": "5ee41cb5-b505-424e-8e30-73bd2a1f6c30"
       },
       "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -1122,6 +1216,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "uuid": "3ab6c772-8444-47eb-b98a-e1ac3ee34c9c",
       "includes": [
         "media",
@@ -1194,6 +1296,14 @@
         "uuid": "d4666744-86a3-4a50-ad8b-fdf07611e929"
       },
       "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -1528,6 +1638,6 @@
   "slug": "from-reggae-to-reggaeton",
   "created_at": "2026-03-13T23:04:10.557Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-13T22:03:25.342Z",
+  "updated_at": "2026-05-14T18:36:47.063Z",
   "updated_by": "derrek-powell"
 }
