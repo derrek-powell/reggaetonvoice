@@ -23,6 +23,15 @@
       "type": "paragraph",
       "children": [
         {
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "One of the most widely discussed features of Caribbean Spanish and a central resource in reggaetón is the variable realization of syllable-final /s/ (e.g., "
         },
         {
@@ -514,21 +523,76 @@
         {
           "text": ""
         }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": "Inspired by Delgado-Díaz et al (2021) and Mack (2011). Stances are marked with "
+        },
+        {
+          "text": "italics",
+          "italic": true
+        },
+        {
+          "text": ", "
+        },
+        {
+          "text": "traits/qualities",
+          "bold": true
+        },
+        {
+          "text": " in bold, and speaker categories/voices in boxes. "
+        },
+        {
+          "text": "Blue",
+          "color": "#77a5ee"
+        },
+        {
+          "text": " are indexical associations linked to sibilants /s/, black represents aspirations /h/, "
+        },
+        {
+          "text": "green",
+          "color": "#36ce40"
+        },
+        {
+          "text": " glottal stops /ʔ/, and "
+        },
+        {
+          "text": "red",
+          "color": "#ce3636"
+        },
+        {
+          "text": " full deletions. "
+        }
       ]
     },
     {
       "type": "paragraph",
+      "align": "justify",
       "children": [
         {
           "text": ""
         }
-      ],
-      "align": "justify"
+      ]
     },
     {
       "type": "horizontal-separator",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "textSize": "heading-two",
           "text": ""
         }
       ]
@@ -1062,9 +1126,10 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Powell (2025) found that artists of three unique Hispano-Caribbean origins all preferred reduction in music marketed as Latin Urban as opposed to music marketed as Tropical. While individual rates of deletion varied by artist, overall, the directions of effect were uniform. "
+                  "text": "Powell (2025) examined /s/ production by artists of three unique Hispano-Caribbean origins (Cuba, Dominican Republic, and Puerto Rico respectively) across market-imposed genre categories. Each artist showed a preference for reduction in performances marketed as Latin Urban as opposed to music marketed as Tropical. While individual rates of reduction varied by artist, overall, the directions of effect were uniform, and the contrast between genres was quite stark. "
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         },
@@ -1141,9 +1206,10 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Hayes (2023) found that, while the compared overall rate of reduction for Bad Bunny and J Balvin exhibits a stark contrast where the former reduces significantly more than the latter, these rates actually converge towards a \"middle ground\", suggesting alignment with an emergent phonological norm in reggaetón. "
+                  "text": "Hayes (2023) found that both Bad Bunny and J Balvin use s-reduction at different rates between interviews and their music. Accordingly, J Balvin uses significantly more /s/ in his interviews that his music, whereas Bad Bunny favors more /s/ in his music than interviews. While the overall rate of reduction exhibits a stark contrast between artists when singing, Hayes finds that the direction of effect from interviews to music actually suggests a convergence toward a \"middle ground\". This is interpreted as alignment with an emergent phonological norm in reggaetón. "
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         },
@@ -1218,9 +1284,10 @@
               "type": "paragraph",
               "children": [
                 {
-                  "text": "Powell (2024) found a similar convergence as Hayes in the performances of Anitta, Becky G, Karol G, and Natti Natasha. This study also identified that the prioritization of reduced variants has become more apparent in more recent years, in particular following the unprecedented success of Despacito. "
+                  "text": "Powell (2024) found a similar convergence as Hayes in the performances of Anitta, Becky G, Karol G, and Natti Natasha. This study also identified that the prioritization of reduced variants has become more apparent in more recent years, in particular following the unprecedented success of Despacito. Moreover, this study found that the presence and demographics of collaborating artists could influence production, such that Becky G was more likely to reduce variants when performing with a Caribbean artist rather than a Mexican performer. This suggests that /s/ reduction is not only a way of aligning with artistic conventions, but of tailoring the form of a performance to the imagined demographics of the target audience. "
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         },
@@ -1727,6 +1794,6 @@
   "slug": "alveolar-fricatives-in-coda",
   "created_at": "2026-03-14T00:01:39.983Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-13T22:49:00.362Z",
+  "updated_at": "2026-05-14T17:51:33.961Z",
   "updated_by": "derrek-powell"
 }
