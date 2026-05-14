@@ -687,7 +687,7 @@
       "align": "center",
       "children": [
         {
-          "text": "Inspired by [CITE]. Stances are marked with "
+          "text": "Inspired by Delgado-Díaz et al. (2021), Emmanuelli (2000), and Beaton (2015). Stances are marked with "
         },
         {
           "text": "italics",
@@ -1073,6 +1073,6 @@
   "slug": "alveolar-taps-in-coda",
   "created_at": "2026-03-14T00:15:16.919Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-14T20:28:22.359Z",
+  "updated_at": "2026-05-14T20:44:38.953Z",
   "updated_by": "derrek-powell"
 }
