@@ -120,6 +120,14 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "While this perspective offered an important starting point, it ultimately reduced singing to a dialectal phenomenon and overlooked the broader semiotic complexity of musical performance. Subsequent work has challenged this view by emphasizing the multimodal and context-specific nature of singing. Sound, rhythm, instrumentation, and embodiment all contribute to how place and identity are evoked, often in ways that exceed or override dialectal features. Moreover, singing cannot be treated as a straightforward extension of speech: differences in phonation, melody, and stylistic constraints mean that shifts between spoken and sung production may reflect the demands of the medium itself rather than an attempt to \"sound\" like any particular type of singer. "
         }
       ],
@@ -141,6 +149,15 @@
         }
       ],
       "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -195,6 +212,15 @@
       ]
     },
     {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "includes": [
         "media",
         "annotations",
@@ -215,6 +241,14 @@
         "type": "Video"
       },
       "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -393,6 +427,15 @@
       ]
     },
     {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "includes": [
         "media",
         "annotations",
@@ -447,6 +490,15 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "align": "center",
       "children": [
         {
@@ -475,6 +527,15 @@
         "type": "Video"
       },
       "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
       "children": [
         {
           "text": ""
@@ -1010,6 +1071,6 @@
   "slug": "singing-style",
   "created_at": "2026-03-13T23:02:07.262Z",
   "created_by": "derrek-powell",
-  "updated_at": "2026-05-14T17:52:26.417Z",
+  "updated_at": "2026-05-14T18:35:09.615Z",
   "updated_by": "derrek-powell"
 }
